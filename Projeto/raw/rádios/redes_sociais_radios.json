@@ -1,0 +1,5902 @@
+[
+    {
+        "Impressões e Alcance": {
+            "media_id": "4797fcc5-0346-4140-8483-521716d3e69a",
+            "impressions": 8207,
+            "reach": 877
+        },
+        "Taxa de Engajamento": {
+            "likes": 432,
+            "comments": 128,
+            "shares": 48,
+            "saves": 132
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 270,
+                "Female_18-24": 293,
+                "Male_25-34": 167,
+                "Female_25-34": 243,
+                "Male_35-44": 366,
+                "Female_35-44": 106
+            },
+            "audience_country": {
+                "USA": 4462,
+                "Brazil": 2252,
+                "India": 1247,
+                "Germany": 868
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "be65d7ce-78fc-499d-8020-aa849c7b9dd5",
+            "campaign_name": "quas",
+            "impressions": 2666,
+            "clicks": 708,
+            "spend": 68.16,
+            "actions": {
+                "conversions": 66,
+                "leads": 9
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "ca5a34e1-66d7-4af4-a6ca-214bbab0f81e",
+            "impressions": 8263,
+            "reach": 4114,
+            "link_clicks": 160,
+            "replies": 23
+        },
+        "Mensagens Diretas": {
+            "message_id": "bb144b23-be12-477b-b67d-0be12d3a0128",
+            "receiver_id": "7a0a69f4-04b0-44da-b699-2778ac2ec511",
+            "message": "O programa de hoje estava muito repetitivo, poderia variar mais.",
+            "reactions": {
+                "likes": 15,
+                "laughs": 5
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 9659
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "ecea936c-bcdc-4a6a-a827-0fd935679f59",
+            "impressions": 1230,
+            "reach": 2605
+        },
+        "Taxa de Engajamento": {
+            "likes": 142,
+            "comments": 323,
+            "shares": 138,
+            "saves": 36
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 238,
+                "Female_18-24": 282,
+                "Male_25-34": 244,
+                "Female_25-34": 189,
+                "Male_35-44": 362,
+                "Female_35-44": 485
+            },
+            "audience_country": {
+                "USA": 2484,
+                "Brazil": 2446,
+                "India": 955,
+                "Germany": 990
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "1c25e54e-ec40-4cf1-8c1b-11fd6a40e96a",
+            "campaign_name": "earum",
+            "impressions": 1117,
+            "clicks": 303,
+            "spend": 269.69,
+            "actions": {
+                "conversions": 40,
+                "leads": 45
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "408705d7-846b-402d-8413-0964dcdf0fbf",
+            "impressions": 2843,
+            "reach": 4370,
+            "link_clicks": 81,
+            "replies": 26
+        },
+        "Mensagens Diretas": {
+            "message_id": "d5f2ee95-20b6-4c72-819d-7630dba87ea0",
+            "receiver_id": "7b58635e-b017-4a35-8379-2b2e9bbd0a19",
+            "message": "A programação está muito interessante hoje, parabéns!",
+            "reactions": {
+                "likes": 66,
+                "laughs": 15
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 7295
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "1193b60a-e9bc-4c83-bb31-4a86707358b4",
+            "impressions": 3738,
+            "reach": 2726
+        },
+        "Taxa de Engajamento": {
+            "likes": 118,
+            "comments": 366,
+            "shares": 44,
+            "saves": 123
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 239,
+                "Female_18-24": 257,
+                "Male_25-34": 445,
+                "Female_25-34": 211,
+                "Male_35-44": 182,
+                "Female_35-44": 400
+            },
+            "audience_country": {
+                "USA": 2377,
+                "Brazil": 910,
+                "India": 1154,
+                "Germany": 176
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "ecb8d7a1-d292-4fb9-a23a-4f2009bfe97b",
+            "campaign_name": "nam",
+            "impressions": 9697,
+            "clicks": 293,
+            "spend": 143.57,
+            "actions": {
+                "conversions": 62,
+                "leads": 26
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "40bbc5ee-161f-46e6-a0e4-861a7f45f5d8",
+            "impressions": 9733,
+            "reach": 3758,
+            "link_clicks": 181,
+            "replies": 18
+        },
+        "Mensagens Diretas": {
+            "message_id": "37ea6886-0a4f-4af5-84f2-ee08ada69283",
+            "receiver_id": "b7b2ecf8-b1c5-486d-bfb6-b9aa0d915ced",
+            "message": "Adorei a programação de ontem à noite, foi muito divertida!",
+            "reactions": {
+                "likes": 69,
+                "laughs": 5
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 9718
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "91f925fe-6929-497b-b088-0188181ff179",
+            "impressions": 7368,
+            "reach": 1692
+        },
+        "Taxa de Engajamento": {
+            "likes": 972,
+            "comments": 182,
+            "shares": 81,
+            "saves": 40
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 196,
+                "Female_18-24": 364,
+                "Male_25-34": 300,
+                "Female_25-34": 214,
+                "Male_35-44": 110,
+                "Female_35-44": 276
+            },
+            "audience_country": {
+                "USA": 4894,
+                "Brazil": 1144,
+                "India": 1630,
+                "Germany": 472
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "ef524d40-15a3-4530-91e0-0605669fa836",
+            "campaign_name": "iusto",
+            "impressions": 9139,
+            "clicks": 609,
+            "spend": 372.41,
+            "actions": {
+                "conversions": 62,
+                "leads": 46
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "f1716862-09ff-4e14-95ba-84fcb2c5c9a4",
+            "impressions": 1885,
+            "reach": 1051,
+            "link_clicks": 173,
+            "replies": 38
+        },
+        "Mensagens Diretas": {
+            "message_id": "9419cc80-fd1c-4743-afb7-10827d0bbcdf",
+            "receiver_id": "449f4dd3-ef37-4af9-974f-6b9f9e44e568",
+            "message": "Agradeço pelo feedback rápido, a rádio é ótima!",
+            "reactions": {
+                "likes": 12,
+                "laughs": 15
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 6259
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "d358163d-349e-4429-aafa-59ddbb4c6b49",
+            "impressions": 7941,
+            "reach": 2893
+        },
+        "Taxa de Engajamento": {
+            "likes": 242,
+            "comments": 482,
+            "shares": 44,
+            "saves": 141
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 310,
+                "Female_18-24": 151,
+                "Male_25-34": 275,
+                "Female_25-34": 245,
+                "Male_35-44": 429,
+                "Female_35-44": 105
+            },
+            "audience_country": {
+                "USA": 4001,
+                "Brazil": 2129,
+                "India": 2933,
+                "Germany": 942
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "5cc9c2e4-4623-4060-909a-f2c499c13d18",
+            "campaign_name": "consectetur",
+            "impressions": 4898,
+            "clicks": 902,
+            "spend": 214.96,
+            "actions": {
+                "conversions": 25,
+                "leads": 39
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "7a0b1b9b-87dd-4612-85ca-50773e0e33bd",
+            "impressions": 9238,
+            "reach": 3934,
+            "link_clicks": 150,
+            "replies": 41
+        },
+        "Mensagens Diretas": {
+            "message_id": "0ec16626-24d8-4f99-a272-715714d32f2f",
+            "receiver_id": "6d7678dc-be6c-48d7-b29f-d498dafbf242",
+            "message": "Não estou conseguindo participar da promoção, o sistema parece estar com problemas.",
+            "reactions": {
+                "likes": 79,
+                "laughs": 4
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 3792
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "1a7bc73f-4348-411e-89fc-73e173f61487",
+            "impressions": 7921,
+            "reach": 900
+        },
+        "Taxa de Engajamento": {
+            "likes": 244,
+            "comments": 180,
+            "shares": 149,
+            "saves": 16
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 416,
+                "Female_18-24": 480,
+                "Male_25-34": 174,
+                "Female_25-34": 295,
+                "Male_35-44": 445,
+                "Female_35-44": 326
+            },
+            "audience_country": {
+                "USA": 3436,
+                "Brazil": 1725,
+                "India": 1754,
+                "Germany": 988
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "b9eee979-e6b6-48b6-9bea-a8c3e1d24e9a",
+            "campaign_name": "suscipit",
+            "impressions": 7172,
+            "clicks": 888,
+            "spend": 188.28,
+            "actions": {
+                "conversions": 92,
+                "leads": 18
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "58837fe2-a628-487c-aa24-2ac23c02cf4f",
+            "impressions": 3204,
+            "reach": 4368,
+            "link_clicks": 150,
+            "replies": 14
+        },
+        "Mensagens Diretas": {
+            "message_id": "d6776ee0-a8ca-4893-bce3-62f058961669",
+            "receiver_id": "fba179dd-a926-456c-80e6-da417fe40c67",
+            "message": "Tenho uma sugestão para a programação.",
+            "reactions": {
+                "likes": 86,
+                "laughs": 7
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 2759
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "b82e5d11-752c-4e01-b1e8-fc9b9fc70b36",
+            "impressions": 6146,
+            "reach": 4030
+        },
+        "Taxa de Engajamento": {
+            "likes": 406,
+            "comments": 50,
+            "shares": 178,
+            "saves": 51
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 391,
+                "Female_18-24": 237,
+                "Male_25-34": 289,
+                "Female_25-34": 499,
+                "Male_35-44": 205,
+                "Female_35-44": 327
+            },
+            "audience_country": {
+                "USA": 4408,
+                "Brazil": 2034,
+                "India": 2572,
+                "Germany": 860
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "f7a2382c-7a98-420c-87e9-7b02f058872b",
+            "campaign_name": "recusandae",
+            "impressions": 5504,
+            "clicks": 971,
+            "spend": 288.37,
+            "actions": {
+                "conversions": 31,
+                "leads": 13
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "09a6799d-ea8d-41f0-acec-7e2eb53b8d0d",
+            "impressions": 8884,
+            "reach": 1801,
+            "link_clicks": 162,
+            "replies": 39
+        },
+        "Mensagens Diretas": {
+            "message_id": "ec7e6564-7a38-4a51-ae11-131f279d7564",
+            "receiver_id": "9bdd0135-4537-415d-a3f6-c4871540eb3a",
+            "message": "A programação está muito interessante hoje, parabéns!",
+            "reactions": {
+                "likes": 31,
+                "laughs": 29
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 3501
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "e2fa7e24-a6c3-4a24-a577-e6be703209ef",
+            "impressions": 7092,
+            "reach": 1308
+        },
+        "Taxa de Engajamento": {
+            "likes": 165,
+            "comments": 379,
+            "shares": 162,
+            "saves": 12
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 422,
+                "Female_18-24": 150,
+                "Male_25-34": 218,
+                "Female_25-34": 355,
+                "Male_35-44": 316,
+                "Female_35-44": 188
+            },
+            "audience_country": {
+                "USA": 2199,
+                "Brazil": 1642,
+                "India": 2527,
+                "Germany": 631
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "fae01d3d-793f-4e4e-91da-d72a3210115f",
+            "campaign_name": "labore",
+            "impressions": 8547,
+            "clicks": 638,
+            "spend": 256.04,
+            "actions": {
+                "conversions": 76,
+                "leads": 6
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "c838b228-7708-4649-a33b-ae828c609cf9",
+            "impressions": 2025,
+            "reach": 564,
+            "link_clicks": 144,
+            "replies": 12
+        },
+        "Mensagens Diretas": {
+            "message_id": "e4998f75-f06e-402e-ae7d-d1953c9fdd5f",
+            "receiver_id": "4bf20964-257f-46fd-8430-0a8411050ac0",
+            "message": "Adoro o programa de entrevistas, gostaria de mais edições com convidados especiais.",
+            "reactions": {
+                "likes": 26,
+                "laughs": 12
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 1471
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "4ae4a7dd-8814-4713-91a3-322ef649119b",
+            "impressions": 9352,
+            "reach": 1284
+        },
+        "Taxa de Engajamento": {
+            "likes": 498,
+            "comments": 137,
+            "shares": 35,
+            "saves": 19
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 406,
+                "Female_18-24": 328,
+                "Male_25-34": 165,
+                "Female_25-34": 115,
+                "Male_35-44": 467,
+                "Female_35-44": 184
+            },
+            "audience_country": {
+                "USA": 3636,
+                "Brazil": 2343,
+                "India": 1159,
+                "Germany": 907
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "631b2d24-5af1-4e4e-9063-62c7aa6ce72d",
+            "campaign_name": "tempora",
+            "impressions": 3651,
+            "clicks": 660,
+            "spend": 159.69,
+            "actions": {
+                "conversions": 29,
+                "leads": 15
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "537c88b5-bf57-4497-92bd-3a9d75265dc8",
+            "impressions": 7785,
+            "reach": 4833,
+            "link_clicks": 97,
+            "replies": 13
+        },
+        "Mensagens Diretas": {
+            "message_id": "3e42c0ea-dfe9-404e-9125-15ebdc5d1e08",
+            "receiver_id": "08bc3b5a-1be7-49bc-81b9-c29b895b297c",
+            "message": "Gostaria de saber mais sobre o próximo evento promovido pela rádio.",
+            "reactions": {
+                "likes": 52,
+                "laughs": 48
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 7369
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "617ffe15-e386-4ae4-8e72-afa4edd79970",
+            "impressions": 6221,
+            "reach": 4364
+        },
+        "Taxa de Engajamento": {
+            "likes": 580,
+            "comments": 230,
+            "shares": 199,
+            "saves": 117
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 466,
+                "Female_18-24": 400,
+                "Male_25-34": 411,
+                "Female_25-34": 216,
+                "Male_35-44": 385,
+                "Female_35-44": 124
+            },
+            "audience_country": {
+                "USA": 3175,
+                "Brazil": 768,
+                "India": 1932,
+                "Germany": 816
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "855eba7b-c0a8-4846-a4ff-72724990121c",
+            "campaign_name": "itaque",
+            "impressions": 4848,
+            "clicks": 569,
+            "spend": 278.14,
+            "actions": {
+                "conversions": 46,
+                "leads": 7
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "79c821c3-ffd4-414f-9599-cedd27036cb4",
+            "impressions": 1458,
+            "reach": 4294,
+            "link_clicks": 34,
+            "replies": 13
+        },
+        "Mensagens Diretas": {
+            "message_id": "fd62a88f-520a-435f-ae49-bb04fe8794ff",
+            "receiver_id": "437d8acc-04e4-4053-bc73-f6ddf1196da7",
+            "message": "Adoro o programa de entrevistas, gostaria de mais edições com convidados especiais.",
+            "reactions": {
+                "likes": 2,
+                "laughs": 3
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 5610
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "7b8bc8dc-b4d5-4d0f-a0c4-6ca4b32b583f",
+            "impressions": 6970,
+            "reach": 3751
+        },
+        "Taxa de Engajamento": {
+            "likes": 420,
+            "comments": 314,
+            "shares": 122,
+            "saves": 74
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 255,
+                "Female_18-24": 105,
+                "Male_25-34": 399,
+                "Female_25-34": 375,
+                "Male_35-44": 162,
+                "Female_35-44": 305
+            },
+            "audience_country": {
+                "USA": 2074,
+                "Brazil": 586,
+                "India": 853,
+                "Germany": 794
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "0aa46d9b-99d7-457e-827d-b59bfc38266c",
+            "campaign_name": "adipisci",
+            "impressions": 6978,
+            "clicks": 475,
+            "spend": 135.23,
+            "actions": {
+                "conversions": 45,
+                "leads": 45
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "43d4dbef-1cd9-4d21-92a0-177688ab8cdc",
+            "impressions": 6347,
+            "reach": 814,
+            "link_clicks": 105,
+            "replies": 8
+        },
+        "Mensagens Diretas": {
+            "message_id": "33cc1c2f-e5f2-4a69-828d-ebd118b4ac44",
+            "receiver_id": "c58047a7-3039-4b60-b932-7b5db72b6681",
+            "message": "Quero sugerir uma nova faixa para a playlist da rádio.",
+            "reactions": {
+                "likes": 6,
+                "laughs": 17
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 2406
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "3c175964-f712-424b-bfce-b27e951b4894",
+            "impressions": 3919,
+            "reach": 4023
+        },
+        "Taxa de Engajamento": {
+            "likes": 899,
+            "comments": 157,
+            "shares": 144,
+            "saves": 113
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 318,
+                "Female_18-24": 255,
+                "Male_25-34": 469,
+                "Female_25-34": 423,
+                "Male_35-44": 152,
+                "Female_35-44": 157
+            },
+            "audience_country": {
+                "USA": 1256,
+                "Brazil": 2333,
+                "India": 1100,
+                "Germany": 216
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "c059883f-0ad3-4ff7-98d6-c9008573ee99",
+            "campaign_name": "fuga",
+            "impressions": 3723,
+            "clicks": 664,
+            "spend": 295.04,
+            "actions": {
+                "conversions": 46,
+                "leads": 25
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "d51525dc-1cdb-4d10-ae06-7a5bb6883a99",
+            "impressions": 3345,
+            "reach": 4887,
+            "link_clicks": 35,
+            "replies": 44
+        },
+        "Mensagens Diretas": {
+            "message_id": "7a64847f-fd70-4bbc-92b0-7f479b701567",
+            "receiver_id": "632e3ec2-b19e-4bfa-8200-9d4d552dd093",
+            "message": "Seria legal se vocês tocassem mais músicas nacionais.",
+            "reactions": {
+                "likes": 91,
+                "laughs": 48
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 9019
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "5063ea6d-210c-48da-9670-38ff38de271f",
+            "impressions": 8939,
+            "reach": 4333
+        },
+        "Taxa de Engajamento": {
+            "likes": 374,
+            "comments": 246,
+            "shares": 30,
+            "saves": 140
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 191,
+                "Female_18-24": 118,
+                "Male_25-34": 167,
+                "Female_25-34": 410,
+                "Male_35-44": 307,
+                "Female_35-44": 286
+            },
+            "audience_country": {
+                "USA": 3464,
+                "Brazil": 2797,
+                "India": 886,
+                "Germany": 983
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "ed9461db-3322-45b7-aa4c-1f3a1775345e",
+            "campaign_name": "vel",
+            "impressions": 8706,
+            "clicks": 938,
+            "spend": 401.05,
+            "actions": {
+                "conversions": 84,
+                "leads": 31
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "fa30cf8e-0174-4523-b007-18ab1869e41b",
+            "impressions": 2168,
+            "reach": 3496,
+            "link_clicks": 47,
+            "replies": 17
+        },
+        "Mensagens Diretas": {
+            "message_id": "5bcb43f7-d068-4ae9-bfb0-f198582bc4e7",
+            "receiver_id": "11ab0221-75c6-45b3-af8e-9ba1bfb1942a",
+            "message": "Seria legal se vocês tocassem mais músicas nacionais.",
+            "reactions": {
+                "likes": 4,
+                "laughs": 45
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 9157
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "baca6499-48bb-4466-abb6-a90ad70204e9",
+            "impressions": 5537,
+            "reach": 3285
+        },
+        "Taxa de Engajamento": {
+            "likes": 520,
+            "comments": 119,
+            "shares": 198,
+            "saves": 51
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 302,
+                "Female_18-24": 488,
+                "Male_25-34": 268,
+                "Female_25-34": 447,
+                "Male_35-44": 149,
+                "Female_35-44": 182
+            },
+            "audience_country": {
+                "USA": 4785,
+                "Brazil": 1935,
+                "India": 2008,
+                "Germany": 693
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "16bb98e1-bd88-4401-926a-181d0cfed1a2",
+            "campaign_name": "ex",
+            "impressions": 1940,
+            "clicks": 215,
+            "spend": 136.69,
+            "actions": {
+                "conversions": 83,
+                "leads": 35
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "a3984897-b879-4de9-8277-cee8bf60675a",
+            "impressions": 4940,
+            "reach": 4310,
+            "link_clicks": 122,
+            "replies": 35
+        },
+        "Mensagens Diretas": {
+            "message_id": "9d73aab7-4acd-451c-909f-d78bf80877cd",
+            "receiver_id": "69b44e90-327a-4f0a-b13a-3efdd875438f",
+            "message": "Adoro o programa de entrevistas, gostaria de mais edições com convidados especiais.",
+            "reactions": {
+                "likes": 0,
+                "laughs": 44
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 3183
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "01333626-6578-440f-a7ee-cb2d788360be",
+            "impressions": 9163,
+            "reach": 3711
+        },
+        "Taxa de Engajamento": {
+            "likes": 740,
+            "comments": 363,
+            "shares": 163,
+            "saves": 88
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 190,
+                "Female_18-24": 212,
+                "Male_25-34": 251,
+                "Female_25-34": 335,
+                "Male_35-44": 108,
+                "Female_35-44": 383
+            },
+            "audience_country": {
+                "USA": 1245,
+                "Brazil": 1256,
+                "India": 1415,
+                "Germany": 653
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "1b0d61a2-bfd0-49a4-b48f-3e497a4c5f84",
+            "campaign_name": "aliquid",
+            "impressions": 5504,
+            "clicks": 422,
+            "spend": 398.66,
+            "actions": {
+                "conversions": 66,
+                "leads": 40
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "b58d461c-934f-42f6-bf73-dd3e3b45010b",
+            "impressions": 2518,
+            "reach": 1403,
+            "link_clicks": 12,
+            "replies": 11
+        },
+        "Mensagens Diretas": {
+            "message_id": "b4566bbc-66bb-43ca-9c68-1d7a70ffd259",
+            "receiver_id": "11f22f72-6606-4adf-963b-14eca8e6c6b4",
+            "message": "Tenho uma dúvida sobre a programação.",
+            "reactions": {
+                "likes": 5,
+                "laughs": 34
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 2229
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "b6a67f50-04a5-4cce-9c36-84eed5d149ba",
+            "impressions": 6959,
+            "reach": 1374
+        },
+        "Taxa de Engajamento": {
+            "likes": 133,
+            "comments": 306,
+            "shares": 189,
+            "saves": 117
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 177,
+                "Female_18-24": 388,
+                "Male_25-34": 203,
+                "Female_25-34": 379,
+                "Male_35-44": 292,
+                "Female_35-44": 469
+            },
+            "audience_country": {
+                "USA": 1918,
+                "Brazil": 1869,
+                "India": 806,
+                "Germany": 247
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "4d2fc429-ade0-495d-a697-c447a432db16",
+            "campaign_name": "ipsa",
+            "impressions": 2130,
+            "clicks": 309,
+            "spend": 360.47,
+            "actions": {
+                "conversions": 76,
+                "leads": 46
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "8d95b6dc-08fc-43f3-bf8f-77f807a666c1",
+            "impressions": 5695,
+            "reach": 3099,
+            "link_clicks": 172,
+            "replies": 23
+        },
+        "Mensagens Diretas": {
+            "message_id": "5eb7f66d-308a-4a43-bd4b-52a751f0f4ca",
+            "receiver_id": "e80d048c-3893-4fe9-b3c4-1312a3beafad",
+            "message": "O programa de debates está muito bom, mas gostaria de ouvir mais opiniões diversas.",
+            "reactions": {
+                "likes": 93,
+                "laughs": 12
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 6117
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "2bcc4e5e-6712-416e-ad70-9268b5ea7ebe",
+            "impressions": 3522,
+            "reach": 2503
+        },
+        "Taxa de Engajamento": {
+            "likes": 561,
+            "comments": 237,
+            "shares": 70,
+            "saves": 51
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 187,
+                "Female_18-24": 316,
+                "Male_25-34": 440,
+                "Female_25-34": 197,
+                "Male_35-44": 247,
+                "Female_35-44": 400
+            },
+            "audience_country": {
+                "USA": 1183,
+                "Brazil": 2999,
+                "India": 676,
+                "Germany": 624
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "d5eb0c74-748d-43a8-995f-dd475c55f4b7",
+            "campaign_name": "delectus",
+            "impressions": 3449,
+            "clicks": 896,
+            "spend": 202.21,
+            "actions": {
+                "conversions": 12,
+                "leads": 44
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "8af55e66-ea18-4a43-8586-7eec8ad33962",
+            "impressions": 2118,
+            "reach": 1119,
+            "link_clicks": 47,
+            "replies": 45
+        },
+        "Mensagens Diretas": {
+            "message_id": "4b067611-9704-48e5-8114-a49299cc5750",
+            "receiver_id": "0fb00897-b537-42bf-acc5-2f5929d0781c",
+            "message": "Tenho uma dúvida sobre a programação.",
+            "reactions": {
+                "likes": 54,
+                "laughs": 12
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 2202
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "10baa628-2d79-4bfc-b9e3-566677007b91",
+            "impressions": 4319,
+            "reach": 3208
+        },
+        "Taxa de Engajamento": {
+            "likes": 498,
+            "comments": 367,
+            "shares": 166,
+            "saves": 86
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 330,
+                "Female_18-24": 221,
+                "Male_25-34": 358,
+                "Female_25-34": 308,
+                "Male_35-44": 105,
+                "Female_35-44": 321
+            },
+            "audience_country": {
+                "USA": 3540,
+                "Brazil": 1661,
+                "India": 972,
+                "Germany": 639
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "8100283b-d05b-4eba-8e1d-c67589effd23",
+            "campaign_name": "sint",
+            "impressions": 3115,
+            "clicks": 825,
+            "spend": 300.63,
+            "actions": {
+                "conversions": 26,
+                "leads": 7
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "69cac5bd-d73f-46a3-a33c-bd2d53664f9e",
+            "impressions": 8630,
+            "reach": 988,
+            "link_clicks": 172,
+            "replies": 49
+        },
+        "Mensagens Diretas": {
+            "message_id": "af6d1eec-cf66-4331-bd0b-a7c10eb7b939",
+            "receiver_id": "c86aa356-05f2-4e9d-99a8-0c555c0d907e",
+            "message": "Adoro o programa de entrevistas, gostaria de mais edições com convidados especiais.",
+            "reactions": {
+                "likes": 93,
+                "laughs": 22
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 6312
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "2bd51242-3cde-48e6-90e8-aaf05d4ace8a",
+            "impressions": 8068,
+            "reach": 1868
+        },
+        "Taxa de Engajamento": {
+            "likes": 675,
+            "comments": 376,
+            "shares": 139,
+            "saves": 90
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 474,
+                "Female_18-24": 145,
+                "Male_25-34": 468,
+                "Female_25-34": 362,
+                "Male_35-44": 369,
+                "Female_35-44": 335
+            },
+            "audience_country": {
+                "USA": 3640,
+                "Brazil": 2974,
+                "India": 1265,
+                "Germany": 353
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "5bdceaeb-2c62-4ea1-9f55-32b40b6a1477",
+            "campaign_name": "earum",
+            "impressions": 7251,
+            "clicks": 298,
+            "spend": 305.98,
+            "actions": {
+                "conversions": 42,
+                "leads": 33
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "89601485-0c79-47a6-a798-de646bbb5ac0",
+            "impressions": 4362,
+            "reach": 4498,
+            "link_clicks": 175,
+            "replies": 12
+        },
+        "Mensagens Diretas": {
+            "message_id": "d6c7a016-ca81-499a-a0ae-72e7734a792c",
+            "receiver_id": "fd60e70f-88e3-4d5e-ba7d-4abace237af4",
+            "message": "Quero sugerir uma nova faixa para a playlist da rádio.",
+            "reactions": {
+                "likes": 14,
+                "laughs": 50
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 3364
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "bb9e2ad3-14a7-4fe6-a384-bf0af6ef79b7",
+            "impressions": 6735,
+            "reach": 554
+        },
+        "Taxa de Engajamento": {
+            "likes": 398,
+            "comments": 362,
+            "shares": 106,
+            "saves": 82
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 395,
+                "Female_18-24": 295,
+                "Male_25-34": 342,
+                "Female_25-34": 307,
+                "Male_35-44": 218,
+                "Female_35-44": 274
+            },
+            "audience_country": {
+                "USA": 1968,
+                "Brazil": 1583,
+                "India": 1711,
+                "Germany": 393
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "7c208437-ee8f-49b9-baaf-95478c936800",
+            "campaign_name": "sapiente",
+            "impressions": 1207,
+            "clicks": 224,
+            "spend": 344.51,
+            "actions": {
+                "conversions": 44,
+                "leads": 45
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "ed9f5176-8995-4d13-97e2-7c87efa2b944",
+            "impressions": 7877,
+            "reach": 3268,
+            "link_clicks": 84,
+            "replies": 28
+        },
+        "Mensagens Diretas": {
+            "message_id": "c97b53fd-cbcf-4f45-94be-b002b1bc064c",
+            "receiver_id": "7e8bfec9-a88a-4648-9c34-6f0494adcfbe",
+            "message": "Não estou conseguindo participar da promoção, o sistema parece estar com problemas.",
+            "reactions": {
+                "likes": 55,
+                "laughs": 44
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 5091
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "846b6e74-4845-4909-bc81-0ae8de7a72cc",
+            "impressions": 2382,
+            "reach": 554
+        },
+        "Taxa de Engajamento": {
+            "likes": 908,
+            "comments": 65,
+            "shares": 97,
+            "saves": 132
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 234,
+                "Female_18-24": 300,
+                "Male_25-34": 141,
+                "Female_25-34": 110,
+                "Male_35-44": 425,
+                "Female_35-44": 111
+            },
+            "audience_country": {
+                "USA": 3195,
+                "Brazil": 858,
+                "India": 1608,
+                "Germany": 923
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "a1ab172d-47ca-427f-b726-7e69e2fca572",
+            "campaign_name": "quo",
+            "impressions": 5350,
+            "clicks": 283,
+            "spend": 197.35,
+            "actions": {
+                "conversions": 45,
+                "leads": 18
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "0da4ab45-59ff-4cb2-b092-0dc18cc371b3",
+            "impressions": 9727,
+            "reach": 3464,
+            "link_clicks": 20,
+            "replies": 32
+        },
+        "Mensagens Diretas": {
+            "message_id": "afadd104-ba61-4a6e-8956-846ae3e17288",
+            "receiver_id": "d34f8eb3-e6bb-49d6-8244-01438bd6fa56",
+            "message": "Gostaria de saber sobre os novos horários dos programas.",
+            "reactions": {
+                "likes": 42,
+                "laughs": 34
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 4763
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "bb98eea0-ff43-4ecd-aac2-c64cb74d5d0f",
+            "impressions": 5259,
+            "reach": 4682
+        },
+        "Taxa de Engajamento": {
+            "likes": 728,
+            "comments": 136,
+            "shares": 28,
+            "saves": 22
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 453,
+                "Female_18-24": 355,
+                "Male_25-34": 216,
+                "Female_25-34": 437,
+                "Male_35-44": 271,
+                "Female_35-44": 423
+            },
+            "audience_country": {
+                "USA": 4970,
+                "Brazil": 875,
+                "India": 942,
+                "Germany": 330
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "861efb26-fae8-430b-960b-a3c32ab8e89a",
+            "campaign_name": "ad",
+            "impressions": 8102,
+            "clicks": 278,
+            "spend": 97.61,
+            "actions": {
+                "conversions": 40,
+                "leads": 15
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "5fd42cbf-e749-43f0-9a23-ea575c78e28b",
+            "impressions": 1665,
+            "reach": 2302,
+            "link_clicks": 83,
+            "replies": 37
+        },
+        "Mensagens Diretas": {
+            "message_id": "42bb01d1-834d-4cca-90e7-fe5a59958787",
+            "receiver_id": "2aa86d66-6999-4035-a1dd-30c47db83d40",
+            "message": "Participei da promoção e gostaria de saber mais.",
+            "reactions": {
+                "likes": 70,
+                "laughs": 15
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 4525
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "ca3ddce8-f324-454a-9700-920b6ecd04ca",
+            "impressions": 6409,
+            "reach": 3332
+        },
+        "Taxa de Engajamento": {
+            "likes": 951,
+            "comments": 494,
+            "shares": 26,
+            "saves": 111
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 483,
+                "Female_18-24": 394,
+                "Male_25-34": 284,
+                "Female_25-34": 308,
+                "Male_35-44": 148,
+                "Female_35-44": 112
+            },
+            "audience_country": {
+                "USA": 2831,
+                "Brazil": 506,
+                "India": 1233,
+                "Germany": 854
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "7b0d31fd-9786-4541-8d53-bbd4dd1eb3fe",
+            "campaign_name": "rem",
+            "impressions": 7120,
+            "clicks": 450,
+            "spend": 262.34,
+            "actions": {
+                "conversions": 37,
+                "leads": 30
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "648a57a6-3638-4df3-91a8-797298a55ac6",
+            "impressions": 8577,
+            "reach": 1602,
+            "link_clicks": 72,
+            "replies": 12
+        },
+        "Mensagens Diretas": {
+            "message_id": "7b39ac67-6872-4574-ad6e-ab2753ec75a3",
+            "receiver_id": "d8b16f28-17e9-4286-a61f-a2d69aef22c3",
+            "message": "O conteúdo das notícias está muito bom, mas poderia ser mais atualizado.",
+            "reactions": {
+                "likes": 76,
+                "laughs": 31
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 3334
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "1850f30f-6e58-4cc6-86d2-46a1d4dd256d",
+            "impressions": 5487,
+            "reach": 2145
+        },
+        "Taxa de Engajamento": {
+            "likes": 616,
+            "comments": 202,
+            "shares": 117,
+            "saves": 93
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 437,
+                "Female_18-24": 440,
+                "Male_25-34": 357,
+                "Female_25-34": 284,
+                "Male_35-44": 387,
+                "Female_35-44": 389
+            },
+            "audience_country": {
+                "USA": 3002,
+                "Brazil": 2553,
+                "India": 2648,
+                "Germany": 871
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "8970e3db-0d83-4854-b431-ea1d6d012efa",
+            "campaign_name": "velit",
+            "impressions": 1656,
+            "clicks": 644,
+            "spend": 476.91,
+            "actions": {
+                "conversions": 50,
+                "leads": 13
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "4d56e8ab-781b-436f-a5af-ac5343c95ec8",
+            "impressions": 2928,
+            "reach": 4745,
+            "link_clicks": 187,
+            "replies": 28
+        },
+        "Mensagens Diretas": {
+            "message_id": "2d21fd6d-c3bd-4ca9-88ac-8b003df22e1e",
+            "receiver_id": "8afb1410-44a1-4830-8759-a3a146423332",
+            "message": "Gostaria de saber qual música foi tocada no início do programa.",
+            "reactions": {
+                "likes": 19,
+                "laughs": 7
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 5943
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "8e67f868-02bc-4cf6-8ea6-dcd2a5417b4c",
+            "impressions": 1190,
+            "reach": 995
+        },
+        "Taxa de Engajamento": {
+            "likes": 397,
+            "comments": 274,
+            "shares": 124,
+            "saves": 68
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 350,
+                "Female_18-24": 486,
+                "Male_25-34": 131,
+                "Female_25-34": 347,
+                "Male_35-44": 348,
+                "Female_35-44": 263
+            },
+            "audience_country": {
+                "USA": 1770,
+                "Brazil": 1554,
+                "India": 882,
+                "Germany": 533
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "cccf12f9-0a77-4dad-9d0d-addfc193e57c",
+            "campaign_name": "labore",
+            "impressions": 8009,
+            "clicks": 232,
+            "spend": 408.59,
+            "actions": {
+                "conversions": 61,
+                "leads": 38
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "d0514039-2654-4d6b-85a0-d96acd998b37",
+            "impressions": 3606,
+            "reach": 1002,
+            "link_clicks": 159,
+            "replies": 32
+        },
+        "Mensagens Diretas": {
+            "message_id": "2500220c-b1d3-4238-9084-dc400da3301d",
+            "receiver_id": "11f05f0c-2921-4567-b21b-3940bd8f30a7",
+            "message": "O conteúdo das notícias está muito bom, mas poderia ser mais atualizado.",
+            "reactions": {
+                "likes": 54,
+                "laughs": 25
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 7445
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "6e2f1ce4-2d46-47e9-9778-4f178fd914cf",
+            "impressions": 8732,
+            "reach": 3421
+        },
+        "Taxa de Engajamento": {
+            "likes": 693,
+            "comments": 307,
+            "shares": 157,
+            "saves": 141
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 471,
+                "Female_18-24": 117,
+                "Male_25-34": 319,
+                "Female_25-34": 326,
+                "Male_35-44": 150,
+                "Female_35-44": 177
+            },
+            "audience_country": {
+                "USA": 2774,
+                "Brazil": 1782,
+                "India": 2409,
+                "Germany": 717
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "13b15ee5-e8b2-4b0e-a436-14f0064d1d31",
+            "campaign_name": "rem",
+            "impressions": 2418,
+            "clicks": 453,
+            "spend": 470.81,
+            "actions": {
+                "conversions": 75,
+                "leads": 46
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "44e19875-910f-44f7-a3be-a442ca5764c8",
+            "impressions": 8106,
+            "reach": 3016,
+            "link_clicks": 114,
+            "replies": 34
+        },
+        "Mensagens Diretas": {
+            "message_id": "c8569c52-e2f3-418e-bed8-0329f57d4fcc",
+            "receiver_id": "e6406da7-3a3f-4819-a2e9-2f400134626c",
+            "message": "Quero reclamar sobre o som da rádio.",
+            "reactions": {
+                "likes": 14,
+                "laughs": 39
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 7576
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "20f45b0c-42b2-437e-8040-7a4551c2b500",
+            "impressions": 4437,
+            "reach": 926
+        },
+        "Taxa de Engajamento": {
+            "likes": 697,
+            "comments": 261,
+            "shares": 56,
+            "saves": 82
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 385,
+                "Female_18-24": 483,
+                "Male_25-34": 408,
+                "Female_25-34": 341,
+                "Male_35-44": 333,
+                "Female_35-44": 379
+            },
+            "audience_country": {
+                "USA": 4890,
+                "Brazil": 503,
+                "India": 1165,
+                "Germany": 438
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "925bb5bf-0c90-4c7c-ae49-b5730b2b382d",
+            "campaign_name": "exercitationem",
+            "impressions": 1942,
+            "clicks": 692,
+            "spend": 228.7,
+            "actions": {
+                "conversions": 60,
+                "leads": 18
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "f281b10f-7c09-45ab-9649-cceb33d96784",
+            "impressions": 4143,
+            "reach": 2637,
+            "link_clicks": 150,
+            "replies": 32
+        },
+        "Mensagens Diretas": {
+            "message_id": "1357fad7-59b9-4592-8f26-3e67c33ed75d",
+            "receiver_id": "175435ab-d8fe-424a-9efb-79e8bc5df090",
+            "message": "Estou dando um feedback sobre o programa de hoje.",
+            "reactions": {
+                "likes": 49,
+                "laughs": 38
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 6191
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "ec078e16-a04c-4b80-be27-f7c95d631d0f",
+            "impressions": 1107,
+            "reach": 757
+        },
+        "Taxa de Engajamento": {
+            "likes": 483,
+            "comments": 234,
+            "shares": 188,
+            "saves": 27
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 431,
+                "Female_18-24": 416,
+                "Male_25-34": 207,
+                "Female_25-34": 169,
+                "Male_35-44": 265,
+                "Female_35-44": 416
+            },
+            "audience_country": {
+                "USA": 1626,
+                "Brazil": 726,
+                "India": 1869,
+                "Germany": 500
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "689c7492-81fd-4677-b82f-7813a2157802",
+            "campaign_name": "ipsum",
+            "impressions": 7813,
+            "clicks": 778,
+            "spend": 362.4,
+            "actions": {
+                "conversions": 13,
+                "leads": 30
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "2fecc9e0-fdbf-4af2-84b2-3a46d2ae509d",
+            "impressions": 8261,
+            "reach": 4725,
+            "link_clicks": 23,
+            "replies": 3
+        },
+        "Mensagens Diretas": {
+            "message_id": "62055acb-a770-4ecd-b6f2-101c173a57a8",
+            "receiver_id": "f1329a27-e9c0-4315-93a7-be787aa4c76e",
+            "message": "Gostaria de saber sobre os novos horários dos programas.",
+            "reactions": {
+                "likes": 27,
+                "laughs": 3
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 6887
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "71d60e75-af39-4785-82b3-b70eeab83959",
+            "impressions": 5696,
+            "reach": 1205
+        },
+        "Taxa de Engajamento": {
+            "likes": 875,
+            "comments": 72,
+            "shares": 75,
+            "saves": 116
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 171,
+                "Female_18-24": 167,
+                "Male_25-34": 216,
+                "Female_25-34": 318,
+                "Male_35-44": 383,
+                "Female_35-44": 266
+            },
+            "audience_country": {
+                "USA": 4073,
+                "Brazil": 2119,
+                "India": 1130,
+                "Germany": 314
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "4f43cc1d-83b7-4a24-8ef2-ea4e48d2ca49",
+            "campaign_name": "laboriosam",
+            "impressions": 9700,
+            "clicks": 694,
+            "spend": 340.27,
+            "actions": {
+                "conversions": 76,
+                "leads": 5
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "39753ebb-1989-4d48-8403-280f0ac0b805",
+            "impressions": 6295,
+            "reach": 4438,
+            "link_clicks": 134,
+            "replies": 14
+        },
+        "Mensagens Diretas": {
+            "message_id": "4e8eb7fe-e82c-4a41-b1e0-e1962c4666a8",
+            "receiver_id": "3f254aa8-bfc1-44f8-8683-4087735fe556",
+            "message": "Amei a última promoção, seria interessante ter mais como essa.",
+            "reactions": {
+                "likes": 73,
+                "laughs": 20
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 4216
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "f9c2e24f-2d73-4493-9276-ed7bbcf934d1",
+            "impressions": 8007,
+            "reach": 1634
+        },
+        "Taxa de Engajamento": {
+            "likes": 325,
+            "comments": 467,
+            "shares": 108,
+            "saves": 37
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 272,
+                "Female_18-24": 177,
+                "Male_25-34": 196,
+                "Female_25-34": 241,
+                "Male_35-44": 343,
+                "Female_35-44": 256
+            },
+            "audience_country": {
+                "USA": 3801,
+                "Brazil": 1706,
+                "India": 1595,
+                "Germany": 611
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "5b0d64ee-6ccc-42d2-807e-7680874010c5",
+            "campaign_name": "pariatur",
+            "impressions": 1005,
+            "clicks": 631,
+            "spend": 170.7,
+            "actions": {
+                "conversions": 93,
+                "leads": 12
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "6b579ee1-354f-4b58-892c-667b5ce35dff",
+            "impressions": 2778,
+            "reach": 2674,
+            "link_clicks": 106,
+            "replies": 50
+        },
+        "Mensagens Diretas": {
+            "message_id": "eafb269e-c3fe-47e5-9d77-3f8f5e57da5b",
+            "receiver_id": "a67acd09-0167-4eff-b787-27d1cd5e0eac",
+            "message": "Quero reclamar sobre o som da rádio.",
+            "reactions": {
+                "likes": 45,
+                "laughs": 0
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 6663
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "922e4f03-c9e4-4786-baa5-4a7e646e7c2d",
+            "impressions": 4787,
+            "reach": 3190
+        },
+        "Taxa de Engajamento": {
+            "likes": 729,
+            "comments": 96,
+            "shares": 176,
+            "saves": 91
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 353,
+                "Female_18-24": 423,
+                "Male_25-34": 329,
+                "Female_25-34": 458,
+                "Male_35-44": 384,
+                "Female_35-44": 253
+            },
+            "audience_country": {
+                "USA": 3678,
+                "Brazil": 2034,
+                "India": 2591,
+                "Germany": 411
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "b149d36d-e1ec-4f21-9026-3c0296d285e4",
+            "campaign_name": "ratione",
+            "impressions": 9437,
+            "clicks": 429,
+            "spend": 435.74,
+            "actions": {
+                "conversions": 33,
+                "leads": 14
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "ec63fa0d-33f7-4038-b9fd-409e731a8b8d",
+            "impressions": 1663,
+            "reach": 1921,
+            "link_clicks": 138,
+            "replies": 25
+        },
+        "Mensagens Diretas": {
+            "message_id": "120f5511-860c-4115-917f-3a48550fd756",
+            "receiver_id": "1a8a5a34-8cff-482b-8cbf-67ca4ad310d5",
+            "message": "O programa de culinária é excelente, só gostaria de mais receitas!",
+            "reactions": {
+                "likes": 91,
+                "laughs": 41
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 9346
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "f2bd1f0e-4a70-4f49-ac8f-36775762eca0",
+            "impressions": 5239,
+            "reach": 1747
+        },
+        "Taxa de Engajamento": {
+            "likes": 252,
+            "comments": 389,
+            "shares": 186,
+            "saves": 33
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 152,
+                "Female_18-24": 494,
+                "Male_25-34": 279,
+                "Female_25-34": 179,
+                "Male_35-44": 149,
+                "Female_35-44": 330
+            },
+            "audience_country": {
+                "USA": 4984,
+                "Brazil": 1779,
+                "India": 1231,
+                "Germany": 796
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "e68503f9-2219-4b4f-819e-34fdc870f238",
+            "campaign_name": "illo",
+            "impressions": 7741,
+            "clicks": 206,
+            "spend": 333.28,
+            "actions": {
+                "conversions": 46,
+                "leads": 19
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "4e43c412-11df-4cd9-a94d-eae5ea2fbc47",
+            "impressions": 4175,
+            "reach": 3656,
+            "link_clicks": 147,
+            "replies": 21
+        },
+        "Mensagens Diretas": {
+            "message_id": "e2a0d625-a10f-4a9d-b354-0dc5c2822116",
+            "receiver_id": "8df36fa3-69d8-4a4d-9de9-9ebe2449d0fa",
+            "message": "Adorei a programação de ontem à noite, foi muito divertida!",
+            "reactions": {
+                "likes": 45,
+                "laughs": 17
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 9363
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "fbb477e0-63f4-4575-804e-c601de8778c3",
+            "impressions": 9915,
+            "reach": 4037
+        },
+        "Taxa de Engajamento": {
+            "likes": 746,
+            "comments": 416,
+            "shares": 12,
+            "saves": 132
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 418,
+                "Female_18-24": 105,
+                "Male_25-34": 482,
+                "Female_25-34": 335,
+                "Male_35-44": 393,
+                "Female_35-44": 368
+            },
+            "audience_country": {
+                "USA": 1203,
+                "Brazil": 2830,
+                "India": 509,
+                "Germany": 736
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "fa94774b-2f7b-4992-a815-6659f0f98856",
+            "campaign_name": "laboriosam",
+            "impressions": 5966,
+            "clicks": 426,
+            "spend": 360.33,
+            "actions": {
+                "conversions": 87,
+                "leads": 38
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "01c90141-a3f5-4b1d-b874-4830ed16af7e",
+            "impressions": 3063,
+            "reach": 3093,
+            "link_clicks": 193,
+            "replies": 9
+        },
+        "Mensagens Diretas": {
+            "message_id": "308cbb26-e4ab-4e4d-816b-1e131b1fc0d8",
+            "receiver_id": "b4de5462-e305-4b88-9486-010f8821f85e",
+            "message": "Agradeço pelo feedback rápido, a rádio é ótima!",
+            "reactions": {
+                "likes": 61,
+                "laughs": 41
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 4127
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "4eb3a2d9-d2c3-42ca-ae37-9d2f56123727",
+            "impressions": 7551,
+            "reach": 3170
+        },
+        "Taxa de Engajamento": {
+            "likes": 857,
+            "comments": 54,
+            "shares": 64,
+            "saves": 40
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 155,
+                "Female_18-24": 367,
+                "Male_25-34": 367,
+                "Female_25-34": 409,
+                "Male_35-44": 306,
+                "Female_35-44": 230
+            },
+            "audience_country": {
+                "USA": 3449,
+                "Brazil": 2398,
+                "India": 1952,
+                "Germany": 914
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "dad79fa3-7137-4bb8-9ff2-51ccbf40c1b2",
+            "campaign_name": "magni",
+            "impressions": 1155,
+            "clicks": 325,
+            "spend": 487.3,
+            "actions": {
+                "conversions": 38,
+                "leads": 10
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "9e62ee53-b23e-48b5-aee1-5a7da52b155b",
+            "impressions": 9936,
+            "reach": 4665,
+            "link_clicks": 142,
+            "replies": 31
+        },
+        "Mensagens Diretas": {
+            "message_id": "085686c0-d4aa-45c4-90b1-65b470e683eb",
+            "receiver_id": "f08ea05c-039b-4029-acc2-5aaf32789d01",
+            "message": "O programa de debates está muito bom, mas gostaria de ouvir mais opiniões diversas.",
+            "reactions": {
+                "likes": 73,
+                "laughs": 9
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 7851
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "725df664-f641-4a7c-a631-6373fb88201b",
+            "impressions": 8522,
+            "reach": 3598
+        },
+        "Taxa de Engajamento": {
+            "likes": 738,
+            "comments": 157,
+            "shares": 30,
+            "saves": 20
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 137,
+                "Female_18-24": 362,
+                "Male_25-34": 361,
+                "Female_25-34": 108,
+                "Male_35-44": 290,
+                "Female_35-44": 112
+            },
+            "audience_country": {
+                "USA": 1884,
+                "Brazil": 1392,
+                "India": 2364,
+                "Germany": 876
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "bac87209-03cb-4aea-a888-f204859aace3",
+            "campaign_name": "ut",
+            "impressions": 9842,
+            "clicks": 910,
+            "spend": 289.86,
+            "actions": {
+                "conversions": 77,
+                "leads": 14
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "97eb3778-87d2-451e-8039-7f2fc061aa4b",
+            "impressions": 4945,
+            "reach": 2308,
+            "link_clicks": 97,
+            "replies": 35
+        },
+        "Mensagens Diretas": {
+            "message_id": "430d2bd9-309f-4e09-8f26-e8cbf9de23c1",
+            "receiver_id": "6726b6e2-edc1-4a31-b02b-dc56267654e2",
+            "message": "O programa de culinária é excelente, só gostaria de mais receitas!",
+            "reactions": {
+                "likes": 8,
+                "laughs": 46
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 9749
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "badb8d74-e2dc-4d50-a502-51b655f06603",
+            "impressions": 1107,
+            "reach": 2598
+        },
+        "Taxa de Engajamento": {
+            "likes": 986,
+            "comments": 287,
+            "shares": 167,
+            "saves": 52
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 254,
+                "Female_18-24": 347,
+                "Male_25-34": 281,
+                "Female_25-34": 455,
+                "Male_35-44": 155,
+                "Female_35-44": 127
+            },
+            "audience_country": {
+                "USA": 1247,
+                "Brazil": 1690,
+                "India": 1612,
+                "Germany": 145
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "af6065a0-9cb7-4225-962f-240c0aa85d0b",
+            "campaign_name": "vel",
+            "impressions": 2306,
+            "clicks": 887,
+            "spend": 328.18,
+            "actions": {
+                "conversions": 81,
+                "leads": 14
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "1b23bc16-4078-4971-823e-0d16d89e8c5e",
+            "impressions": 5303,
+            "reach": 4534,
+            "link_clicks": 63,
+            "replies": 21
+        },
+        "Mensagens Diretas": {
+            "message_id": "a20b0d81-ed23-49d9-b542-357743cb110c",
+            "receiver_id": "3bc746c8-a36e-4fb1-885b-4583e46e74ca",
+            "message": "Gostaria de saber sobre os novos horários dos programas.",
+            "reactions": {
+                "likes": 68,
+                "laughs": 15
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 6384
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "745a39f6-5ac7-4974-96df-b90a1cfbf1b3",
+            "impressions": 4468,
+            "reach": 1861
+        },
+        "Taxa de Engajamento": {
+            "likes": 539,
+            "comments": 316,
+            "shares": 155,
+            "saves": 44
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 197,
+                "Female_18-24": 268,
+                "Male_25-34": 362,
+                "Female_25-34": 359,
+                "Male_35-44": 307,
+                "Female_35-44": 433
+            },
+            "audience_country": {
+                "USA": 1073,
+                "Brazil": 2892,
+                "India": 1327,
+                "Germany": 276
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "d514e8e7-4410-4a78-bb91-3d310ea10b0d",
+            "campaign_name": "sequi",
+            "impressions": 2168,
+            "clicks": 685,
+            "spend": 399.38,
+            "actions": {
+                "conversions": 86,
+                "leads": 18
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "f56977a9-dcfb-4cf8-93a7-35ca026a8e65",
+            "impressions": 8840,
+            "reach": 1929,
+            "link_clicks": 104,
+            "replies": 30
+        },
+        "Mensagens Diretas": {
+            "message_id": "567cadec-f2f8-4a7e-adb3-acdb91f17721",
+            "receiver_id": "bc0d7c67-cdd8-4cad-8089-3a806bd3e16a",
+            "message": "Acho que o áudio da rádio está ruim.",
+            "reactions": {
+                "likes": 32,
+                "laughs": 28
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 9428
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "6ff30d4a-5852-4198-9cfc-9cb650a70562",
+            "impressions": 4974,
+            "reach": 4223
+        },
+        "Taxa de Engajamento": {
+            "likes": 874,
+            "comments": 199,
+            "shares": 103,
+            "saves": 122
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 241,
+                "Female_18-24": 147,
+                "Male_25-34": 438,
+                "Female_25-34": 293,
+                "Male_35-44": 296,
+                "Female_35-44": 344
+            },
+            "audience_country": {
+                "USA": 3892,
+                "Brazil": 610,
+                "India": 1110,
+                "Germany": 605
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "232e7dfa-2920-44ea-83d9-16dadc93dc45",
+            "campaign_name": "eligendi",
+            "impressions": 4276,
+            "clicks": 918,
+            "spend": 444.22,
+            "actions": {
+                "conversions": 98,
+                "leads": 34
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "a11c4b0a-0a4a-4974-9506-99200ab922be",
+            "impressions": 3656,
+            "reach": 3657,
+            "link_clicks": 185,
+            "replies": 4
+        },
+        "Mensagens Diretas": {
+            "message_id": "c12d3ef9-85a0-4ff8-a248-02c5e3854a37",
+            "receiver_id": "1224745b-9152-4f54-8bf3-467d9adbc514",
+            "message": "Tenho uma sugestão para a programação.",
+            "reactions": {
+                "likes": 44,
+                "laughs": 49
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 1190
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "8b4d3a12-586f-4e17-a5d9-cb499f437258",
+            "impressions": 8592,
+            "reach": 3965
+        },
+        "Taxa de Engajamento": {
+            "likes": 122,
+            "comments": 340,
+            "shares": 11,
+            "saves": 128
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 455,
+                "Female_18-24": 472,
+                "Male_25-34": 413,
+                "Female_25-34": 336,
+                "Male_35-44": 166,
+                "Female_35-44": 490
+            },
+            "audience_country": {
+                "USA": 4192,
+                "Brazil": 1851,
+                "India": 1576,
+                "Germany": 721
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "e827c2a2-aaa5-4ad3-84b6-33741dfe5318",
+            "campaign_name": "nostrum",
+            "impressions": 3900,
+            "clicks": 723,
+            "spend": 57.08,
+            "actions": {
+                "conversions": 45,
+                "leads": 46
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "d8c4ebc2-8347-4a3f-b3cf-ec9b4fc14d86",
+            "impressions": 4396,
+            "reach": 2651,
+            "link_clicks": 52,
+            "replies": 22
+        },
+        "Mensagens Diretas": {
+            "message_id": "2932c093-14b6-4edb-8da4-cf24ae41a04b",
+            "receiver_id": "872f4dac-7583-4159-aee1-96a3a414689d",
+            "message": "Seria legal se vocês tocassem mais músicas nacionais.",
+            "reactions": {
+                "likes": 79,
+                "laughs": 23
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 3906
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "c686d5d2-a36b-4ecf-8101-aceb67a00d47",
+            "impressions": 3045,
+            "reach": 4751
+        },
+        "Taxa de Engajamento": {
+            "likes": 733,
+            "comments": 231,
+            "shares": 171,
+            "saves": 74
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 140,
+                "Female_18-24": 354,
+                "Male_25-34": 484,
+                "Female_25-34": 179,
+                "Male_35-44": 454,
+                "Female_35-44": 479
+            },
+            "audience_country": {
+                "USA": 1757,
+                "Brazil": 2610,
+                "India": 2836,
+                "Germany": 353
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "4571c566-998e-4999-a45d-9ecb10de739d",
+            "campaign_name": "quas",
+            "impressions": 8026,
+            "clicks": 343,
+            "spend": 215.23,
+            "actions": {
+                "conversions": 10,
+                "leads": 39
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "385aab4e-7898-4644-9fd7-a8bfe1471d74",
+            "impressions": 3096,
+            "reach": 4679,
+            "link_clicks": 191,
+            "replies": 21
+        },
+        "Mensagens Diretas": {
+            "message_id": "56e727f4-f6cc-4573-ab7b-ebcae1966936",
+            "receiver_id": "2ea08e83-23d9-4a19-8828-7e6b3f56f2e7",
+            "message": "O programa de debates está muito bom, mas gostaria de ouvir mais opiniões diversas.",
+            "reactions": {
+                "likes": 97,
+                "laughs": 17
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 3432
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "79aeae9b-c931-45ba-bee8-a2580cd64c76",
+            "impressions": 4781,
+            "reach": 3510
+        },
+        "Taxa de Engajamento": {
+            "likes": 675,
+            "comments": 451,
+            "shares": 94,
+            "saves": 83
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 329,
+                "Female_18-24": 415,
+                "Male_25-34": 355,
+                "Female_25-34": 411,
+                "Male_35-44": 263,
+                "Female_35-44": 300
+            },
+            "audience_country": {
+                "USA": 1405,
+                "Brazil": 1626,
+                "India": 994,
+                "Germany": 365
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "e1a27ee8-5933-4dfe-9e2c-f3e9ad9d55f4",
+            "campaign_name": "minus",
+            "impressions": 1441,
+            "clicks": 910,
+            "spend": 86.85,
+            "actions": {
+                "conversions": 96,
+                "leads": 16
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "370626ec-8372-4e0f-9aa8-ed197cdc9e8f",
+            "impressions": 5329,
+            "reach": 764,
+            "link_clicks": 35,
+            "replies": 39
+        },
+        "Mensagens Diretas": {
+            "message_id": "610bd006-871e-45d5-a6fd-4f3c94f1c7b3",
+            "receiver_id": "e08e6a58-8967-4275-8e6d-c847b742b423",
+            "message": "Acho que o áudio da rádio está ruim.",
+            "reactions": {
+                "likes": 18,
+                "laughs": 37
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 8308
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "89409b95-ce7c-46f1-8d4c-9fc92e1a5d66",
+            "impressions": 8845,
+            "reach": 1698
+        },
+        "Taxa de Engajamento": {
+            "likes": 492,
+            "comments": 100,
+            "shares": 94,
+            "saves": 12
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 156,
+                "Female_18-24": 186,
+                "Male_25-34": 369,
+                "Female_25-34": 368,
+                "Male_35-44": 373,
+                "Female_35-44": 176
+            },
+            "audience_country": {
+                "USA": 3147,
+                "Brazil": 653,
+                "India": 1149,
+                "Germany": 335
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "5badc8f2-4a9e-488a-9212-34d5bc65a7f5",
+            "campaign_name": "quas",
+            "impressions": 2681,
+            "clicks": 883,
+            "spend": 450.57,
+            "actions": {
+                "conversions": 100,
+                "leads": 39
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "f91a5a7c-fbbd-45f1-bd9e-f12898497bcc",
+            "impressions": 1518,
+            "reach": 851,
+            "link_clicks": 89,
+            "replies": 8
+        },
+        "Mensagens Diretas": {
+            "message_id": "68cfd511-cb06-4425-9c96-9af312a60072",
+            "receiver_id": "bcf4781e-9408-4a55-9531-e6dbc918c792",
+            "message": "O programa de culinária é excelente, só gostaria de mais receitas!",
+            "reactions": {
+                "likes": 99,
+                "laughs": 38
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 2111
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "aea15ccc-130e-4102-8e0e-b5b86f7dd3d4",
+            "impressions": 4221,
+            "reach": 4366
+        },
+        "Taxa de Engajamento": {
+            "likes": 923,
+            "comments": 84,
+            "shares": 13,
+            "saves": 80
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 337,
+                "Female_18-24": 280,
+                "Male_25-34": 400,
+                "Female_25-34": 452,
+                "Male_35-44": 480,
+                "Female_35-44": 220
+            },
+            "audience_country": {
+                "USA": 3653,
+                "Brazil": 1202,
+                "India": 1056,
+                "Germany": 221
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "e777e34f-a459-46a7-ad59-866594dfa32d",
+            "campaign_name": "iure",
+            "impressions": 6293,
+            "clicks": 263,
+            "spend": 191.69,
+            "actions": {
+                "conversions": 36,
+                "leads": 5
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "7e472932-5df7-4be4-807e-d9110b72c945",
+            "impressions": 7517,
+            "reach": 2212,
+            "link_clicks": 114,
+            "replies": 35
+        },
+        "Mensagens Diretas": {
+            "message_id": "ca88d5c2-618c-4832-b9be-b33849120a54",
+            "receiver_id": "439d53e5-60a0-49df-9354-cdb61aa37211",
+            "message": "Gostei muito do programa, parabéns!",
+            "reactions": {
+                "likes": 18,
+                "laughs": 2
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 7393
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "169efd56-d70d-42b4-afc2-9c570b087ebb",
+            "impressions": 8598,
+            "reach": 1072
+        },
+        "Taxa de Engajamento": {
+            "likes": 405,
+            "comments": 263,
+            "shares": 37,
+            "saves": 34
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 483,
+                "Female_18-24": 411,
+                "Male_25-34": 311,
+                "Female_25-34": 221,
+                "Male_35-44": 244,
+                "Female_35-44": 399
+            },
+            "audience_country": {
+                "USA": 2364,
+                "Brazil": 2901,
+                "India": 732,
+                "Germany": 632
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "260a383c-a5fb-44a6-975b-6cf9869360b7",
+            "campaign_name": "explicabo",
+            "impressions": 3172,
+            "clicks": 998,
+            "spend": 341.68,
+            "actions": {
+                "conversions": 44,
+                "leads": 7
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "129f2e30-3952-4e63-8c03-5530fcc07d1c",
+            "impressions": 6283,
+            "reach": 4702,
+            "link_clicks": 37,
+            "replies": 20
+        },
+        "Mensagens Diretas": {
+            "message_id": "aa191676-5163-470a-b895-5154daa1587b",
+            "receiver_id": "5d9b502d-847e-424d-be37-704b3b42d0d5",
+            "message": "A programação está muito interessante hoje, parabéns!",
+            "reactions": {
+                "likes": 8,
+                "laughs": 17
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 3722
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "9f46d122-f4e0-4989-973f-dbdf8733d864",
+            "impressions": 2938,
+            "reach": 1730
+        },
+        "Taxa de Engajamento": {
+            "likes": 791,
+            "comments": 429,
+            "shares": 67,
+            "saves": 86
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 110,
+                "Female_18-24": 448,
+                "Male_25-34": 106,
+                "Female_25-34": 362,
+                "Male_35-44": 218,
+                "Female_35-44": 154
+            },
+            "audience_country": {
+                "USA": 4225,
+                "Brazil": 638,
+                "India": 1172,
+                "Germany": 429
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "16ec9e0a-21e5-4d72-a8f5-2156d1115c52",
+            "campaign_name": "modi",
+            "impressions": 8525,
+            "clicks": 107,
+            "spend": 229.25,
+            "actions": {
+                "conversions": 30,
+                "leads": 30
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "6b1f3869-dc8f-4ba4-832b-b6551b542ac0",
+            "impressions": 7860,
+            "reach": 3197,
+            "link_clicks": 32,
+            "replies": 10
+        },
+        "Mensagens Diretas": {
+            "message_id": "49f70d62-f887-4a93-bed0-24ef12352920",
+            "receiver_id": "2bf02940-bf4f-4e9a-86fc-cb8896ffc9dc",
+            "message": "Tenho uma ideia para um novo quadro, gostaria de compartilhar com vocês.",
+            "reactions": {
+                "likes": 56,
+                "laughs": 30
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 3416
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "da5444ef-ad48-48d8-b9f4-b74458cc8bbc",
+            "impressions": 3865,
+            "reach": 2207
+        },
+        "Taxa de Engajamento": {
+            "likes": 123,
+            "comments": 311,
+            "shares": 158,
+            "saves": 102
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 196,
+                "Female_18-24": 292,
+                "Male_25-34": 457,
+                "Female_25-34": 376,
+                "Male_35-44": 371,
+                "Female_35-44": 127
+            },
+            "audience_country": {
+                "USA": 2360,
+                "Brazil": 1151,
+                "India": 2049,
+                "Germany": 124
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "b0b05a7b-4045-4d61-a665-2e5a1793d479",
+            "campaign_name": "qui",
+            "impressions": 9174,
+            "clicks": 915,
+            "spend": 330.82,
+            "actions": {
+                "conversions": 30,
+                "leads": 33
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "70409c68-02a6-417f-b086-3f879e4465c2",
+            "impressions": 9214,
+            "reach": 1522,
+            "link_clicks": 12,
+            "replies": 10
+        },
+        "Mensagens Diretas": {
+            "message_id": "34dd776a-5ac1-4a54-bbc0-1293590ef80a",
+            "receiver_id": "1bbecb95-a51c-4d2e-8172-75ea7106ee1a",
+            "message": "Amei a última promoção, seria interessante ter mais como essa.",
+            "reactions": {
+                "likes": 60,
+                "laughs": 48
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 3003
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "9475f392-b795-44e0-b3d0-bd818a9ff001",
+            "impressions": 7546,
+            "reach": 4459
+        },
+        "Taxa de Engajamento": {
+            "likes": 565,
+            "comments": 421,
+            "shares": 86,
+            "saves": 25
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 281,
+                "Female_18-24": 111,
+                "Male_25-34": 112,
+                "Female_25-34": 193,
+                "Male_35-44": 300,
+                "Female_35-44": 225
+            },
+            "audience_country": {
+                "USA": 4247,
+                "Brazil": 2249,
+                "India": 1619,
+                "Germany": 461
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "07ef0bf4-325e-4477-9525-eaf13718cec2",
+            "campaign_name": "fugit",
+            "impressions": 5181,
+            "clicks": 600,
+            "spend": 364.2,
+            "actions": {
+                "conversions": 61,
+                "leads": 37
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "acb05e00-2e12-4f98-95fe-54deda03850b",
+            "impressions": 1084,
+            "reach": 2881,
+            "link_clicks": 44,
+            "replies": 35
+        },
+        "Mensagens Diretas": {
+            "message_id": "95e51342-c59e-4666-9e89-c9e2ba6f1341",
+            "receiver_id": "67a22939-698a-474a-8503-46cf1ae9a420",
+            "message": "O programa de debates está muito bom, mas gostaria de ouvir mais opiniões diversas.",
+            "reactions": {
+                "likes": 99,
+                "laughs": 31
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 5189
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "f66ffa7e-1f97-4298-bebc-8f641572e1d2",
+            "impressions": 8071,
+            "reach": 2057
+        },
+        "Taxa de Engajamento": {
+            "likes": 997,
+            "comments": 344,
+            "shares": 154,
+            "saves": 36
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 374,
+                "Female_18-24": 327,
+                "Male_25-34": 294,
+                "Female_25-34": 396,
+                "Male_35-44": 259,
+                "Female_35-44": 301
+            },
+            "audience_country": {
+                "USA": 3235,
+                "Brazil": 1003,
+                "India": 1047,
+                "Germany": 482
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "363ddd9d-a04a-4178-bd1b-f3c0a1696a4a",
+            "campaign_name": "vel",
+            "impressions": 8877,
+            "clicks": 299,
+            "spend": 236.64,
+            "actions": {
+                "conversions": 68,
+                "leads": 43
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "69dc7c3b-1994-40a7-890a-a2d2856e3afd",
+            "impressions": 9895,
+            "reach": 543,
+            "link_clicks": 90,
+            "replies": 41
+        },
+        "Mensagens Diretas": {
+            "message_id": "5212dc77-63fe-4811-938f-c3f45f1682a9",
+            "receiver_id": "0c31c159-77e4-4d8f-af22-9cfd320f0653",
+            "message": "Tenho uma sugestão para a programação.",
+            "reactions": {
+                "likes": 59,
+                "laughs": 18
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 2255
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "c9c0642f-3a3d-472a-97d3-9162fb11c0a7",
+            "impressions": 1716,
+            "reach": 3832
+        },
+        "Taxa de Engajamento": {
+            "likes": 763,
+            "comments": 472,
+            "shares": 47,
+            "saves": 71
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 318,
+                "Female_18-24": 374,
+                "Male_25-34": 253,
+                "Female_25-34": 407,
+                "Male_35-44": 106,
+                "Female_35-44": 384
+            },
+            "audience_country": {
+                "USA": 3575,
+                "Brazil": 741,
+                "India": 1686,
+                "Germany": 487
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "68c0513d-bb56-4282-ad45-6959928c93f7",
+            "campaign_name": "aliquid",
+            "impressions": 4875,
+            "clicks": 393,
+            "spend": 285.14,
+            "actions": {
+                "conversions": 93,
+                "leads": 28
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "da34dd46-ed51-4d10-994a-38bfb60b569f",
+            "impressions": 7133,
+            "reach": 4016,
+            "link_clicks": 174,
+            "replies": 48
+        },
+        "Mensagens Diretas": {
+            "message_id": "0b987191-5141-4eaa-818d-e487cb8dc4fc",
+            "receiver_id": "666c069a-ae59-49e3-b734-db930ceba6e7",
+            "message": "Gostaria de saber mais sobre o próximo evento promovido pela rádio.",
+            "reactions": {
+                "likes": 88,
+                "laughs": 9
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 8477
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "fbfb3db4-cd90-4965-9137-c0a2967b00a7",
+            "impressions": 3908,
+            "reach": 3332
+        },
+        "Taxa de Engajamento": {
+            "likes": 301,
+            "comments": 251,
+            "shares": 199,
+            "saves": 67
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 465,
+                "Female_18-24": 442,
+                "Male_25-34": 426,
+                "Female_25-34": 362,
+                "Male_35-44": 421,
+                "Female_35-44": 172
+            },
+            "audience_country": {
+                "USA": 2348,
+                "Brazil": 1805,
+                "India": 2694,
+                "Germany": 286
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "44af64c7-87c8-4d8d-b0a8-1969cab151a4",
+            "campaign_name": "ipsum",
+            "impressions": 8519,
+            "clicks": 518,
+            "spend": 498.3,
+            "actions": {
+                "conversions": 46,
+                "leads": 25
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "06c761ba-551a-4abd-8bd1-2de4d812596b",
+            "impressions": 1899,
+            "reach": 3933,
+            "link_clicks": 81,
+            "replies": 3
+        },
+        "Mensagens Diretas": {
+            "message_id": "744d1d9e-6f48-4ecf-ad29-3be51ca9f702",
+            "receiver_id": "eb286aed-a280-49d5-ba60-53d3900dba49",
+            "message": "Acho que o áudio da rádio está ruim.",
+            "reactions": {
+                "likes": 70,
+                "laughs": 34
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 1984
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "89a6fb70-484a-48ae-9448-b5b97794a3e1",
+            "impressions": 3536,
+            "reach": 784
+        },
+        "Taxa de Engajamento": {
+            "likes": 533,
+            "comments": 191,
+            "shares": 94,
+            "saves": 88
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 166,
+                "Female_18-24": 177,
+                "Male_25-34": 212,
+                "Female_25-34": 230,
+                "Male_35-44": 119,
+                "Female_35-44": 324
+            },
+            "audience_country": {
+                "USA": 1434,
+                "Brazil": 1388,
+                "India": 2289,
+                "Germany": 974
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "67aab577-c32b-4ba5-b51b-484a20da624c",
+            "campaign_name": "doloribus",
+            "impressions": 6147,
+            "clicks": 884,
+            "spend": 53.67,
+            "actions": {
+                "conversions": 88,
+                "leads": 49
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "3322e0f0-2924-4de3-8bc5-0e95b9a51ab3",
+            "impressions": 1019,
+            "reach": 2732,
+            "link_clicks": 50,
+            "replies": 13
+        },
+        "Mensagens Diretas": {
+            "message_id": "5a0e1ef0-d38f-4546-8416-4eed05638201",
+            "receiver_id": "f423ee6f-979b-4bcd-96a3-e06055916fb7",
+            "message": "Tenho uma dúvida sobre a programação.",
+            "reactions": {
+                "likes": 41,
+                "laughs": 37
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 5605
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "51560404-56e3-43ca-9237-5a9a2b2cb14f",
+            "impressions": 9619,
+            "reach": 4666
+        },
+        "Taxa de Engajamento": {
+            "likes": 655,
+            "comments": 121,
+            "shares": 71,
+            "saves": 93
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 467,
+                "Female_18-24": 268,
+                "Male_25-34": 130,
+                "Female_25-34": 411,
+                "Male_35-44": 324,
+                "Female_35-44": 112
+            },
+            "audience_country": {
+                "USA": 4574,
+                "Brazil": 1412,
+                "India": 2726,
+                "Germany": 422
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "a5be12a8-29c6-4279-b795-2583964a798e",
+            "campaign_name": "rerum",
+            "impressions": 6226,
+            "clicks": 954,
+            "spend": 228.66,
+            "actions": {
+                "conversions": 60,
+                "leads": 9
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "e63bdd04-1d8e-4389-b0af-e566bb1d84c9",
+            "impressions": 1390,
+            "reach": 3108,
+            "link_clicks": 128,
+            "replies": 16
+        },
+        "Mensagens Diretas": {
+            "message_id": "ec0597fc-efad-4ae9-be3c-de04a96a3b79",
+            "receiver_id": "23f40eee-16fb-4565-851d-37477dcad8e2",
+            "message": "Gostaria de saber qual música foi tocada no início do programa.",
+            "reactions": {
+                "likes": 76,
+                "laughs": 43
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 8028
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "7ed5937f-9ed5-4125-a920-6c267de3d4b0",
+            "impressions": 7947,
+            "reach": 3442
+        },
+        "Taxa de Engajamento": {
+            "likes": 231,
+            "comments": 161,
+            "shares": 161,
+            "saves": 138
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 437,
+                "Female_18-24": 419,
+                "Male_25-34": 382,
+                "Female_25-34": 500,
+                "Male_35-44": 447,
+                "Female_35-44": 263
+            },
+            "audience_country": {
+                "USA": 3053,
+                "Brazil": 1291,
+                "India": 585,
+                "Germany": 193
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "377231cc-fb54-4118-a60c-bb7590faa104",
+            "campaign_name": "repudiandae",
+            "impressions": 3193,
+            "clicks": 281,
+            "spend": 262.41,
+            "actions": {
+                "conversions": 100,
+                "leads": 14
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "e25ac815-2854-418c-9750-3017e2e2f896",
+            "impressions": 8236,
+            "reach": 3418,
+            "link_clicks": 196,
+            "replies": 43
+        },
+        "Mensagens Diretas": {
+            "message_id": "826e2730-6503-4501-b135-76bd86ab1c7c",
+            "receiver_id": "bde62cbe-86a4-412f-8913-febd693f8606",
+            "message": "Agradeço a equipe por sempre tocar minhas músicas favoritas!",
+            "reactions": {
+                "likes": 43,
+                "laughs": 5
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 1153
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "16709cef-7540-4889-b1d1-6b9e4baa086d",
+            "impressions": 6318,
+            "reach": 3737
+        },
+        "Taxa de Engajamento": {
+            "likes": 398,
+            "comments": 124,
+            "shares": 67,
+            "saves": 102
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 276,
+                "Female_18-24": 234,
+                "Male_25-34": 370,
+                "Female_25-34": 453,
+                "Male_35-44": 269,
+                "Female_35-44": 370
+            },
+            "audience_country": {
+                "USA": 3225,
+                "Brazil": 1955,
+                "India": 1409,
+                "Germany": 386
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "b5f368a9-0596-433d-b02e-d9433450f301",
+            "campaign_name": "voluptates",
+            "impressions": 9894,
+            "clicks": 140,
+            "spend": 127.19,
+            "actions": {
+                "conversions": 55,
+                "leads": 16
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "eaf16267-46f3-4769-ba35-ea900cae2a3d",
+            "impressions": 1764,
+            "reach": 2345,
+            "link_clicks": 164,
+            "replies": 20
+        },
+        "Mensagens Diretas": {
+            "message_id": "ab5d5d15-fcbd-40ce-9404-964d31dd430c",
+            "receiver_id": "822c3e5b-29a6-42b2-b764-0d4087628275",
+            "message": "Estou tendo problemas para ouvir a rádio, o sinal está ruim.",
+            "reactions": {
+                "likes": 97,
+                "laughs": 49
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 3646
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "609abc2c-1c5a-4e9a-b8d1-3e3980dafeb8",
+            "impressions": 5883,
+            "reach": 4248
+        },
+        "Taxa de Engajamento": {
+            "likes": 117,
+            "comments": 142,
+            "shares": 96,
+            "saves": 16
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 451,
+                "Female_18-24": 330,
+                "Male_25-34": 137,
+                "Female_25-34": 201,
+                "Male_35-44": 338,
+                "Female_35-44": 418
+            },
+            "audience_country": {
+                "USA": 1376,
+                "Brazil": 2001,
+                "India": 2890,
+                "Germany": 802
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "b852ce90-aff4-4740-9b2e-d81ec417d6da",
+            "campaign_name": "cupiditate",
+            "impressions": 4706,
+            "clicks": 613,
+            "spend": 259.53,
+            "actions": {
+                "conversions": 61,
+                "leads": 10
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "5b667621-80f8-492e-b797-14312b930e6a",
+            "impressions": 9148,
+            "reach": 3932,
+            "link_clicks": 114,
+            "replies": 25
+        },
+        "Mensagens Diretas": {
+            "message_id": "c8ed616f-158a-44db-8ab8-d3123bb59e27",
+            "receiver_id": "57600ea0-4dd2-493d-b6e0-55256ede6b3e",
+            "message": "Agradeço pelo feedback rápido, a rádio é ótima!",
+            "reactions": {
+                "likes": 93,
+                "laughs": 1
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 8403
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "1fcba3fe-d80a-4763-89b9-d11f413965ea",
+            "impressions": 9253,
+            "reach": 1613
+        },
+        "Taxa de Engajamento": {
+            "likes": 957,
+            "comments": 215,
+            "shares": 93,
+            "saves": 20
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 131,
+                "Female_18-24": 152,
+                "Male_25-34": 157,
+                "Female_25-34": 429,
+                "Male_35-44": 237,
+                "Female_35-44": 372
+            },
+            "audience_country": {
+                "USA": 2828,
+                "Brazil": 988,
+                "India": 2518,
+                "Germany": 340
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "f6700bb3-3317-4916-bd8a-0ffc4d64066c",
+            "campaign_name": "impedit",
+            "impressions": 7252,
+            "clicks": 801,
+            "spend": 403.15,
+            "actions": {
+                "conversions": 86,
+                "leads": 19
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "358a828d-61d5-4c36-b64f-cfaf9a5debd4",
+            "impressions": 1830,
+            "reach": 1758,
+            "link_clicks": 112,
+            "replies": 36
+        },
+        "Mensagens Diretas": {
+            "message_id": "87691837-1425-4663-bfd6-eb79d3a6645a",
+            "receiver_id": "36fc0221-6e06-4fa9-a0ee-9378f3f4519c",
+            "message": "O conteúdo das notícias está muito bom, mas poderia ser mais atualizado.",
+            "reactions": {
+                "likes": 9,
+                "laughs": 23
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 5383
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "a12a6bae-96fe-4901-827c-94c875d99a58",
+            "impressions": 2127,
+            "reach": 1220
+        },
+        "Taxa de Engajamento": {
+            "likes": 643,
+            "comments": 346,
+            "shares": 92,
+            "saves": 77
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 482,
+                "Female_18-24": 156,
+                "Male_25-34": 485,
+                "Female_25-34": 141,
+                "Male_35-44": 354,
+                "Female_35-44": 234
+            },
+            "audience_country": {
+                "USA": 4100,
+                "Brazil": 2094,
+                "India": 1007,
+                "Germany": 740
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "fcfcc60c-1ee2-456b-acdb-f4e333d7f0d2",
+            "campaign_name": "magni",
+            "impressions": 9806,
+            "clicks": 847,
+            "spend": 438.15,
+            "actions": {
+                "conversions": 38,
+                "leads": 22
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "e01b17b2-ace3-4123-83eb-73ced5384c08",
+            "impressions": 4834,
+            "reach": 3597,
+            "link_clicks": 91,
+            "replies": 33
+        },
+        "Mensagens Diretas": {
+            "message_id": "b73663eb-ead6-4e5e-bf35-75bbf36f6131",
+            "receiver_id": "555f0561-2b14-49bd-a2ff-d1ab481f815e",
+            "message": "A rádio está tocando um bom mix de músicas, continue assim!",
+            "reactions": {
+                "likes": 6,
+                "laughs": 50
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 3882
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "ffa7ebaa-2f23-412c-92a3-1e14e1c4755c",
+            "impressions": 6733,
+            "reach": 3375
+        },
+        "Taxa de Engajamento": {
+            "likes": 641,
+            "comments": 488,
+            "shares": 189,
+            "saves": 126
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 349,
+                "Female_18-24": 426,
+                "Male_25-34": 223,
+                "Female_25-34": 248,
+                "Male_35-44": 185,
+                "Female_35-44": 413
+            },
+            "audience_country": {
+                "USA": 4889,
+                "Brazil": 1518,
+                "India": 793,
+                "Germany": 248
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "9d3bda2f-6972-4b31-838c-bc95b8a4ce2d",
+            "campaign_name": "magnam",
+            "impressions": 9667,
+            "clicks": 917,
+            "spend": 449.42,
+            "actions": {
+                "conversions": 80,
+                "leads": 49
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "90ff9ff9-4927-4e36-9af3-769fcaafd991",
+            "impressions": 3409,
+            "reach": 3273,
+            "link_clicks": 29,
+            "replies": 4
+        },
+        "Mensagens Diretas": {
+            "message_id": "e38e368e-e18c-4480-8d8a-c683f9db9769",
+            "receiver_id": "bb1afa1c-cfbb-44b9-bc00-a8ff21077ff1",
+            "message": "Por favor, toque minha música favorita.",
+            "reactions": {
+                "likes": 76,
+                "laughs": 43
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 8850
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "a346089c-5e50-4f6c-9da0-bde6398986fb",
+            "impressions": 3897,
+            "reach": 2264
+        },
+        "Taxa de Engajamento": {
+            "likes": 741,
+            "comments": 116,
+            "shares": 124,
+            "saves": 26
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 319,
+                "Female_18-24": 105,
+                "Male_25-34": 424,
+                "Female_25-34": 374,
+                "Male_35-44": 285,
+                "Female_35-44": 345
+            },
+            "audience_country": {
+                "USA": 3099,
+                "Brazil": 508,
+                "India": 1214,
+                "Germany": 791
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "f676aedb-ec1d-4f8d-8053-9732372ff3dc",
+            "campaign_name": "vitae",
+            "impressions": 9026,
+            "clicks": 216,
+            "spend": 214.58,
+            "actions": {
+                "conversions": 72,
+                "leads": 42
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "0dba7474-528b-4ac7-93a4-9a20b0e80b17",
+            "impressions": 2137,
+            "reach": 4615,
+            "link_clicks": 154,
+            "replies": 22
+        },
+        "Mensagens Diretas": {
+            "message_id": "eea6bd00-8129-4700-b190-40a2e9777eae",
+            "receiver_id": "d2f3302d-7842-4e57-8dbf-ae69576cbbff",
+            "message": "Estou dando um feedback sobre o programa de hoje.",
+            "reactions": {
+                "likes": 68,
+                "laughs": 43
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 3236
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "6d201fad-1412-43a9-9721-2bb133dc54ac",
+            "impressions": 7080,
+            "reach": 2260
+        },
+        "Taxa de Engajamento": {
+            "likes": 445,
+            "comments": 162,
+            "shares": 92,
+            "saves": 24
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 420,
+                "Female_18-24": 177,
+                "Male_25-34": 268,
+                "Female_25-34": 374,
+                "Male_35-44": 404,
+                "Female_35-44": 349
+            },
+            "audience_country": {
+                "USA": 3784,
+                "Brazil": 615,
+                "India": 2459,
+                "Germany": 660
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "badbcee7-0c83-4935-9a0b-6a5250fce932",
+            "campaign_name": "possimus",
+            "impressions": 5361,
+            "clicks": 705,
+            "spend": 263.64,
+            "actions": {
+                "conversions": 36,
+                "leads": 9
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "6e56eb8c-fb90-4fe5-8766-fc8826f84708",
+            "impressions": 4002,
+            "reach": 4444,
+            "link_clicks": 178,
+            "replies": 20
+        },
+        "Mensagens Diretas": {
+            "message_id": "5c277526-4a71-47f9-8b98-0456146e6224",
+            "receiver_id": "89f9fe54-7737-41b7-a37a-6cf3adfda010",
+            "message": "Gostaria de saber mais sobre o próximo evento promovido pela rádio.",
+            "reactions": {
+                "likes": 19,
+                "laughs": 20
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 3847
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "af2500a0-0658-43f8-8675-5ce1e43c8986",
+            "impressions": 6885,
+            "reach": 1554
+        },
+        "Taxa de Engajamento": {
+            "likes": 438,
+            "comments": 129,
+            "shares": 114,
+            "saves": 25
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 197,
+                "Female_18-24": 258,
+                "Male_25-34": 185,
+                "Female_25-34": 130,
+                "Male_35-44": 328,
+                "Female_35-44": 197
+            },
+            "audience_country": {
+                "USA": 3667,
+                "Brazil": 2988,
+                "India": 1582,
+                "Germany": 540
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "3a37b60c-d6fc-4176-b420-8b684c666576",
+            "campaign_name": "labore",
+            "impressions": 3328,
+            "clicks": 138,
+            "spend": 404.92,
+            "actions": {
+                "conversions": 74,
+                "leads": 38
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "147b42c4-ee6a-48bd-8f1f-4039a026181a",
+            "impressions": 1309,
+            "reach": 3589,
+            "link_clicks": 126,
+            "replies": 4
+        },
+        "Mensagens Diretas": {
+            "message_id": "7f47fdb0-0104-41c2-8624-eb7822f6e9ad",
+            "receiver_id": "d5592fb2-024d-4451-9d53-2ac76f6df889",
+            "message": "O programa de debates está muito bom, mas gostaria de ouvir mais opiniões diversas.",
+            "reactions": {
+                "likes": 21,
+                "laughs": 13
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 1184
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "803bf91f-5d93-4238-aa08-b1ffa4f2f771",
+            "impressions": 9784,
+            "reach": 2999
+        },
+        "Taxa de Engajamento": {
+            "likes": 144,
+            "comments": 433,
+            "shares": 125,
+            "saves": 30
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 235,
+                "Female_18-24": 358,
+                "Male_25-34": 332,
+                "Female_25-34": 132,
+                "Male_35-44": 249,
+                "Female_35-44": 409
+            },
+            "audience_country": {
+                "USA": 1034,
+                "Brazil": 2860,
+                "India": 2054,
+                "Germany": 417
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "48a2a2cd-5254-4394-9974-7b84fa71a909",
+            "campaign_name": "sapiente",
+            "impressions": 1835,
+            "clicks": 539,
+            "spend": 396.47,
+            "actions": {
+                "conversions": 30,
+                "leads": 7
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "19483947-fc79-44e0-a0cb-cb57ef187e56",
+            "impressions": 4668,
+            "reach": 1244,
+            "link_clicks": 56,
+            "replies": 40
+        },
+        "Mensagens Diretas": {
+            "message_id": "7d0df9b0-dab8-40a6-8c19-034a8368e26f",
+            "receiver_id": "34b0d8c0-2165-4a5e-980b-53e423c40e11",
+            "message": "Quero saber mais sobre a próxima promoção.",
+            "reactions": {
+                "likes": 58,
+                "laughs": 22
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 4012
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "b3939bae-6506-40ab-8e33-18024125d476",
+            "impressions": 9903,
+            "reach": 3231
+        },
+        "Taxa de Engajamento": {
+            "likes": 501,
+            "comments": 279,
+            "shares": 135,
+            "saves": 47
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 439,
+                "Female_18-24": 499,
+                "Male_25-34": 474,
+                "Female_25-34": 268,
+                "Male_35-44": 258,
+                "Female_35-44": 400
+            },
+            "audience_country": {
+                "USA": 2257,
+                "Brazil": 1933,
+                "India": 2612,
+                "Germany": 342
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "97068de6-bf0c-48be-935f-c07830fd49ba",
+            "campaign_name": "nihil",
+            "impressions": 6304,
+            "clicks": 800,
+            "spend": 374.73,
+            "actions": {
+                "conversions": 71,
+                "leads": 13
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "46b1a68f-e437-4704-b9f9-81e4cfd5dbef",
+            "impressions": 2648,
+            "reach": 1138,
+            "link_clicks": 189,
+            "replies": 39
+        },
+        "Mensagens Diretas": {
+            "message_id": "ee6f6158-a6ca-411b-8301-9a4addc74ec0",
+            "receiver_id": "212ca99a-27de-4f75-ae86-055f9290fc8a",
+            "message": "Estou tendo problemas para ouvir a rádio, o sinal está ruim.",
+            "reactions": {
+                "likes": 52,
+                "laughs": 6
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 2619
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "21c8d5c5-d940-4460-8cb7-38c579d7921e",
+            "impressions": 8002,
+            "reach": 2525
+        },
+        "Taxa de Engajamento": {
+            "likes": 744,
+            "comments": 223,
+            "shares": 87,
+            "saves": 17
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 372,
+                "Female_18-24": 134,
+                "Male_25-34": 470,
+                "Female_25-34": 355,
+                "Male_35-44": 240,
+                "Female_35-44": 105
+            },
+            "audience_country": {
+                "USA": 2398,
+                "Brazil": 1952,
+                "India": 1180,
+                "Germany": 504
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "7f515711-e8b2-49f3-a261-bf3827d13564",
+            "campaign_name": "fugiat",
+            "impressions": 8585,
+            "clicks": 424,
+            "spend": 252.42,
+            "actions": {
+                "conversions": 69,
+                "leads": 14
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "fb06107e-6b9e-40ba-ba76-c4a9c08d292c",
+            "impressions": 1375,
+            "reach": 4304,
+            "link_clicks": 109,
+            "replies": 15
+        },
+        "Mensagens Diretas": {
+            "message_id": "1ae9dd31-e246-438c-897d-e01266632cd8",
+            "receiver_id": "a14e1996-95a9-40b9-9e8d-d294bccb4a45",
+            "message": "Estou feliz com a participação de ouvintes, seria interessante mais interatividade.",
+            "reactions": {
+                "likes": 66,
+                "laughs": 50
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 4291
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "58ccc1fb-9774-461a-8e93-683dae07bc3c",
+            "impressions": 2816,
+            "reach": 3943
+        },
+        "Taxa de Engajamento": {
+            "likes": 658,
+            "comments": 112,
+            "shares": 187,
+            "saves": 126
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 435,
+                "Female_18-24": 165,
+                "Male_25-34": 119,
+                "Female_25-34": 361,
+                "Male_35-44": 395,
+                "Female_35-44": 427
+            },
+            "audience_country": {
+                "USA": 3392,
+                "Brazil": 712,
+                "India": 553,
+                "Germany": 903
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "ad598ea3-c090-40c7-8a62-eac15a08ef03",
+            "campaign_name": "expedita",
+            "impressions": 1630,
+            "clicks": 422,
+            "spend": 406.79,
+            "actions": {
+                "conversions": 24,
+                "leads": 40
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "a3f20d2b-f63b-4bb7-b108-f7dc486d9e02",
+            "impressions": 9517,
+            "reach": 4088,
+            "link_clicks": 16,
+            "replies": 48
+        },
+        "Mensagens Diretas": {
+            "message_id": "f8190a0c-3ed2-4067-b15f-765508d1b3cc",
+            "receiver_id": "e8394214-cd63-462e-b225-867ea37713ec",
+            "message": "Não estou conseguindo participar da promoção, o sistema parece estar com problemas.",
+            "reactions": {
+                "likes": 7,
+                "laughs": 22
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 4801
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "cc9ee574-324a-4169-b2ba-e8fcb3fe2214",
+            "impressions": 7655,
+            "reach": 1465
+        },
+        "Taxa de Engajamento": {
+            "likes": 131,
+            "comments": 485,
+            "shares": 197,
+            "saves": 22
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 141,
+                "Female_18-24": 195,
+                "Male_25-34": 235,
+                "Female_25-34": 139,
+                "Male_35-44": 176,
+                "Female_35-44": 226
+            },
+            "audience_country": {
+                "USA": 2354,
+                "Brazil": 2707,
+                "India": 968,
+                "Germany": 646
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "51694761-ce71-4824-b2dd-226bcbaeb36d",
+            "campaign_name": "occaecati",
+            "impressions": 1619,
+            "clicks": 765,
+            "spend": 444.7,
+            "actions": {
+                "conversions": 12,
+                "leads": 31
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "293ee464-8605-41cb-b8f1-c0cae842a6b9",
+            "impressions": 5598,
+            "reach": 1792,
+            "link_clicks": 11,
+            "replies": 32
+        },
+        "Mensagens Diretas": {
+            "message_id": "679989b5-3685-4a73-a73e-8bddcc7d71f2",
+            "receiver_id": "b5f81553-5039-4abd-89af-ca600771f4fc",
+            "message": "Gostei muito do programa, parabéns!",
+            "reactions": {
+                "likes": 13,
+                "laughs": 21
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 3998
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "c3a1ba73-1385-4e20-92dd-68ddc6b35018",
+            "impressions": 3929,
+            "reach": 4485
+        },
+        "Taxa de Engajamento": {
+            "likes": 607,
+            "comments": 268,
+            "shares": 118,
+            "saves": 14
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 334,
+                "Female_18-24": 362,
+                "Male_25-34": 492,
+                "Female_25-34": 499,
+                "Male_35-44": 498,
+                "Female_35-44": 447
+            },
+            "audience_country": {
+                "USA": 2027,
+                "Brazil": 549,
+                "India": 894,
+                "Germany": 613
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "22bc2291-566c-4cde-b798-6a6ae531976f",
+            "campaign_name": "asperiores",
+            "impressions": 5479,
+            "clicks": 484,
+            "spend": 356.63,
+            "actions": {
+                "conversions": 43,
+                "leads": 7
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "7a445136-821d-4cee-a831-444a9ac9328c",
+            "impressions": 1293,
+            "reach": 1196,
+            "link_clicks": 98,
+            "replies": 19
+        },
+        "Mensagens Diretas": {
+            "message_id": "aa0bf27d-1286-4c60-b3ed-252311e239e0",
+            "receiver_id": "be87478e-4fed-435c-a3fd-1053d0f003fa",
+            "message": "Seria legal se vocês tocassem mais músicas nacionais.",
+            "reactions": {
+                "likes": 100,
+                "laughs": 25
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 9389
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "d6889095-e4e4-45a5-9ab3-a54522e2811d",
+            "impressions": 7852,
+            "reach": 2160
+        },
+        "Taxa de Engajamento": {
+            "likes": 969,
+            "comments": 91,
+            "shares": 17,
+            "saves": 69
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 447,
+                "Female_18-24": 111,
+                "Male_25-34": 238,
+                "Female_25-34": 123,
+                "Male_35-44": 199,
+                "Female_35-44": 469
+            },
+            "audience_country": {
+                "USA": 4715,
+                "Brazil": 924,
+                "India": 2688,
+                "Germany": 594
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "91be928a-1e0b-4640-9825-3e756bd49611",
+            "campaign_name": "repudiandae",
+            "impressions": 3556,
+            "clicks": 354,
+            "spend": 246.07,
+            "actions": {
+                "conversions": 51,
+                "leads": 26
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "df6b13c8-9196-4be3-8b37-962f9c3f2a44",
+            "impressions": 7286,
+            "reach": 4849,
+            "link_clicks": 40,
+            "replies": 15
+        },
+        "Mensagens Diretas": {
+            "message_id": "4bb5b4ec-d99c-436f-9461-26dda690e6fc",
+            "receiver_id": "684cbb18-5013-46bb-b956-bfa82c75d025",
+            "message": "Gostei muito do programa, parabéns!",
+            "reactions": {
+                "likes": 89,
+                "laughs": 33
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 7058
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "9d568b09-e611-4855-8b07-cd9959b51ebe",
+            "impressions": 2681,
+            "reach": 4459
+        },
+        "Taxa de Engajamento": {
+            "likes": 641,
+            "comments": 181,
+            "shares": 156,
+            "saves": 5
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 367,
+                "Female_18-24": 221,
+                "Male_25-34": 136,
+                "Female_25-34": 225,
+                "Male_35-44": 495,
+                "Female_35-44": 294
+            },
+            "audience_country": {
+                "USA": 2439,
+                "Brazil": 846,
+                "India": 2286,
+                "Germany": 678
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "024ade89-5a4e-4cd0-adf6-92e4b4676541",
+            "campaign_name": "voluptates",
+            "impressions": 1238,
+            "clicks": 467,
+            "spend": 328.84,
+            "actions": {
+                "conversions": 78,
+                "leads": 14
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "bf20167d-235a-4cba-8137-0db7f6d03ea4",
+            "impressions": 2248,
+            "reach": 4004,
+            "link_clicks": 142,
+            "replies": 21
+        },
+        "Mensagens Diretas": {
+            "message_id": "2ab99b5d-45ba-4719-8d9d-a4e887830d07",
+            "receiver_id": "7a5a3e95-b815-4bc0-ae71-3dfb450b3a6e",
+            "message": "O programa de hoje estava muito repetitivo, poderia variar mais.",
+            "reactions": {
+                "likes": 25,
+                "laughs": 33
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 7251
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "ca961b3d-c041-40c5-a168-48f931b4291f",
+            "impressions": 5891,
+            "reach": 4879
+        },
+        "Taxa de Engajamento": {
+            "likes": 905,
+            "comments": 149,
+            "shares": 104,
+            "saves": 11
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 135,
+                "Female_18-24": 231,
+                "Male_25-34": 451,
+                "Female_25-34": 467,
+                "Male_35-44": 173,
+                "Female_35-44": 308
+            },
+            "audience_country": {
+                "USA": 2503,
+                "Brazil": 1557,
+                "India": 2808,
+                "Germany": 147
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "92a445c3-e3de-448b-ae46-1d3eeb33dcc8",
+            "campaign_name": "assumenda",
+            "impressions": 3186,
+            "clicks": 913,
+            "spend": 87.84,
+            "actions": {
+                "conversions": 93,
+                "leads": 37
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "bb1eb3d1-261f-4416-9117-1127ff278c13",
+            "impressions": 6423,
+            "reach": 4824,
+            "link_clicks": 31,
+            "replies": 8
+        },
+        "Mensagens Diretas": {
+            "message_id": "e893c326-e89d-4407-9a65-081e5e6b1bad",
+            "receiver_id": "04690047-3152-446d-bedd-8eafd9c7ce01",
+            "message": "Por favor, toque minha música favorita.",
+            "reactions": {
+                "likes": 85,
+                "laughs": 24
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 1130
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "e263128d-976d-4044-b89b-78e590545b6c",
+            "impressions": 6748,
+            "reach": 3411
+        },
+        "Taxa de Engajamento": {
+            "likes": 206,
+            "comments": 142,
+            "shares": 41,
+            "saves": 42
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 184,
+                "Female_18-24": 352,
+                "Male_25-34": 375,
+                "Female_25-34": 278,
+                "Male_35-44": 428,
+                "Female_35-44": 445
+            },
+            "audience_country": {
+                "USA": 3809,
+                "Brazil": 2907,
+                "India": 2219,
+                "Germany": 495
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "a2f08d02-cbff-43c7-96cf-e889b883161f",
+            "campaign_name": "consequuntur",
+            "impressions": 8926,
+            "clicks": 997,
+            "spend": 141.09,
+            "actions": {
+                "conversions": 83,
+                "leads": 11
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "40d949b9-c23d-4d9e-af48-c6796943390c",
+            "impressions": 4742,
+            "reach": 4358,
+            "link_clicks": 12,
+            "replies": 25
+        },
+        "Mensagens Diretas": {
+            "message_id": "38859811-5af0-4263-90fb-393518818265",
+            "receiver_id": "9c26bc2f-a94a-4ada-a7f1-3cb372e45b45",
+            "message": "O programa de culinária é excelente, só gostaria de mais receitas!",
+            "reactions": {
+                "likes": 6,
+                "laughs": 35
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 1006
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "62ab8f82-8697-492d-a980-944cb5ad173f",
+            "impressions": 4242,
+            "reach": 3753
+        },
+        "Taxa de Engajamento": {
+            "likes": 822,
+            "comments": 141,
+            "shares": 165,
+            "saves": 150
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 398,
+                "Female_18-24": 156,
+                "Male_25-34": 220,
+                "Female_25-34": 197,
+                "Male_35-44": 147,
+                "Female_35-44": 353
+            },
+            "audience_country": {
+                "USA": 4675,
+                "Brazil": 1363,
+                "India": 1038,
+                "Germany": 121
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "59bdb514-9eb6-4c7c-967c-fc1b5f8aeb0d",
+            "campaign_name": "aperiam",
+            "impressions": 3716,
+            "clicks": 343,
+            "spend": 236.64,
+            "actions": {
+                "conversions": 39,
+                "leads": 22
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "a6513f92-3e1a-40a7-817a-e1ac062b517f",
+            "impressions": 6343,
+            "reach": 4367,
+            "link_clicks": 87,
+            "replies": 35
+        },
+        "Mensagens Diretas": {
+            "message_id": "703df9dc-37e2-4a05-81c8-75a7e41444f1",
+            "receiver_id": "1e08c65b-ae11-4c51-93b5-8e7ff714c558",
+            "message": "Poderiam melhorar a qualidade do áudio durante a transmissão ao vivo.",
+            "reactions": {
+                "likes": 80,
+                "laughs": 40
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 1851
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "75bff5ba-3e45-4320-af45-004c57327868",
+            "impressions": 4679,
+            "reach": 3652
+        },
+        "Taxa de Engajamento": {
+            "likes": 255,
+            "comments": 72,
+            "shares": 53,
+            "saves": 54
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 344,
+                "Female_18-24": 304,
+                "Male_25-34": 405,
+                "Female_25-34": 135,
+                "Male_35-44": 420,
+                "Female_35-44": 457
+            },
+            "audience_country": {
+                "USA": 1673,
+                "Brazil": 1906,
+                "India": 2738,
+                "Germany": 867
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "9e87c6ec-136d-4b55-881f-f42a3e945247",
+            "campaign_name": "quisquam",
+            "impressions": 7349,
+            "clicks": 121,
+            "spend": 339.42,
+            "actions": {
+                "conversions": 63,
+                "leads": 19
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "ee7f2898-694d-4ac4-8fb8-463cf4b20c85",
+            "impressions": 7797,
+            "reach": 3515,
+            "link_clicks": 96,
+            "replies": 1
+        },
+        "Mensagens Diretas": {
+            "message_id": "f9885c76-de5c-4c0f-95e9-f6e04b49c720",
+            "receiver_id": "d43357b3-1f2b-4ebe-ac68-f987f07d760a",
+            "message": "Gostaria de ouvir uma música nova.",
+            "reactions": {
+                "likes": 22,
+                "laughs": 5
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 9504
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "b9cb3390-f90f-4e39-8d51-6d2c03b7de2a",
+            "impressions": 2098,
+            "reach": 800
+        },
+        "Taxa de Engajamento": {
+            "likes": 948,
+            "comments": 235,
+            "shares": 10,
+            "saves": 136
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 163,
+                "Female_18-24": 165,
+                "Male_25-34": 217,
+                "Female_25-34": 329,
+                "Male_35-44": 317,
+                "Female_35-44": 346
+            },
+            "audience_country": {
+                "USA": 3909,
+                "Brazil": 1418,
+                "India": 1009,
+                "Germany": 731
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "ec93a782-c093-49f5-9541-641004a2742a",
+            "campaign_name": "in",
+            "impressions": 8255,
+            "clicks": 705,
+            "spend": 199.63,
+            "actions": {
+                "conversions": 89,
+                "leads": 5
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "67cf1383-df7d-41f1-929b-a54b2a9e58e7",
+            "impressions": 4612,
+            "reach": 578,
+            "link_clicks": 97,
+            "replies": 3
+        },
+        "Mensagens Diretas": {
+            "message_id": "f46a9870-5b81-4cff-88ea-298e799720a2",
+            "receiver_id": "51a57ef6-3d36-4f18-b3ff-4ee5fb5b6097",
+            "message": "Agradeço a equipe por sempre tocar minhas músicas favoritas!",
+            "reactions": {
+                "likes": 77,
+                "laughs": 20
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 1405
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "0354c571-4480-420d-9a9c-674291cde141",
+            "impressions": 2797,
+            "reach": 1262
+        },
+        "Taxa de Engajamento": {
+            "likes": 155,
+            "comments": 193,
+            "shares": 154,
+            "saves": 120
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 132,
+                "Female_18-24": 109,
+                "Male_25-34": 239,
+                "Female_25-34": 152,
+                "Male_35-44": 392,
+                "Female_35-44": 475
+            },
+            "audience_country": {
+                "USA": 1574,
+                "Brazil": 1245,
+                "India": 2877,
+                "Germany": 182
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "8d172777-8bba-4cf0-af63-9fc2f5b093ff",
+            "campaign_name": "ratione",
+            "impressions": 1153,
+            "clicks": 447,
+            "spend": 64.78,
+            "actions": {
+                "conversions": 73,
+                "leads": 14
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "b8119e3f-2013-4d01-8383-3f4d7ff507a0",
+            "impressions": 5220,
+            "reach": 1926,
+            "link_clicks": 50,
+            "replies": 17
+        },
+        "Mensagens Diretas": {
+            "message_id": "5e437feb-ab2d-4e50-98a2-e409f0a3e65b",
+            "receiver_id": "56a9fb88-af08-4fe1-967c-c70e1b036f56",
+            "message": "O programa de hoje estava muito repetitivo, poderia variar mais.",
+            "reactions": {
+                "likes": 43,
+                "laughs": 32
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 9515
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "72e03a7d-73a6-4665-a0c3-c6ad12f6a204",
+            "impressions": 9392,
+            "reach": 1538
+        },
+        "Taxa de Engajamento": {
+            "likes": 779,
+            "comments": 311,
+            "shares": 53,
+            "saves": 38
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 447,
+                "Female_18-24": 133,
+                "Male_25-34": 253,
+                "Female_25-34": 415,
+                "Male_35-44": 337,
+                "Female_35-44": 125
+            },
+            "audience_country": {
+                "USA": 1107,
+                "Brazil": 1730,
+                "India": 1658,
+                "Germany": 605
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "daaee058-b1c4-4581-86c3-cbf9bde18a0e",
+            "campaign_name": "iure",
+            "impressions": 4397,
+            "clicks": 581,
+            "spend": 472.73,
+            "actions": {
+                "conversions": 60,
+                "leads": 17
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "5c0982de-5cfc-40ed-83a5-e32fe0d6ddc1",
+            "impressions": 7201,
+            "reach": 1866,
+            "link_clicks": 197,
+            "replies": 28
+        },
+        "Mensagens Diretas": {
+            "message_id": "7e491640-8876-4642-9a57-69c33a7cc69a",
+            "receiver_id": "59aa644a-b2a4-4076-953f-7950e5307162",
+            "message": "Quero saber mais sobre a próxima promoção.",
+            "reactions": {
+                "likes": 24,
+                "laughs": 2
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 6113
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "2aa5c399-c246-4cbd-822d-750cac5f423c",
+            "impressions": 8724,
+            "reach": 2161
+        },
+        "Taxa de Engajamento": {
+            "likes": 735,
+            "comments": 101,
+            "shares": 57,
+            "saves": 137
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 311,
+                "Female_18-24": 234,
+                "Male_25-34": 361,
+                "Female_25-34": 184,
+                "Male_35-44": 345,
+                "Female_35-44": 336
+            },
+            "audience_country": {
+                "USA": 2960,
+                "Brazil": 1771,
+                "India": 2287,
+                "Germany": 147
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "c48896b5-888f-4ad5-a1fd-bc6a84438f2a",
+            "campaign_name": "officia",
+            "impressions": 8420,
+            "clicks": 609,
+            "spend": 368.42,
+            "actions": {
+                "conversions": 82,
+                "leads": 23
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "debfb74c-625c-4516-80be-ffc1ba06a073",
+            "impressions": 7247,
+            "reach": 3991,
+            "link_clicks": 134,
+            "replies": 11
+        },
+        "Mensagens Diretas": {
+            "message_id": "a943ecc6-7782-49db-968a-42046bfea8dd",
+            "receiver_id": "d9e331f0-c174-44ac-9f89-e3747cea877e",
+            "message": "O programa de debates está muito bom, mas gostaria de ouvir mais opiniões diversas.",
+            "reactions": {
+                "likes": 67,
+                "laughs": 36
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 2021
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "105388e4-e00c-4a54-a103-25dec0843565",
+            "impressions": 8707,
+            "reach": 2287
+        },
+        "Taxa de Engajamento": {
+            "likes": 971,
+            "comments": 246,
+            "shares": 54,
+            "saves": 75
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 254,
+                "Female_18-24": 294,
+                "Male_25-34": 110,
+                "Female_25-34": 360,
+                "Male_35-44": 155,
+                "Female_35-44": 165
+            },
+            "audience_country": {
+                "USA": 2755,
+                "Brazil": 1946,
+                "India": 2491,
+                "Germany": 579
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "fc1acf31-8ca9-4af6-96b6-959e5656e7de",
+            "campaign_name": "dolore",
+            "impressions": 5099,
+            "clicks": 773,
+            "spend": 418.58,
+            "actions": {
+                "conversions": 60,
+                "leads": 48
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "f69eea03-8c81-442f-9322-5208d847ce6d",
+            "impressions": 9315,
+            "reach": 3519,
+            "link_clicks": 32,
+            "replies": 50
+        },
+        "Mensagens Diretas": {
+            "message_id": "b9afced9-030b-467f-bc7c-1ba70517bb7b",
+            "receiver_id": "933a30be-c466-43d6-9f90-ce6af20d9377",
+            "message": "O programa de culinária é excelente, só gostaria de mais receitas!",
+            "reactions": {
+                "likes": 60,
+                "laughs": 16
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 7875
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "86045774-1e80-4914-896e-fa0d67670aa9",
+            "impressions": 1093,
+            "reach": 2006
+        },
+        "Taxa de Engajamento": {
+            "likes": 778,
+            "comments": 428,
+            "shares": 158,
+            "saves": 70
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 126,
+                "Female_18-24": 490,
+                "Male_25-34": 329,
+                "Female_25-34": 331,
+                "Male_35-44": 128,
+                "Female_35-44": 428
+            },
+            "audience_country": {
+                "USA": 4855,
+                "Brazil": 524,
+                "India": 2002,
+                "Germany": 127
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "ff146718-2027-4788-9750-926b697fbba8",
+            "campaign_name": "provident",
+            "impressions": 2806,
+            "clicks": 294,
+            "spend": 347.21,
+            "actions": {
+                "conversions": 37,
+                "leads": 50
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "5f2ea030-f40c-4d8c-a8b9-7cfdd4a4d994",
+            "impressions": 6221,
+            "reach": 699,
+            "link_clicks": 146,
+            "replies": 48
+        },
+        "Mensagens Diretas": {
+            "message_id": "6aad1c84-7e71-47bc-9c78-e07038330fe2",
+            "receiver_id": "e6b98607-0de9-4da4-b89a-ca1197185fd7",
+            "message": "Poderiam melhorar a qualidade do áudio durante a transmissão ao vivo.",
+            "reactions": {
+                "likes": 4,
+                "laughs": 14
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 9707
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "84db126f-25ca-4951-9596-6751732d9e4c",
+            "impressions": 5137,
+            "reach": 4485
+        },
+        "Taxa de Engajamento": {
+            "likes": 706,
+            "comments": 401,
+            "shares": 170,
+            "saves": 75
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 350,
+                "Female_18-24": 411,
+                "Male_25-34": 352,
+                "Female_25-34": 469,
+                "Male_35-44": 429,
+                "Female_35-44": 284
+            },
+            "audience_country": {
+                "USA": 4888,
+                "Brazil": 2509,
+                "India": 886,
+                "Germany": 594
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "25cf13cb-9cf0-45d1-8c5f-342b0a6ea550",
+            "campaign_name": "placeat",
+            "impressions": 2299,
+            "clicks": 580,
+            "spend": 470.31,
+            "actions": {
+                "conversions": 94,
+                "leads": 29
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "e6269d5d-faa8-405e-a8e1-23864d601e51",
+            "impressions": 3399,
+            "reach": 4372,
+            "link_clicks": 72,
+            "replies": 47
+        },
+        "Mensagens Diretas": {
+            "message_id": "97a7a474-dd02-4ae0-a3af-a9a1118462f3",
+            "receiver_id": "de8ecb8d-f660-4179-a91c-f478e39b9a86",
+            "message": "Por favor, toque minha música favorita.",
+            "reactions": {
+                "likes": 33,
+                "laughs": 39
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 2640
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "202d4b91-6e3f-4a79-85ce-441bd569c9aa",
+            "impressions": 7056,
+            "reach": 3114
+        },
+        "Taxa de Engajamento": {
+            "likes": 648,
+            "comments": 166,
+            "shares": 199,
+            "saves": 23
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 391,
+                "Female_18-24": 413,
+                "Male_25-34": 127,
+                "Female_25-34": 440,
+                "Male_35-44": 342,
+                "Female_35-44": 155
+            },
+            "audience_country": {
+                "USA": 2026,
+                "Brazil": 2924,
+                "India": 2038,
+                "Germany": 345
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "c41343bf-851e-4487-90fa-2f24cf62ba8a",
+            "campaign_name": "modi",
+            "impressions": 7420,
+            "clicks": 811,
+            "spend": 178.0,
+            "actions": {
+                "conversions": 51,
+                "leads": 28
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "71fa5eb9-7342-4b53-89d3-2827c4652548",
+            "impressions": 9351,
+            "reach": 3559,
+            "link_clicks": 160,
+            "replies": 50
+        },
+        "Mensagens Diretas": {
+            "message_id": "7d336790-14f9-4ccf-9e1e-98e34fc64f04",
+            "receiver_id": "eecac5b3-5ea6-4c98-a0ba-8a1c695f0cd3",
+            "message": "Gostaria de saber mais sobre o próximo evento promovido pela rádio.",
+            "reactions": {
+                "likes": 69,
+                "laughs": 4
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 3666
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "c75fe358-8c5c-49ce-b2d2-ef68fff594a0",
+            "impressions": 7640,
+            "reach": 1221
+        },
+        "Taxa de Engajamento": {
+            "likes": 549,
+            "comments": 161,
+            "shares": 31,
+            "saves": 95
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 198,
+                "Female_18-24": 299,
+                "Male_25-34": 277,
+                "Female_25-34": 399,
+                "Male_35-44": 196,
+                "Female_35-44": 366
+            },
+            "audience_country": {
+                "USA": 3201,
+                "Brazil": 1281,
+                "India": 864,
+                "Germany": 126
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "1144a0d6-6214-4cf7-9255-1e57bc97da84",
+            "campaign_name": "deleniti",
+            "impressions": 9652,
+            "clicks": 171,
+            "spend": 256.82,
+            "actions": {
+                "conversions": 87,
+                "leads": 43
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "6f246f3b-4aea-402e-ac4c-f0cfaf5e2d34",
+            "impressions": 7176,
+            "reach": 1261,
+            "link_clicks": 176,
+            "replies": 14
+        },
+        "Mensagens Diretas": {
+            "message_id": "c4dd42b0-6abc-4159-9d7a-314f6bb7aec9",
+            "receiver_id": "c1aa00b2-2917-4255-8ddc-456e7d40c758",
+            "message": "O programa de esportes está ótimo, mas pode incluir mais análises.",
+            "reactions": {
+                "likes": 16,
+                "laughs": 48
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 8410
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "ce9aebf2-bc57-4083-9d6b-c9f33a5430fa",
+            "impressions": 2628,
+            "reach": 1285
+        },
+        "Taxa de Engajamento": {
+            "likes": 215,
+            "comments": 364,
+            "shares": 70,
+            "saves": 47
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 254,
+                "Female_18-24": 356,
+                "Male_25-34": 355,
+                "Female_25-34": 275,
+                "Male_35-44": 286,
+                "Female_35-44": 446
+            },
+            "audience_country": {
+                "USA": 4653,
+                "Brazil": 2032,
+                "India": 1026,
+                "Germany": 978
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "d06a7892-0f61-4fc7-a999-f2f84ae5f035",
+            "campaign_name": "aperiam",
+            "impressions": 4924,
+            "clicks": 161,
+            "spend": 443.44,
+            "actions": {
+                "conversions": 71,
+                "leads": 27
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "c6778568-a8be-4f5e-be25-3a18f9c523dc",
+            "impressions": 2444,
+            "reach": 2332,
+            "link_clicks": 60,
+            "replies": 2
+        },
+        "Mensagens Diretas": {
+            "message_id": "4c1ff9d5-ee4a-4361-896a-4e0709e94d3d",
+            "receiver_id": "76acf440-1e5a-462c-a511-77c4b1c702f0",
+            "message": "Tenho uma sugestão para a programação.",
+            "reactions": {
+                "likes": 26,
+                "laughs": 13
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 6917
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "6c4c12c1-591f-4e4a-947c-cfd7fdf189f1",
+            "impressions": 1867,
+            "reach": 1478
+        },
+        "Taxa de Engajamento": {
+            "likes": 918,
+            "comments": 293,
+            "shares": 122,
+            "saves": 15
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 165,
+                "Female_18-24": 390,
+                "Male_25-34": 210,
+                "Female_25-34": 217,
+                "Male_35-44": 146,
+                "Female_35-44": 201
+            },
+            "audience_country": {
+                "USA": 4218,
+                "Brazil": 2070,
+                "India": 2709,
+                "Germany": 232
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "372d3715-bbd0-46e0-9069-fa80c1ed9e98",
+            "campaign_name": "praesentium",
+            "impressions": 6684,
+            "clicks": 324,
+            "spend": 180.91,
+            "actions": {
+                "conversions": 90,
+                "leads": 38
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "06ee681a-aeb4-4dba-acbe-7f9dcfd02b64",
+            "impressions": 1561,
+            "reach": 3470,
+            "link_clicks": 187,
+            "replies": 5
+        },
+        "Mensagens Diretas": {
+            "message_id": "5ab7f2a5-43a0-461c-844e-c84f47179e40",
+            "receiver_id": "14554124-f98e-4a1e-a856-772921c01dfa",
+            "message": "Estou feliz com a participação de ouvintes, seria interessante mais interatividade.",
+            "reactions": {
+                "likes": 70,
+                "laughs": 22
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 8739
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "29219748-0133-467e-b825-73682a887243",
+            "impressions": 5939,
+            "reach": 4574
+        },
+        "Taxa de Engajamento": {
+            "likes": 490,
+            "comments": 305,
+            "shares": 36,
+            "saves": 52
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 481,
+                "Female_18-24": 272,
+                "Male_25-34": 271,
+                "Female_25-34": 245,
+                "Male_35-44": 161,
+                "Female_35-44": 116
+            },
+            "audience_country": {
+                "USA": 1788,
+                "Brazil": 2291,
+                "India": 945,
+                "Germany": 300
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "ada071a9-6b57-4a60-8325-c0987442d77d",
+            "campaign_name": "assumenda",
+            "impressions": 9993,
+            "clicks": 879,
+            "spend": 413.88,
+            "actions": {
+                "conversions": 51,
+                "leads": 15
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "4b04f2a9-01c5-459d-8a26-9f4ce2310577",
+            "impressions": 2624,
+            "reach": 3568,
+            "link_clicks": 98,
+            "replies": 22
+        },
+        "Mensagens Diretas": {
+            "message_id": "b2c8d0d7-c87e-4ba8-8ed6-9da0d59e45aa",
+            "receiver_id": "b2d2d161-297b-4b63-9c11-7f57eb3ed9cb",
+            "message": "Quero reclamar sobre o som da rádio.",
+            "reactions": {
+                "likes": 47,
+                "laughs": 39
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 6571
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "d976dbb6-6c70-4497-ae25-d021972178e7",
+            "impressions": 9052,
+            "reach": 787
+        },
+        "Taxa de Engajamento": {
+            "likes": 357,
+            "comments": 498,
+            "shares": 181,
+            "saves": 6
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 343,
+                "Female_18-24": 191,
+                "Male_25-34": 371,
+                "Female_25-34": 474,
+                "Male_35-44": 215,
+                "Female_35-44": 413
+            },
+            "audience_country": {
+                "USA": 4614,
+                "Brazil": 2572,
+                "India": 2670,
+                "Germany": 878
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "2a52d544-9109-4e19-8315-886ec85e685e",
+            "campaign_name": "alias",
+            "impressions": 6021,
+            "clicks": 658,
+            "spend": 109.78,
+            "actions": {
+                "conversions": 40,
+                "leads": 32
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "e8098374-99b1-4cbd-84b2-572d1a01491a",
+            "impressions": 9852,
+            "reach": 3450,
+            "link_clicks": 83,
+            "replies": 20
+        },
+        "Mensagens Diretas": {
+            "message_id": "6f0984a8-73f9-4ab6-b4dc-e7577ef3383d",
+            "receiver_id": "0ab3d228-0e2a-4673-b81c-be51daf3bca5",
+            "message": "Acho que o áudio da rádio está ruim.",
+            "reactions": {
+                "likes": 4,
+                "laughs": 13
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 8661
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "c91106f7-aa82-44f6-8613-f3ae51ef79ce",
+            "impressions": 1488,
+            "reach": 3430
+        },
+        "Taxa de Engajamento": {
+            "likes": 123,
+            "comments": 490,
+            "shares": 191,
+            "saves": 78
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 459,
+                "Female_18-24": 369,
+                "Male_25-34": 443,
+                "Female_25-34": 277,
+                "Male_35-44": 198,
+                "Female_35-44": 115
+            },
+            "audience_country": {
+                "USA": 1529,
+                "Brazil": 2434,
+                "India": 1000,
+                "Germany": 459
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "cbe7177b-b182-412d-8258-93824b48829a",
+            "campaign_name": "unde",
+            "impressions": 9334,
+            "clicks": 957,
+            "spend": 467.57,
+            "actions": {
+                "conversions": 46,
+                "leads": 21
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "b6002c58-2b77-4dfd-8d1d-461ac4fb71c0",
+            "impressions": 5940,
+            "reach": 4833,
+            "link_clicks": 15,
+            "replies": 34
+        },
+        "Mensagens Diretas": {
+            "message_id": "c3eed101-fd94-4111-83ba-914f6800f0ef",
+            "receiver_id": "e61ebd0d-d020-493e-907d-7119ef61e5a0",
+            "message": "Quero saber mais sobre a próxima promoção.",
+            "reactions": {
+                "likes": 25,
+                "laughs": 49
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 2072
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "70db9df9-0138-4548-b0d3-cab4b7e63214",
+            "impressions": 6582,
+            "reach": 4680
+        },
+        "Taxa de Engajamento": {
+            "likes": 446,
+            "comments": 142,
+            "shares": 22,
+            "saves": 119
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 345,
+                "Female_18-24": 231,
+                "Male_25-34": 186,
+                "Female_25-34": 363,
+                "Male_35-44": 346,
+                "Female_35-44": 262
+            },
+            "audience_country": {
+                "USA": 1718,
+                "Brazil": 926,
+                "India": 1066,
+                "Germany": 932
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "6c3cef2b-9401-4dc4-ac68-6f5045b9e4be",
+            "campaign_name": "nulla",
+            "impressions": 9107,
+            "clicks": 406,
+            "spend": 483.43,
+            "actions": {
+                "conversions": 13,
+                "leads": 10
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "222ba742-c914-4b89-b2f2-524cd7b0432c",
+            "impressions": 7005,
+            "reach": 1327,
+            "link_clicks": 142,
+            "replies": 34
+        },
+        "Mensagens Diretas": {
+            "message_id": "a5e956e8-cdbc-45c3-8da7-5e2261c4318d",
+            "receiver_id": "8586b8da-295a-49ab-92c2-4095854c96a0",
+            "message": "A rádio está tocando um bom mix de músicas, continue assim!",
+            "reactions": {
+                "likes": 20,
+                "laughs": 16
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 3468
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "df5c8ea2-59c1-4d53-a75d-532e871d8617",
+            "impressions": 7879,
+            "reach": 4345
+        },
+        "Taxa de Engajamento": {
+            "likes": 464,
+            "comments": 245,
+            "shares": 89,
+            "saves": 143
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 334,
+                "Female_18-24": 116,
+                "Male_25-34": 200,
+                "Female_25-34": 302,
+                "Male_35-44": 278,
+                "Female_35-44": 487
+            },
+            "audience_country": {
+                "USA": 3139,
+                "Brazil": 558,
+                "India": 2651,
+                "Germany": 776
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "daa12ca8-9dc3-433e-adca-5451acec990d",
+            "campaign_name": "animi",
+            "impressions": 7076,
+            "clicks": 892,
+            "spend": 202.2,
+            "actions": {
+                "conversions": 12,
+                "leads": 11
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "7aae3337-4265-4aa4-afb2-166369dc34d9",
+            "impressions": 4820,
+            "reach": 3395,
+            "link_clicks": 179,
+            "replies": 8
+        },
+        "Mensagens Diretas": {
+            "message_id": "1debcb98-0d6d-4d4c-9daf-21cc524e6d57",
+            "receiver_id": "8d85dcc9-bd8b-45db-a3ff-1bc2d8e421ce",
+            "message": "Quero sugerir uma nova faixa para a playlist da rádio.",
+            "reactions": {
+                "likes": 83,
+                "laughs": 26
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 8200
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "912575f8-7159-4915-a336-bcbe7e374223",
+            "impressions": 8261,
+            "reach": 4690
+        },
+        "Taxa de Engajamento": {
+            "likes": 869,
+            "comments": 356,
+            "shares": 186,
+            "saves": 27
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 328,
+                "Female_18-24": 242,
+                "Male_25-34": 418,
+                "Female_25-34": 466,
+                "Male_35-44": 157,
+                "Female_35-44": 133
+            },
+            "audience_country": {
+                "USA": 2071,
+                "Brazil": 1661,
+                "India": 758,
+                "Germany": 404
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "3538e2b1-7682-4bba-ac53-6233a690c64f",
+            "campaign_name": "recusandae",
+            "impressions": 2146,
+            "clicks": 445,
+            "spend": 156.07,
+            "actions": {
+                "conversions": 27,
+                "leads": 9
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "6128316b-cc5f-47cf-8ef9-166a7c8215b0",
+            "impressions": 5030,
+            "reach": 2621,
+            "link_clicks": 32,
+            "replies": 39
+        },
+        "Mensagens Diretas": {
+            "message_id": "507d7f18-52fd-4b6e-b0e7-7bae67532a8e",
+            "receiver_id": "8e3e6585-f30a-48f6-a82e-6a7ba4636a1a",
+            "message": "Quero saber mais sobre a próxima promoção.",
+            "reactions": {
+                "likes": 81,
+                "laughs": 37
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 4416
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "d6adeb3b-19cc-45bb-ad32-d9a057c486bc",
+            "impressions": 4652,
+            "reach": 573
+        },
+        "Taxa de Engajamento": {
+            "likes": 761,
+            "comments": 401,
+            "shares": 175,
+            "saves": 145
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 240,
+                "Female_18-24": 172,
+                "Male_25-34": 319,
+                "Female_25-34": 444,
+                "Male_35-44": 308,
+                "Female_35-44": 464
+            },
+            "audience_country": {
+                "USA": 4743,
+                "Brazil": 1226,
+                "India": 2830,
+                "Germany": 269
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "d8ed73e0-f3e9-447f-833e-bf27773324b5",
+            "campaign_name": "saepe",
+            "impressions": 9673,
+            "clicks": 902,
+            "spend": 63.29,
+            "actions": {
+                "conversions": 24,
+                "leads": 22
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "ff89be42-222b-43bb-baa0-e8cb941c1c85",
+            "impressions": 2106,
+            "reach": 2420,
+            "link_clicks": 189,
+            "replies": 44
+        },
+        "Mensagens Diretas": {
+            "message_id": "a9ad4e69-37b1-4243-bfab-16f09dcca87e",
+            "receiver_id": "026f18ef-8d13-498d-a31b-66b3732a1494",
+            "message": "Não estou conseguindo participar da promoção, o sistema parece estar com problemas.",
+            "reactions": {
+                "likes": 13,
+                "laughs": 14
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 7464
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "57bcb83d-9ec9-4e79-b8cc-344a269e51b9",
+            "impressions": 6524,
+            "reach": 4717
+        },
+        "Taxa de Engajamento": {
+            "likes": 175,
+            "comments": 207,
+            "shares": 169,
+            "saves": 76
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 148,
+                "Female_18-24": 307,
+                "Male_25-34": 168,
+                "Female_25-34": 117,
+                "Male_35-44": 212,
+                "Female_35-44": 393
+            },
+            "audience_country": {
+                "USA": 4893,
+                "Brazil": 1869,
+                "India": 2282,
+                "Germany": 248
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "cc188d86-b922-435d-8415-dde90586b5f3",
+            "campaign_name": "repellendus",
+            "impressions": 8784,
+            "clicks": 526,
+            "spend": 280.78,
+            "actions": {
+                "conversions": 90,
+                "leads": 7
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "2e53a6a7-deda-41b4-8529-3e7020372c4c",
+            "impressions": 8686,
+            "reach": 2892,
+            "link_clicks": 183,
+            "replies": 32
+        },
+        "Mensagens Diretas": {
+            "message_id": "93c8e1ab-0656-4f19-9b3e-fb3e25c2d691",
+            "receiver_id": "6b4d02b7-1702-47d7-bdeb-33bb996322c0",
+            "message": "Gostaria de saber sobre os novos horários dos programas.",
+            "reactions": {
+                "likes": 23,
+                "laughs": 9
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 3981
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "0e16e1ce-f2e8-48e3-8dd1-5aa753aa6a3c",
+            "impressions": 8037,
+            "reach": 4171
+        },
+        "Taxa de Engajamento": {
+            "likes": 532,
+            "comments": 395,
+            "shares": 77,
+            "saves": 145
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 408,
+                "Female_18-24": 400,
+                "Male_25-34": 170,
+                "Female_25-34": 350,
+                "Male_35-44": 116,
+                "Female_35-44": 421
+            },
+            "audience_country": {
+                "USA": 3336,
+                "Brazil": 1637,
+                "India": 696,
+                "Germany": 822
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "f2c5b5b7-9764-4cf1-8dd6-ec0175492070",
+            "campaign_name": "ex",
+            "impressions": 3515,
+            "clicks": 255,
+            "spend": 293.09,
+            "actions": {
+                "conversions": 58,
+                "leads": 14
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "6f4fe8e8-3cfc-4b18-b5f5-fd2acefd7748",
+            "impressions": 8943,
+            "reach": 1824,
+            "link_clicks": 56,
+            "replies": 30
+        },
+        "Mensagens Diretas": {
+            "message_id": "bb2be80d-cdd8-4d03-84b7-dcb203e6ba91",
+            "receiver_id": "1b9a13ff-a272-4276-b5bc-ead266a4e9e9",
+            "message": "Agradeço pelo feedback rápido, a rádio é ótima!",
+            "reactions": {
+                "likes": 70,
+                "laughs": 18
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 8887
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "415d83d3-03a2-44cc-a8c2-89c3f2473d8b",
+            "impressions": 5496,
+            "reach": 1729
+        },
+        "Taxa de Engajamento": {
+            "likes": 146,
+            "comments": 201,
+            "shares": 79,
+            "saves": 75
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 355,
+                "Female_18-24": 197,
+                "Male_25-34": 394,
+                "Female_25-34": 257,
+                "Male_35-44": 152,
+                "Female_35-44": 488
+            },
+            "audience_country": {
+                "USA": 1994,
+                "Brazil": 590,
+                "India": 994,
+                "Germany": 616
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "8b9590c8-1517-4575-8d30-20a3f5b48417",
+            "campaign_name": "laudantium",
+            "impressions": 8140,
+            "clicks": 704,
+            "spend": 278.65,
+            "actions": {
+                "conversions": 67,
+                "leads": 31
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "6f2f1fb8-d7d7-43c5-b11f-53b0d0cbd508",
+            "impressions": 2295,
+            "reach": 3541,
+            "link_clicks": 95,
+            "replies": 7
+        },
+        "Mensagens Diretas": {
+            "message_id": "8a729241-0f3a-4d0c-bd3b-d1a0801d8ff9",
+            "receiver_id": "b2def904-7b90-4586-8b30-afe2949c3f48",
+            "message": "Por favor, toque minha música favorita.",
+            "reactions": {
+                "likes": 67,
+                "laughs": 7
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 1304
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "ff0b4d20-aa7b-4df7-a297-36ea4e94d134",
+            "impressions": 5148,
+            "reach": 789
+        },
+        "Taxa de Engajamento": {
+            "likes": 705,
+            "comments": 250,
+            "shares": 30,
+            "saves": 113
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 166,
+                "Female_18-24": 187,
+                "Male_25-34": 170,
+                "Female_25-34": 193,
+                "Male_35-44": 411,
+                "Female_35-44": 285
+            },
+            "audience_country": {
+                "USA": 2283,
+                "Brazil": 2650,
+                "India": 909,
+                "Germany": 583
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "b2d4f10d-8b47-4dd9-baa9-47087863276e",
+            "campaign_name": "nostrum",
+            "impressions": 6295,
+            "clicks": 985,
+            "spend": 107.89,
+            "actions": {
+                "conversions": 47,
+                "leads": 32
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "4fd50953-65a6-4108-9651-248b5a798db1",
+            "impressions": 7965,
+            "reach": 2149,
+            "link_clicks": 128,
+            "replies": 36
+        },
+        "Mensagens Diretas": {
+            "message_id": "0c4efaf4-754f-4897-b328-539960fe1a1a",
+            "receiver_id": "6c78520b-cdb4-411c-ae31-846869b1ea13",
+            "message": "Adorei a programação de ontem à noite, foi muito divertida!",
+            "reactions": {
+                "likes": 68,
+                "laughs": 8
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 1279
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "345e60cd-f9e4-4552-b280-231b3cb73235",
+            "impressions": 6140,
+            "reach": 4587
+        },
+        "Taxa de Engajamento": {
+            "likes": 595,
+            "comments": 269,
+            "shares": 139,
+            "saves": 128
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 110,
+                "Female_18-24": 356,
+                "Male_25-34": 449,
+                "Female_25-34": 138,
+                "Male_35-44": 151,
+                "Female_35-44": 336
+            },
+            "audience_country": {
+                "USA": 4235,
+                "Brazil": 2448,
+                "India": 2414,
+                "Germany": 703
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "47df9b26-a2d1-4810-8338-4e1374ae4054",
+            "campaign_name": "eos",
+            "impressions": 9218,
+            "clicks": 598,
+            "spend": 69.06,
+            "actions": {
+                "conversions": 43,
+                "leads": 39
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "7d077f7a-b89f-4ba2-8c84-408edab24546",
+            "impressions": 2114,
+            "reach": 2143,
+            "link_clicks": 63,
+            "replies": 34
+        },
+        "Mensagens Diretas": {
+            "message_id": "e721c850-ee39-4e52-a4fd-27fad4649a1a",
+            "receiver_id": "f244623c-bc73-46de-a001-4fec07ae4385",
+            "message": "O conteúdo das notícias está muito bom, mas poderia ser mais atualizado.",
+            "reactions": {
+                "likes": 56,
+                "laughs": 28
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 2579
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "c032ebda-de39-44ce-8cce-2fc9245bbca5",
+            "impressions": 6279,
+            "reach": 2262
+        },
+        "Taxa de Engajamento": {
+            "likes": 348,
+            "comments": 299,
+            "shares": 90,
+            "saves": 23
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 365,
+                "Female_18-24": 346,
+                "Male_25-34": 366,
+                "Female_25-34": 289,
+                "Male_35-44": 451,
+                "Female_35-44": 132
+            },
+            "audience_country": {
+                "USA": 4916,
+                "Brazil": 1960,
+                "India": 852,
+                "Germany": 752
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "4f7213ae-ed31-4aca-96d0-15762f43cc93",
+            "campaign_name": "error",
+            "impressions": 6752,
+            "clicks": 305,
+            "spend": 444.94,
+            "actions": {
+                "conversions": 74,
+                "leads": 32
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "a91e9e2f-2342-4ab4-99b9-e95f5a83ddbd",
+            "impressions": 2702,
+            "reach": 3534,
+            "link_clicks": 152,
+            "replies": 4
+        },
+        "Mensagens Diretas": {
+            "message_id": "42aae8bf-02cf-4d21-b02a-97da794bbcad",
+            "receiver_id": "35646a90-dede-4148-9ca1-518584f7564e",
+            "message": "Não estou conseguindo participar da promoção, o sistema parece estar com problemas.",
+            "reactions": {
+                "likes": 26,
+                "laughs": 11
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 2139
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "62e1f97a-0842-4219-9d62-8ab35d9a14ed",
+            "impressions": 5114,
+            "reach": 4500
+        },
+        "Taxa de Engajamento": {
+            "likes": 418,
+            "comments": 187,
+            "shares": 69,
+            "saves": 12
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 184,
+                "Female_18-24": 377,
+                "Male_25-34": 438,
+                "Female_25-34": 146,
+                "Male_35-44": 479,
+                "Female_35-44": 353
+            },
+            "audience_country": {
+                "USA": 3606,
+                "Brazil": 1101,
+                "India": 766,
+                "Germany": 738
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "98a61b20-68a2-4622-be2b-4bb22529be2f",
+            "campaign_name": "minus",
+            "impressions": 5786,
+            "clicks": 514,
+            "spend": 439.04,
+            "actions": {
+                "conversions": 98,
+                "leads": 21
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "ad7418ef-d51f-40e9-b214-c27116435446",
+            "impressions": 5966,
+            "reach": 1506,
+            "link_clicks": 71,
+            "replies": 9
+        },
+        "Mensagens Diretas": {
+            "message_id": "a99b791f-c9b6-4e90-8415-ae290ccf6d27",
+            "receiver_id": "889ee951-18e7-4074-af04-84ebeef33ea0",
+            "message": "Adorei a programação de ontem à noite, foi muito divertida!",
+            "reactions": {
+                "likes": 31,
+                "laughs": 25
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 5452
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "53d199a6-58d1-4207-80e6-7ef1812c4056",
+            "impressions": 3034,
+            "reach": 3605
+        },
+        "Taxa de Engajamento": {
+            "likes": 645,
+            "comments": 307,
+            "shares": 50,
+            "saves": 39
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 193,
+                "Female_18-24": 238,
+                "Male_25-34": 309,
+                "Female_25-34": 191,
+                "Male_35-44": 474,
+                "Female_35-44": 391
+            },
+            "audience_country": {
+                "USA": 2225,
+                "Brazil": 626,
+                "India": 1237,
+                "Germany": 751
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "c10d7d6b-db97-42c1-9fbd-d61eaee192b5",
+            "campaign_name": "rerum",
+            "impressions": 1149,
+            "clicks": 134,
+            "spend": 134.22,
+            "actions": {
+                "conversions": 88,
+                "leads": 16
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "9258bf5e-a0ba-4735-ac11-7b29c8c9bfa2",
+            "impressions": 7206,
+            "reach": 1300,
+            "link_clicks": 58,
+            "replies": 27
+        },
+        "Mensagens Diretas": {
+            "message_id": "18ef9ad9-6016-48cd-b6c5-c2454db0ba58",
+            "receiver_id": "cb008cd7-029b-4106-ae91-c7001ea3609f",
+            "message": "Agradeço a equipe por sempre tocar minhas músicas favoritas!",
+            "reactions": {
+                "likes": 85,
+                "laughs": 14
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 8731
+        }
+    },
+    {
+        "Impressões e Alcance": {
+            "media_id": "511af4dc-5e09-40e9-a4cc-d849ab8559a9",
+            "impressions": 6021,
+            "reach": 851
+        },
+        "Taxa de Engajamento": {
+            "likes": 946,
+            "comments": 59,
+            "shares": 161,
+            "saves": 24
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 269,
+                "Female_18-24": 408,
+                "Male_25-34": 272,
+                "Female_25-34": 433,
+                "Male_35-44": 319,
+                "Female_35-44": 227
+            },
+            "audience_country": {
+                "USA": 3615,
+                "Brazil": 1816,
+                "India": 848,
+                "Germany": 809
+            }
+        },
+        "Dados de Anúncios": {
+            "ad_id": "98db52d7-06f3-43d9-ab1d-b1eeb944f182",
+            "campaign_name": "cum",
+            "impressions": 6083,
+            "clicks": 393,
+            "spend": 430.75,
+            "actions": {
+                "conversions": 40,
+                "leads": 11
+            }
+        },
+        "Métricas de Stories": {
+            "story_id": "01ae158d-962b-4f62-9e7d-a2750b7d7fe2",
+            "impressions": 8575,
+            "reach": 543,
+            "link_clicks": 189,
+            "replies": 25
+        },
+        "Mensagens Diretas": {
+            "message_id": "12af3ffd-1a8d-4337-a5c8-26de666e2383",
+            "receiver_id": "f8b2a33a-16b5-4aa1-b68f-1f4f8635baf4",
+            "message": "Amei a última promoção, seria interessante ter mais como essa.",
+            "reactions": {
+                "likes": 18,
+                "laughs": 8
+            }
+        },
+        "Desempenho de Conteúdo": {
+            "video_views": 5060
+        }
+    }
+]

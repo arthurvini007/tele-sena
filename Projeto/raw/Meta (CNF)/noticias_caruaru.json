@@ -1,0 +1,5902 @@
+[
+    {
+        "Impressoes e Alcance": {
+            "media_id": "6a39372e-2a54-4a37-8eed-3aee088b87e6",
+            "impressions": 8110,
+            "reach": 2869
+        },
+        "Taxa de Engajamento": {
+            "likes": 207,
+            "comments": 284,
+            "shares": 14,
+            "saves": 131
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 160,
+                "Female_18-24": 201,
+                "Male_25-34": 104,
+                "Female_25-34": 237,
+                "Male_35-44": 404,
+                "Female_35-44": 309
+            },
+            "audience_country": {
+                "USA": 2033,
+                "Brazil": 2610,
+                "India": 1085,
+                "Germany": 575
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "2d3e2e93-cd64-4f61-8357-c9dd332dcf48",
+            "campaign_name": "reprehenderit",
+            "impressions": 3507,
+            "clicks": 352,
+            "spend": 255.65,
+            "actions": {
+                "conversions": 83,
+                "leads": 38
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "5376e3a7-462a-41fd-b7cb-50256acfc199",
+            "impressions": 4935,
+            "reach": 2205,
+            "link_clicks": 192,
+            "replies": 3
+        },
+        "Mensagens Diretas": {
+            "message_id": "2ba3a272-1b02-4807-ab1c-c9a357885c60",
+            "receiver_id": "1c4463f4-2c15-45c6-b0f6-19232541544a",
+            "message": "Agradeço pela cobertura das eleições municipais, ajudou bastante.",
+            "reactions": {
+                "likes": 24,
+                "laughs": 24
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 6272
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "ef237ec4-5dce-4778-a70e-ee3f70b34528",
+            "impressions": 5776,
+            "reach": 2582
+        },
+        "Taxa de Engajamento": {
+            "likes": 773,
+            "comments": 270,
+            "shares": 173,
+            "saves": 18
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 209,
+                "Female_18-24": 325,
+                "Male_25-34": 294,
+                "Female_25-34": 329,
+                "Male_35-44": 207,
+                "Female_35-44": 319
+            },
+            "audience_country": {
+                "USA": 3397,
+                "Brazil": 2183,
+                "India": 761,
+                "Germany": 907
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "55ae76b8-fb6a-4870-aaf8-f7e4d1f41863",
+            "campaign_name": "corrupti",
+            "impressions": 3860,
+            "clicks": 682,
+            "spend": 361.39,
+            "actions": {
+                "conversions": 79,
+                "leads": 25
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "268c9144-fa8f-463e-a927-106d690f4094",
+            "impressions": 9185,
+            "reach": 2695,
+            "link_clicks": 183,
+            "replies": 20
+        },
+        "Mensagens Diretas": {
+            "message_id": "4d0c8de8-b8b5-4814-808e-57656d97161b",
+            "receiver_id": "c6b4d276-bda5-4036-b113-11aebb30433a",
+            "message": "Achei interessante a notícia sobre a nova praça no bairro X, obrigado por compartilhar.",
+            "reactions": {
+                "likes": 100,
+                "laughs": 29
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 4188
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "44db7268-6e52-449b-9dd6-9d92bb57e1f3",
+            "impressions": 1512,
+            "reach": 1063
+        },
+        "Taxa de Engajamento": {
+            "likes": 805,
+            "comments": 254,
+            "shares": 80,
+            "saves": 11
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 261,
+                "Female_18-24": 337,
+                "Male_25-34": 117,
+                "Female_25-34": 471,
+                "Male_35-44": 427,
+                "Female_35-44": 141
+            },
+            "audience_country": {
+                "USA": 3888,
+                "Brazil": 2945,
+                "India": 2840,
+                "Germany": 464
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "5a2665a8-ce9f-4939-93d7-8246695c81b2",
+            "campaign_name": "illo",
+            "impressions": 3123,
+            "clicks": 988,
+            "spend": 171.8,
+            "actions": {
+                "conversions": 49,
+                "leads": 6
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "1d946538-0210-4a20-9c15-a836b7d26b06",
+            "impressions": 4282,
+            "reach": 2569,
+            "link_clicks": 32,
+            "replies": 15
+        },
+        "Mensagens Diretas": {
+            "message_id": "f2e3979f-13dc-40e0-b201-a44ea706d3c5",
+            "receiver_id": "520397c0-a2aa-4bc6-9c34-91034d3d5f58",
+            "message": "A matéria sobre as melhorias nas escolas de Caruaru foi muito bem-vinda, espero mais sobre o tema.",
+            "reactions": {
+                "likes": 88,
+                "laughs": 18
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 9616
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "5b737191-92ab-43d2-b813-649c8f8c2f45",
+            "impressions": 6829,
+            "reach": 1561
+        },
+        "Taxa de Engajamento": {
+            "likes": 131,
+            "comments": 140,
+            "shares": 183,
+            "saves": 18
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 266,
+                "Female_18-24": 268,
+                "Male_25-34": 391,
+                "Female_25-34": 264,
+                "Male_35-44": 231,
+                "Female_35-44": 329
+            },
+            "audience_country": {
+                "USA": 2328,
+                "Brazil": 2665,
+                "India": 870,
+                "Germany": 231
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "7fd5fea3-4bad-4363-b7fd-6f7bc8c777ff",
+            "campaign_name": "nisi",
+            "impressions": 8068,
+            "clicks": 330,
+            "spend": 477.84,
+            "actions": {
+                "conversions": 64,
+                "leads": 38
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "6dd143f1-7a39-48e1-8f3f-5b3a8026b908",
+            "impressions": 5680,
+            "reach": 2152,
+            "link_clicks": 135,
+            "replies": 50
+        },
+        "Mensagens Diretas": {
+            "message_id": "072a06f7-b852-4abc-8f29-bc9f509597d4",
+            "receiver_id": "02c717ce-3b7f-426f-94b8-db33a2b861ce",
+            "message": "Achei interessante a notícia sobre a nova praça no bairro X, obrigado por compartilhar.",
+            "reactions": {
+                "likes": 21,
+                "laughs": 41
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 3415
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "37612e44-9eed-4a3b-a536-d79f5d45931c",
+            "impressions": 5480,
+            "reach": 574
+        },
+        "Taxa de Engajamento": {
+            "likes": 136,
+            "comments": 178,
+            "shares": 27,
+            "saves": 10
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 133,
+                "Female_18-24": 134,
+                "Male_25-34": 434,
+                "Female_25-34": 155,
+                "Male_35-44": 133,
+                "Female_35-44": 219
+            },
+            "audience_country": {
+                "USA": 2673,
+                "Brazil": 1768,
+                "India": 1781,
+                "Germany": 150
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "79ad8c90-41f7-44cc-88c3-ae0d42814fe0",
+            "campaign_name": "numquam",
+            "impressions": 3524,
+            "clicks": 898,
+            "spend": 180.62,
+            "actions": {
+                "conversions": 84,
+                "leads": 32
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "1a29f320-314d-4a60-b4d7-8d489f797e44",
+            "impressions": 5018,
+            "reach": 2658,
+            "link_clicks": 43,
+            "replies": 17
+        },
+        "Mensagens Diretas": {
+            "message_id": "77819729-005b-4d53-89d1-9887a077c43f",
+            "receiver_id": "3be22adc-be08-484c-bcc5-b9c3c06b4d52",
+            "message": "Estou ansioso para as próximas atualizações sobre o festival de música de Caruaru.",
+            "reactions": {
+                "likes": 24,
+                "laughs": 32
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 9211
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "2dde7555-58af-4d35-a07d-af70c92cc3a1",
+            "impressions": 1130,
+            "reach": 1905
+        },
+        "Taxa de Engajamento": {
+            "likes": 948,
+            "comments": 489,
+            "shares": 123,
+            "saves": 118
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 214,
+                "Female_18-24": 315,
+                "Male_25-34": 366,
+                "Female_25-34": 233,
+                "Male_35-44": 155,
+                "Female_35-44": 197
+            },
+            "audience_country": {
+                "USA": 1527,
+                "Brazil": 2142,
+                "India": 1184,
+                "Germany": 324
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "0e1a39e3-94b0-4cc5-9370-0975b691c901",
+            "campaign_name": "vero",
+            "impressions": 7348,
+            "clicks": 412,
+            "spend": 277.56,
+            "actions": {
+                "conversions": 62,
+                "leads": 8
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "b2c8b090-a1c1-4388-a6aa-57126217604f",
+            "impressions": 4896,
+            "reach": 2547,
+            "link_clicks": 60,
+            "replies": 5
+        },
+        "Mensagens Diretas": {
+            "message_id": "0554cb10-e94a-426d-b7ea-d70a38373b2a",
+            "receiver_id": "7e0327e5-d55b-4ab1-b5d0-ffcc90022e94",
+            "message": "Adorei a entrevista com o prefeito sobre os novos projetos para a cidade.",
+            "reactions": {
+                "likes": 17,
+                "laughs": 25
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 7028
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "679d1794-c76e-4142-b02a-28c4c41ec31f",
+            "impressions": 9994,
+            "reach": 626
+        },
+        "Taxa de Engajamento": {
+            "likes": 241,
+            "comments": 124,
+            "shares": 68,
+            "saves": 130
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 167,
+                "Female_18-24": 489,
+                "Male_25-34": 398,
+                "Female_25-34": 344,
+                "Male_35-44": 135,
+                "Female_35-44": 203
+            },
+            "audience_country": {
+                "USA": 4369,
+                "Brazil": 877,
+                "India": 888,
+                "Germany": 225
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "301e19a9-ddcc-44c3-a95b-a3e6851286c8",
+            "campaign_name": "sit",
+            "impressions": 9259,
+            "clicks": 102,
+            "spend": 219.3,
+            "actions": {
+                "conversions": 95,
+                "leads": 26
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "34f25df2-26f5-4418-b065-3b9ca022a995",
+            "impressions": 7868,
+            "reach": 1356,
+            "link_clicks": 110,
+            "replies": 22
+        },
+        "Mensagens Diretas": {
+            "message_id": "7f0c3dd2-8282-46b1-b6a1-6e24da025d37",
+            "receiver_id": "9be8fdd4-c0eb-4772-85a0-092956c9bc1f",
+            "message": "O que vocês acham da nova iniciativa cultural na cidade? Estou curioso para saber mais.",
+            "reactions": {
+                "likes": 41,
+                "laughs": 40
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 4926
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "d7393bc2-03ae-4d23-98af-8f7faf6666f8",
+            "impressions": 8167,
+            "reach": 1408
+        },
+        "Taxa de Engajamento": {
+            "likes": 133,
+            "comments": 131,
+            "shares": 120,
+            "saves": 54
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 372,
+                "Female_18-24": 207,
+                "Male_25-34": 225,
+                "Female_25-34": 117,
+                "Male_35-44": 242,
+                "Female_35-44": 390
+            },
+            "audience_country": {
+                "USA": 3949,
+                "Brazil": 1872,
+                "India": 2822,
+                "Germany": 176
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "4f6897f2-a8ef-4fb4-9f6c-c789a3867893",
+            "campaign_name": "aliquam",
+            "impressions": 4933,
+            "clicks": 921,
+            "spend": 432.62,
+            "actions": {
+                "conversions": 68,
+                "leads": 44
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "2c82102d-1762-4039-8cb3-736e9c7758a9",
+            "impressions": 9777,
+            "reach": 4111,
+            "link_clicks": 32,
+            "replies": 10
+        },
+        "Mensagens Diretas": {
+            "message_id": "ab19a254-4eef-4d01-8ce5-9ad19b5859f1",
+            "receiver_id": "94444533-1aca-43cf-b78c-282d8c493b46",
+            "message": "A cobertura sobre o crescimento econômico da cidade foi muito útil, obrigado!",
+            "reactions": {
+                "likes": 81,
+                "laughs": 41
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 5049
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "6e9be34e-6ee6-4ad2-8929-e7e2ef0fe0ce",
+            "impressions": 6277,
+            "reach": 1508
+        },
+        "Taxa de Engajamento": {
+            "likes": 778,
+            "comments": 94,
+            "shares": 55,
+            "saves": 114
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 230,
+                "Female_18-24": 316,
+                "Male_25-34": 172,
+                "Female_25-34": 467,
+                "Male_35-44": 340,
+                "Female_35-44": 358
+            },
+            "audience_country": {
+                "USA": 4205,
+                "Brazil": 1194,
+                "India": 1937,
+                "Germany": 474
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "ba4e93b3-9bd8-4230-aee5-d0c515f81af2",
+            "campaign_name": "quae",
+            "impressions": 6518,
+            "clicks": 977,
+            "spend": 296.36,
+            "actions": {
+                "conversions": 74,
+                "leads": 18
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "71543216-a739-4d90-adc2-c1db0b0bcb23",
+            "impressions": 5894,
+            "reach": 3314,
+            "link_clicks": 28,
+            "replies": 39
+        },
+        "Mensagens Diretas": {
+            "message_id": "fed0ad4a-c2e2-4329-8d5f-645c06e4b925",
+            "receiver_id": "44321982-034d-41dd-b5b4-f4e94d56b463",
+            "message": "Seria ótimo se vocês pudessem fazer uma reportagem sobre o impacto das novas regras de transporte público.",
+            "reactions": {
+                "likes": 84,
+                "laughs": 6
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 6225
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "5a969ae5-963c-4233-8089-f4caed2701f2",
+            "impressions": 3804,
+            "reach": 1394
+        },
+        "Taxa de Engajamento": {
+            "likes": 210,
+            "comments": 95,
+            "shares": 121,
+            "saves": 147
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 239,
+                "Female_18-24": 404,
+                "Male_25-34": 299,
+                "Female_25-34": 332,
+                "Male_35-44": 327,
+                "Female_35-44": 141
+            },
+            "audience_country": {
+                "USA": 4765,
+                "Brazil": 2155,
+                "India": 2763,
+                "Germany": 174
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "eb2d2c2b-241b-4efe-903b-c9557c6b3c31",
+            "campaign_name": "atque",
+            "impressions": 4947,
+            "clicks": 772,
+            "spend": 156.54,
+            "actions": {
+                "conversions": 93,
+                "leads": 17
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "04f1abb2-b811-4b40-9d7d-bbc19e903da4",
+            "impressions": 5903,
+            "reach": 835,
+            "link_clicks": 14,
+            "replies": 8
+        },
+        "Mensagens Diretas": {
+            "message_id": "7df64c07-d746-4fdb-a93c-3e576fc7d6d8",
+            "receiver_id": "ef225ccd-6534-4a14-845d-0540d8b03580",
+            "message": "Achei interessante a notícia sobre a nova praça no bairro X, obrigado por compartilhar.",
+            "reactions": {
+                "likes": 75,
+                "laughs": 1
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 1751
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "fbc8272f-9fef-4abf-b14b-d7bf8158102a",
+            "impressions": 4246,
+            "reach": 3590
+        },
+        "Taxa de Engajamento": {
+            "likes": 755,
+            "comments": 205,
+            "shares": 169,
+            "saves": 68
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 234,
+                "Female_18-24": 297,
+                "Male_25-34": 337,
+                "Female_25-34": 291,
+                "Male_35-44": 397,
+                "Female_35-44": 290
+            },
+            "audience_country": {
+                "USA": 2329,
+                "Brazil": 2211,
+                "India": 1707,
+                "Germany": 729
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "d8a9a664-3871-4989-9b75-de05adce6f2d",
+            "campaign_name": "explicabo",
+            "impressions": 6518,
+            "clicks": 939,
+            "spend": 346.24,
+            "actions": {
+                "conversions": 42,
+                "leads": 14
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "baf32535-0983-44db-8f7e-f3ee02ecaedb",
+            "impressions": 1868,
+            "reach": 1139,
+            "link_clicks": 78,
+            "replies": 46
+        },
+        "Mensagens Diretas": {
+            "message_id": "b4e35b2e-1668-419b-ad5f-4ca26f64ab62",
+            "receiver_id": "a2778946-9625-4b90-afc6-d958f0740940",
+            "message": "Seria ótimo se vocês pudessem fazer uma reportagem sobre o impacto das novas regras de transporte público.",
+            "reactions": {
+                "likes": 26,
+                "laughs": 37
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 7307
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "fdfa0637-ab51-487e-b605-065c61d5f51e",
+            "impressions": 2524,
+            "reach": 3987
+        },
+        "Taxa de Engajamento": {
+            "likes": 219,
+            "comments": 79,
+            "shares": 110,
+            "saves": 58
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 402,
+                "Female_18-24": 307,
+                "Male_25-34": 484,
+                "Female_25-34": 379,
+                "Male_35-44": 390,
+                "Female_35-44": 196
+            },
+            "audience_country": {
+                "USA": 1365,
+                "Brazil": 2710,
+                "India": 2857,
+                "Germany": 320
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "e6adf5c9-afb5-4b57-b6e9-05148f973a44",
+            "campaign_name": "ad",
+            "impressions": 8133,
+            "clicks": 537,
+            "spend": 418.85,
+            "actions": {
+                "conversions": 83,
+                "leads": 41
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "8bdb7b27-1205-41ab-b52d-c9f96663f20e",
+            "impressions": 8807,
+            "reach": 3827,
+            "link_clicks": 191,
+            "replies": 27
+        },
+        "Mensagens Diretas": {
+            "message_id": "69de4cf5-02ab-4bd6-b34e-9bcd55a9dd41",
+            "receiver_id": "c96c8ddb-1a6f-440d-9ac1-4d8922029743",
+            "message": "O que vocês acham da nova iniciativa cultural na cidade? Estou curioso para saber mais.",
+            "reactions": {
+                "likes": 28,
+                "laughs": 7
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 8915
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "f2fb5bc6-76b4-4020-a582-88330765e4f1",
+            "impressions": 1250,
+            "reach": 2900
+        },
+        "Taxa de Engajamento": {
+            "likes": 587,
+            "comments": 130,
+            "shares": 78,
+            "saves": 130
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 304,
+                "Female_18-24": 159,
+                "Male_25-34": 417,
+                "Female_25-34": 327,
+                "Male_35-44": 153,
+                "Female_35-44": 317
+            },
+            "audience_country": {
+                "USA": 4979,
+                "Brazil": 2274,
+                "India": 680,
+                "Germany": 199
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "4472d0a2-f5db-4a12-a97a-f8db3b18ad08",
+            "campaign_name": "laboriosam",
+            "impressions": 3926,
+            "clicks": 756,
+            "spend": 414.01,
+            "actions": {
+                "conversions": 61,
+                "leads": 34
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "907ffba8-b670-46a4-af0a-f66af9d98804",
+            "impressions": 6095,
+            "reach": 2325,
+            "link_clicks": 88,
+            "replies": 41
+        },
+        "Mensagens Diretas": {
+            "message_id": "6abccced-6e58-4693-8cdc-4e43e646a7c1",
+            "receiver_id": "254c4d76-152b-4dea-9fe9-8354a7cf2aaf",
+            "message": "O que vocês acharam da recente mudança no comércio local? Deixe-nos saber.",
+            "reactions": {
+                "likes": 71,
+                "laughs": 5
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 5167
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "84fd03e7-b233-4125-824d-48c9f4353ab3",
+            "impressions": 5762,
+            "reach": 4058
+        },
+        "Taxa de Engajamento": {
+            "likes": 434,
+            "comments": 418,
+            "shares": 76,
+            "saves": 10
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 235,
+                "Female_18-24": 305,
+                "Male_25-34": 410,
+                "Female_25-34": 141,
+                "Male_35-44": 133,
+                "Female_35-44": 363
+            },
+            "audience_country": {
+                "USA": 3792,
+                "Brazil": 1339,
+                "India": 2492,
+                "Germany": 175
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "a8cb3dc1-6b45-41c9-bbd5-0b028b729553",
+            "campaign_name": "voluptates",
+            "impressions": 9185,
+            "clicks": 734,
+            "spend": 416.22,
+            "actions": {
+                "conversions": 73,
+                "leads": 5
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "33a29288-d8d5-4a65-890b-6cda0666aeea",
+            "impressions": 9964,
+            "reach": 2954,
+            "link_clicks": 99,
+            "replies": 16
+        },
+        "Mensagens Diretas": {
+            "message_id": "de373f7c-a0d1-4afb-91a8-e2c10e4129e7",
+            "receiver_id": "2259d3d1-a4c8-486b-a60e-4e6686ee42a8",
+            "message": "O que vocês acharam da recente mudança no comércio local? Deixe-nos saber.",
+            "reactions": {
+                "likes": 12,
+                "laughs": 6
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 7960
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "e33e42a7-304d-404d-aca3-7df0109fc3fb",
+            "impressions": 6075,
+            "reach": 4251
+        },
+        "Taxa de Engajamento": {
+            "likes": 122,
+            "comments": 475,
+            "shares": 89,
+            "saves": 47
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 260,
+                "Female_18-24": 259,
+                "Male_25-34": 368,
+                "Female_25-34": 144,
+                "Male_35-44": 188,
+                "Female_35-44": 119
+            },
+            "audience_country": {
+                "USA": 2160,
+                "Brazil": 2461,
+                "India": 1473,
+                "Germany": 292
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "411d8896-5e55-4bde-b81e-9a577fdc4cf6",
+            "campaign_name": "est",
+            "impressions": 6977,
+            "clicks": 379,
+            "spend": 270.41,
+            "actions": {
+                "conversions": 27,
+                "leads": 34
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "2702b4ce-3c39-4306-850b-3d7e3c604727",
+            "impressions": 5275,
+            "reach": 4649,
+            "link_clicks": 138,
+            "replies": 2
+        },
+        "Mensagens Diretas": {
+            "message_id": "d18dea9c-26e1-4b83-bb1d-c2305342265d",
+            "receiver_id": "c019ff71-eb79-4d70-b5bc-b9e0768d11f6",
+            "message": "Por favor, façam uma reportagem sobre as novas empresas que estão abrindo em Caruaru.",
+            "reactions": {
+                "likes": 22,
+                "laughs": 15
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 6110
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "0b033d0d-8a9e-481b-a85d-02502668a125",
+            "impressions": 5982,
+            "reach": 1064
+        },
+        "Taxa de Engajamento": {
+            "likes": 219,
+            "comments": 450,
+            "shares": 174,
+            "saves": 139
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 115,
+                "Female_18-24": 289,
+                "Male_25-34": 339,
+                "Female_25-34": 362,
+                "Male_35-44": 393,
+                "Female_35-44": 236
+            },
+            "audience_country": {
+                "USA": 2680,
+                "Brazil": 2316,
+                "India": 2566,
+                "Germany": 645
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "ba6b5da4-31ee-4900-9777-33ca71bd599f",
+            "campaign_name": "sapiente",
+            "impressions": 6627,
+            "clicks": 260,
+            "spend": 396.11,
+            "actions": {
+                "conversions": 27,
+                "leads": 26
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "299d6456-13b0-470f-8eb6-368c8aa9cd90",
+            "impressions": 1103,
+            "reach": 4008,
+            "link_clicks": 84,
+            "replies": 46
+        },
+        "Mensagens Diretas": {
+            "message_id": "0a0cdd53-6eb4-47ce-a2a3-fc0ea3999533",
+            "receiver_id": "f419fc1d-dede-4900-93d0-f2bd6e35f7ce",
+            "message": "O que vocês acharam da recente mudança no comércio local? Deixe-nos saber.",
+            "reactions": {
+                "likes": 8,
+                "laughs": 17
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 8318
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "84b84abb-8f79-479b-a5f1-e423a368a719",
+            "impressions": 2167,
+            "reach": 2324
+        },
+        "Taxa de Engajamento": {
+            "likes": 665,
+            "comments": 92,
+            "shares": 107,
+            "saves": 110
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 500,
+                "Female_18-24": 450,
+                "Male_25-34": 292,
+                "Female_25-34": 353,
+                "Male_35-44": 317,
+                "Female_35-44": 335
+            },
+            "audience_country": {
+                "USA": 1864,
+                "Brazil": 1690,
+                "India": 2411,
+                "Germany": 110
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "b2309511-bb6d-4307-88e9-b6bd62499018",
+            "campaign_name": "hic",
+            "impressions": 8509,
+            "clicks": 191,
+            "spend": 293.44,
+            "actions": {
+                "conversions": 57,
+                "leads": 5
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "45e51da3-46b5-4bf4-8a1d-e0fe609f7c70",
+            "impressions": 7910,
+            "reach": 4859,
+            "link_clicks": 181,
+            "replies": 41
+        },
+        "Mensagens Diretas": {
+            "message_id": "cf14002a-7d05-48d9-ac1b-815e11ef3d05",
+            "receiver_id": "b5bd21db-be85-4226-b26a-6bb411786fd0",
+            "message": "Poderiam fazer uma reportagem sobre as novas oportunidades de emprego em Caruaru?",
+            "reactions": {
+                "likes": 49,
+                "laughs": 40
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 4805
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "919fc313-af1c-4810-9ad1-8166a75ee602",
+            "impressions": 1294,
+            "reach": 793
+        },
+        "Taxa de Engajamento": {
+            "likes": 448,
+            "comments": 316,
+            "shares": 156,
+            "saves": 146
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 221,
+                "Female_18-24": 358,
+                "Male_25-34": 376,
+                "Female_25-34": 130,
+                "Male_35-44": 120,
+                "Female_35-44": 409
+            },
+            "audience_country": {
+                "USA": 2910,
+                "Brazil": 1026,
+                "India": 2033,
+                "Germany": 994
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "9d45a34a-fc46-4052-93b6-c912390aa958",
+            "campaign_name": "nihil",
+            "impressions": 6729,
+            "clicks": 839,
+            "spend": 482.67,
+            "actions": {
+                "conversions": 96,
+                "leads": 32
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "455eaa4f-e551-440b-b513-8dffafcbfaa4",
+            "impressions": 5959,
+            "reach": 3963,
+            "link_clicks": 124,
+            "replies": 32
+        },
+        "Mensagens Diretas": {
+            "message_id": "b00888a1-bbc5-486f-9743-ab672a0d5f9f",
+            "receiver_id": "aa5beac0-2fc1-40a4-b8b7-f2e9a7b110dd",
+            "message": "Agradeço pela cobertura das eleições municipais, ajudou bastante.",
+            "reactions": {
+                "likes": 19,
+                "laughs": 14
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 4409
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "05017f4e-8035-412f-9ee6-93b9c5af1fbc",
+            "impressions": 5788,
+            "reach": 2123
+        },
+        "Taxa de Engajamento": {
+            "likes": 749,
+            "comments": 151,
+            "shares": 91,
+            "saves": 10
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 484,
+                "Female_18-24": 430,
+                "Male_25-34": 340,
+                "Female_25-34": 305,
+                "Male_35-44": 202,
+                "Female_35-44": 380
+            },
+            "audience_country": {
+                "USA": 2830,
+                "Brazil": 1260,
+                "India": 1067,
+                "Germany": 251
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "0b7f3cf3-ea1a-4deb-b5d0-ce5b7f3186fa",
+            "campaign_name": "alias",
+            "impressions": 5532,
+            "clicks": 880,
+            "spend": 157.37,
+            "actions": {
+                "conversions": 37,
+                "leads": 19
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "76c6021b-b71c-4386-8a79-86e4306c75db",
+            "impressions": 4372,
+            "reach": 3657,
+            "link_clicks": 66,
+            "replies": 10
+        },
+        "Mensagens Diretas": {
+            "message_id": "16d05d60-92f4-4e50-81d0-076d2fe5e3f1",
+            "receiver_id": "8bdc1502-15e0-489f-b26d-a252daba8302",
+            "message": "O que vocês acharam da recente mudança no comércio local? Deixe-nos saber.",
+            "reactions": {
+                "likes": 44,
+                "laughs": 12
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 5609
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "d2c3cbc9-2900-454c-9c53-209e4c2a685c",
+            "impressions": 5415,
+            "reach": 1773
+        },
+        "Taxa de Engajamento": {
+            "likes": 827,
+            "comments": 471,
+            "shares": 152,
+            "saves": 94
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 227,
+                "Female_18-24": 202,
+                "Male_25-34": 189,
+                "Female_25-34": 165,
+                "Male_35-44": 238,
+                "Female_35-44": 441
+            },
+            "audience_country": {
+                "USA": 2411,
+                "Brazil": 2857,
+                "India": 946,
+                "Germany": 426
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "180239a4-ef41-4bb3-990e-e68b5c96f292",
+            "campaign_name": "ipsa",
+            "impressions": 5166,
+            "clicks": 954,
+            "spend": 93.71,
+            "actions": {
+                "conversions": 77,
+                "leads": 47
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "54747f4b-2364-42b9-989b-c0ace4395d72",
+            "impressions": 7811,
+            "reach": 2345,
+            "link_clicks": 10,
+            "replies": 18
+        },
+        "Mensagens Diretas": {
+            "message_id": "a7c08b44-76d3-4234-a237-3ad56086a24e",
+            "receiver_id": "70554c3d-f186-43de-a472-8fffa09392aa",
+            "message": "A matéria sobre as melhorias nas escolas de Caruaru foi muito bem-vinda, espero mais sobre o tema.",
+            "reactions": {
+                "likes": 61,
+                "laughs": 45
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 3133
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "ec97a3ea-8278-4cf2-a38b-88f21062900d",
+            "impressions": 2036,
+            "reach": 1240
+        },
+        "Taxa de Engajamento": {
+            "likes": 369,
+            "comments": 478,
+            "shares": 31,
+            "saves": 114
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 492,
+                "Female_18-24": 392,
+                "Male_25-34": 227,
+                "Female_25-34": 238,
+                "Male_35-44": 108,
+                "Female_35-44": 360
+            },
+            "audience_country": {
+                "USA": 3094,
+                "Brazil": 1494,
+                "India": 1238,
+                "Germany": 855
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "37a948b2-adc3-4ceb-bb2b-9ddd0e50c1a2",
+            "campaign_name": "veritatis",
+            "impressions": 6477,
+            "clicks": 267,
+            "spend": 81.71,
+            "actions": {
+                "conversions": 82,
+                "leads": 12
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "b140e285-5f51-447c-96b8-e87c36d99bf3",
+            "impressions": 3877,
+            "reach": 3693,
+            "link_clicks": 86,
+            "replies": 2
+        },
+        "Mensagens Diretas": {
+            "message_id": "6bdaaff1-b15c-45c9-9dc4-d3413aa10816",
+            "receiver_id": "a0947300-c437-4266-a938-df35b38ec764",
+            "message": "Gostaria de mais atualizações sobre o trânsito em Caruaru, principalmente nos horários de pico.",
+            "reactions": {
+                "likes": 47,
+                "laughs": 34
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 1510
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "2c764ccf-be48-447a-8a66-4c8be88256fd",
+            "impressions": 4160,
+            "reach": 1386
+        },
+        "Taxa de Engajamento": {
+            "likes": 628,
+            "comments": 137,
+            "shares": 184,
+            "saves": 7
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 464,
+                "Female_18-24": 309,
+                "Male_25-34": 123,
+                "Female_25-34": 188,
+                "Male_35-44": 330,
+                "Female_35-44": 328
+            },
+            "audience_country": {
+                "USA": 4754,
+                "Brazil": 641,
+                "India": 2021,
+                "Germany": 758
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "4d091f5b-80db-47c1-af70-0c2db57afffc",
+            "campaign_name": "facere",
+            "impressions": 8272,
+            "clicks": 317,
+            "spend": 208.52,
+            "actions": {
+                "conversions": 97,
+                "leads": 29
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "30199441-c199-4672-9d09-645da66e4fff",
+            "impressions": 7165,
+            "reach": 4474,
+            "link_clicks": 15,
+            "replies": 19
+        },
+        "Mensagens Diretas": {
+            "message_id": "84041741-fe51-4577-89b5-39e182976515",
+            "receiver_id": "f5a6a695-7624-42bf-942b-65f6bde69589",
+            "message": "Gostei muito da cobertura sobre o São João de Caruaru, foi muito informativo!",
+            "reactions": {
+                "likes": 71,
+                "laughs": 6
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 3770
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "f7908fc9-b313-4e88-a93b-cfe7d77988ba",
+            "impressions": 6906,
+            "reach": 3972
+        },
+        "Taxa de Engajamento": {
+            "likes": 663,
+            "comments": 78,
+            "shares": 66,
+            "saves": 124
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 293,
+                "Female_18-24": 166,
+                "Male_25-34": 152,
+                "Female_25-34": 302,
+                "Male_35-44": 394,
+                "Female_35-44": 122
+            },
+            "audience_country": {
+                "USA": 2014,
+                "Brazil": 2192,
+                "India": 2421,
+                "Germany": 777
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "64367c71-5db1-422e-a102-bb73287df312",
+            "campaign_name": "quisquam",
+            "impressions": 5282,
+            "clicks": 797,
+            "spend": 452.94,
+            "actions": {
+                "conversions": 83,
+                "leads": 28
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "da938544-b926-4bfd-a3b4-476e6879961b",
+            "impressions": 3342,
+            "reach": 633,
+            "link_clicks": 91,
+            "replies": 41
+        },
+        "Mensagens Diretas": {
+            "message_id": "81559220-d6eb-49c7-a4ce-564cd60c153c",
+            "receiver_id": "69ede9f9-bbf7-4c18-a4ac-fc982b23ca14",
+            "message": "A reportagem sobre o mercado de Caruaru estava excelente, parabéns!",
+            "reactions": {
+                "likes": 86,
+                "laughs": 34
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 2837
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "2d9d4722-bd76-4c0d-b5ad-51e11e9dc89b",
+            "impressions": 1122,
+            "reach": 1129
+        },
+        "Taxa de Engajamento": {
+            "likes": 813,
+            "comments": 481,
+            "shares": 83,
+            "saves": 41
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 379,
+                "Female_18-24": 500,
+                "Male_25-34": 459,
+                "Female_25-34": 215,
+                "Male_35-44": 425,
+                "Female_35-44": 434
+            },
+            "audience_country": {
+                "USA": 2953,
+                "Brazil": 573,
+                "India": 1687,
+                "Germany": 450
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "660c6f4e-8374-4f4c-a657-b6a22b3efde8",
+            "campaign_name": "esse",
+            "impressions": 6867,
+            "clicks": 683,
+            "spend": 226.65,
+            "actions": {
+                "conversions": 55,
+                "leads": 14
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "d6cfee0f-05b0-4b0c-aa44-727fefd3b405",
+            "impressions": 7253,
+            "reach": 1708,
+            "link_clicks": 156,
+            "replies": 31
+        },
+        "Mensagens Diretas": {
+            "message_id": "571840b5-997a-451e-8f59-df34317a4edb",
+            "receiver_id": "4fd9e1ca-9b79-4a75-a4bd-82b063e8b068",
+            "message": "Agradeço pela cobertura das eleições municipais, ajudou bastante.",
+            "reactions": {
+                "likes": 75,
+                "laughs": 29
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 4865
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "3f29b9b0-7d77-403d-8a37-d8ca046089bf",
+            "impressions": 3025,
+            "reach": 669
+        },
+        "Taxa de Engajamento": {
+            "likes": 956,
+            "comments": 450,
+            "shares": 158,
+            "saves": 41
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 149,
+                "Female_18-24": 124,
+                "Male_25-34": 342,
+                "Female_25-34": 250,
+                "Male_35-44": 354,
+                "Female_35-44": 471
+            },
+            "audience_country": {
+                "USA": 1681,
+                "Brazil": 2430,
+                "India": 2008,
+                "Germany": 851
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "9fee498c-9fbf-4f03-81c8-a750acc332ce",
+            "campaign_name": "laborum",
+            "impressions": 8246,
+            "clicks": 123,
+            "spend": 261.61,
+            "actions": {
+                "conversions": 18,
+                "leads": 49
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "3f44fd1c-16be-4e3a-8afc-9ce24de628fc",
+            "impressions": 9383,
+            "reach": 3023,
+            "link_clicks": 200,
+            "replies": 50
+        },
+        "Mensagens Diretas": {
+            "message_id": "4b4926d1-e85d-4b5b-bd90-a264aefa5ee1",
+            "receiver_id": "0a4c29df-3d5e-4294-ad62-45430dc43f4d",
+            "message": "A cobertura sobre o crescimento econômico da cidade foi muito útil, obrigado!",
+            "reactions": {
+                "likes": 57,
+                "laughs": 39
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 7664
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "3a12f5b6-3e8d-47b5-b4d0-a6c12878915c",
+            "impressions": 7859,
+            "reach": 3732
+        },
+        "Taxa de Engajamento": {
+            "likes": 973,
+            "comments": 410,
+            "shares": 53,
+            "saves": 72
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 348,
+                "Female_18-24": 197,
+                "Male_25-34": 418,
+                "Female_25-34": 414,
+                "Male_35-44": 111,
+                "Female_35-44": 164
+            },
+            "audience_country": {
+                "USA": 3362,
+                "Brazil": 1750,
+                "India": 1981,
+                "Germany": 841
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "c9a3149b-a91b-4d90-9122-8f788b1981e4",
+            "campaign_name": "suscipit",
+            "impressions": 1569,
+            "clicks": 150,
+            "spend": 299.72,
+            "actions": {
+                "conversions": 59,
+                "leads": 16
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "3f86a7df-4259-4e53-96ac-92e1aabc095b",
+            "impressions": 7605,
+            "reach": 1007,
+            "link_clicks": 25,
+            "replies": 14
+        },
+        "Mensagens Diretas": {
+            "message_id": "68fcfc6e-8b5b-416d-92dc-31fb0112f049",
+            "receiver_id": "45038c1b-63ce-40a4-8f57-a540079e3ecf",
+            "message": "A cobertura sobre o crescimento econômico da cidade foi muito útil, obrigado!",
+            "reactions": {
+                "likes": 47,
+                "laughs": 34
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 4516
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "3be3a6f0-cdca-47b8-8af4-604022bcaadf",
+            "impressions": 6494,
+            "reach": 4050
+        },
+        "Taxa de Engajamento": {
+            "likes": 637,
+            "comments": 176,
+            "shares": 14,
+            "saves": 35
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 346,
+                "Female_18-24": 175,
+                "Male_25-34": 275,
+                "Female_25-34": 255,
+                "Male_35-44": 152,
+                "Female_35-44": 139
+            },
+            "audience_country": {
+                "USA": 3420,
+                "Brazil": 2401,
+                "India": 2750,
+                "Germany": 574
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "b6064c33-c053-428f-9470-4d01497bd7eb",
+            "campaign_name": "blanditiis",
+            "impressions": 7524,
+            "clicks": 186,
+            "spend": 314.28,
+            "actions": {
+                "conversions": 77,
+                "leads": 30
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "6fedd1c7-6907-43f9-aa65-78ac722c0a48",
+            "impressions": 9359,
+            "reach": 3781,
+            "link_clicks": 35,
+            "replies": 33
+        },
+        "Mensagens Diretas": {
+            "message_id": "aed34954-e110-429d-9052-98c27d22b134",
+            "receiver_id": "7270f4a0-640b-4cde-9667-e8973e3c4fdf",
+            "message": "Gostaria de ver mais notícias sobre as iniciativas comunitárias em Caruaru.",
+            "reactions": {
+                "likes": 3,
+                "laughs": 43
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 7951
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "73120e0d-3e3b-4743-99a1-40c48fe9461b",
+            "impressions": 3738,
+            "reach": 3531
+        },
+        "Taxa de Engajamento": {
+            "likes": 714,
+            "comments": 271,
+            "shares": 64,
+            "saves": 148
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 186,
+                "Female_18-24": 388,
+                "Male_25-34": 345,
+                "Female_25-34": 117,
+                "Male_35-44": 260,
+                "Female_35-44": 484
+            },
+            "audience_country": {
+                "USA": 1324,
+                "Brazil": 2905,
+                "India": 2002,
+                "Germany": 547
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "bc7735f3-dba5-4ad8-a675-3ed445f2e78a",
+            "campaign_name": "ab",
+            "impressions": 5754,
+            "clicks": 541,
+            "spend": 470.17,
+            "actions": {
+                "conversions": 70,
+                "leads": 42
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "cf1ae268-da16-4f11-b99c-58879a2f0a89",
+            "impressions": 4942,
+            "reach": 1326,
+            "link_clicks": 104,
+            "replies": 37
+        },
+        "Mensagens Diretas": {
+            "message_id": "01faadc1-8e3f-4f38-a111-eafe7c2527d0",
+            "receiver_id": "f333d7d6-e12f-43f8-b5cf-7234a34d0bb4",
+            "message": "O que vocês acham da nova iniciativa cultural na cidade? Estou curioso para saber mais.",
+            "reactions": {
+                "likes": 84,
+                "laughs": 7
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 5927
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "6c2cc70c-203a-4458-838e-b92d7001d059",
+            "impressions": 4049,
+            "reach": 2907
+        },
+        "Taxa de Engajamento": {
+            "likes": 363,
+            "comments": 370,
+            "shares": 114,
+            "saves": 86
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 368,
+                "Female_18-24": 431,
+                "Male_25-34": 363,
+                "Female_25-34": 441,
+                "Male_35-44": 300,
+                "Female_35-44": 324
+            },
+            "audience_country": {
+                "USA": 3960,
+                "Brazil": 978,
+                "India": 1514,
+                "Germany": 616
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "e13410b0-2800-4e02-87fc-ca9bec3545a0",
+            "campaign_name": "cum",
+            "impressions": 2982,
+            "clicks": 476,
+            "spend": 462.75,
+            "actions": {
+                "conversions": 89,
+                "leads": 5
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "e19f3067-1344-421c-aeb2-155eddc10cc6",
+            "impressions": 9193,
+            "reach": 2731,
+            "link_clicks": 143,
+            "replies": 40
+        },
+        "Mensagens Diretas": {
+            "message_id": "7b8d12b2-1680-404b-9cb4-658f3a0c06ae",
+            "receiver_id": "702f0360-298e-426c-8edb-8961b6f6c84e",
+            "message": "O que vocês acharam da recente mudança no comércio local? Deixe-nos saber.",
+            "reactions": {
+                "likes": 48,
+                "laughs": 1
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 5000
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "95236c41-3ae8-4fc0-a966-ecc9898f9aba",
+            "impressions": 5776,
+            "reach": 2362
+        },
+        "Taxa de Engajamento": {
+            "likes": 913,
+            "comments": 313,
+            "shares": 32,
+            "saves": 110
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 231,
+                "Female_18-24": 162,
+                "Male_25-34": 433,
+                "Female_25-34": 241,
+                "Male_35-44": 228,
+                "Female_35-44": 139
+            },
+            "audience_country": {
+                "USA": 2439,
+                "Brazil": 2528,
+                "India": 2568,
+                "Germany": 352
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "10659872-4a6d-48e8-a140-98a16dc9b8ef",
+            "campaign_name": "sunt",
+            "impressions": 5810,
+            "clicks": 945,
+            "spend": 397.36,
+            "actions": {
+                "conversions": 77,
+                "leads": 9
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "14f556f6-39f2-475e-9aab-a1ed31faaab2",
+            "impressions": 1321,
+            "reach": 1236,
+            "link_clicks": 30,
+            "replies": 24
+        },
+        "Mensagens Diretas": {
+            "message_id": "6ff02139-1791-409e-ac0e-479041bf27d1",
+            "receiver_id": "116458ee-ac86-414d-b4cd-107f976857ff",
+            "message": "Gostaria de mais atualizações sobre o trânsito em Caruaru, principalmente nos horários de pico.",
+            "reactions": {
+                "likes": 54,
+                "laughs": 36
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 9508
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "1333ad2c-167c-4c4f-957b-b7fb750e387e",
+            "impressions": 8871,
+            "reach": 810
+        },
+        "Taxa de Engajamento": {
+            "likes": 203,
+            "comments": 200,
+            "shares": 73,
+            "saves": 31
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 228,
+                "Female_18-24": 408,
+                "Male_25-34": 350,
+                "Female_25-34": 163,
+                "Male_35-44": 387,
+                "Female_35-44": 369
+            },
+            "audience_country": {
+                "USA": 2421,
+                "Brazil": 1706,
+                "India": 1533,
+                "Germany": 102
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "25a74e30-28e3-4da5-9a8e-62f69d3d1f3a",
+            "campaign_name": "mollitia",
+            "impressions": 6074,
+            "clicks": 931,
+            "spend": 257.75,
+            "actions": {
+                "conversions": 92,
+                "leads": 22
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "c2189ee0-e7f8-4d11-ba3a-2ae113017a24",
+            "impressions": 5699,
+            "reach": 3391,
+            "link_clicks": 138,
+            "replies": 18
+        },
+        "Mensagens Diretas": {
+            "message_id": "47d4f999-050b-41a8-9076-bec71de66936",
+            "receiver_id": "d67b6889-39f9-4c5a-8c2c-bc3c85b83080",
+            "message": "Gostaria de saber mais sobre as novas políticas de segurança pública em Caruaru.",
+            "reactions": {
+                "likes": 2,
+                "laughs": 18
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 4810
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "2fe5d19e-a67e-4b51-b5ed-0ba738f1dcca",
+            "impressions": 8393,
+            "reach": 3060
+        },
+        "Taxa de Engajamento": {
+            "likes": 867,
+            "comments": 455,
+            "shares": 51,
+            "saves": 34
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 399,
+                "Female_18-24": 244,
+                "Male_25-34": 427,
+                "Female_25-34": 214,
+                "Male_35-44": 158,
+                "Female_35-44": 166
+            },
+            "audience_country": {
+                "USA": 2834,
+                "Brazil": 2625,
+                "India": 1502,
+                "Germany": 393
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "70aab46a-1b58-4bd1-bb6c-7a2440111c6a",
+            "campaign_name": "nulla",
+            "impressions": 9558,
+            "clicks": 366,
+            "spend": 433.33,
+            "actions": {
+                "conversions": 71,
+                "leads": 18
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "df2df25d-c6cc-4bb1-8634-2eb4254c4f71",
+            "impressions": 7161,
+            "reach": 897,
+            "link_clicks": 112,
+            "replies": 41
+        },
+        "Mensagens Diretas": {
+            "message_id": "83a37181-1063-4ad0-b8c3-ba132935b9b8",
+            "receiver_id": "92a2f40e-08a0-4f91-b607-9ac045035436",
+            "message": "Acho que seria interessante uma série de matérias sobre os pontos turísticos de Caruaru.",
+            "reactions": {
+                "likes": 16,
+                "laughs": 46
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 1220
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "a8936104-89a1-469a-adc0-bfd330c9fb1a",
+            "impressions": 2367,
+            "reach": 2210
+        },
+        "Taxa de Engajamento": {
+            "likes": 620,
+            "comments": 362,
+            "shares": 128,
+            "saves": 55
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 256,
+                "Female_18-24": 284,
+                "Male_25-34": 333,
+                "Female_25-34": 288,
+                "Male_35-44": 496,
+                "Female_35-44": 488
+            },
+            "audience_country": {
+                "USA": 4279,
+                "Brazil": 1854,
+                "India": 1270,
+                "Germany": 739
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "29ac9415-5859-4c97-aaec-5cbac240e562",
+            "campaign_name": "consequuntur",
+            "impressions": 3686,
+            "clicks": 704,
+            "spend": 372.04,
+            "actions": {
+                "conversions": 72,
+                "leads": 19
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "918ba6b8-ee19-4c09-908d-07d585419cb1",
+            "impressions": 2634,
+            "reach": 2117,
+            "link_clicks": 126,
+            "replies": 35
+        },
+        "Mensagens Diretas": {
+            "message_id": "77eccea2-1f3b-4f09-a255-2761cce04b93",
+            "receiver_id": "a3034223-1645-42a3-8b60-9e63bb953641",
+            "message": "Poderiam fazer uma reportagem sobre as novas oportunidades de emprego em Caruaru?",
+            "reactions": {
+                "likes": 13,
+                "laughs": 21
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 5982
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "b78ac26e-f379-4b76-84ac-0e13853d7206",
+            "impressions": 3775,
+            "reach": 2386
+        },
+        "Taxa de Engajamento": {
+            "likes": 718,
+            "comments": 249,
+            "shares": 137,
+            "saves": 141
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 303,
+                "Female_18-24": 159,
+                "Male_25-34": 279,
+                "Female_25-34": 378,
+                "Male_35-44": 422,
+                "Female_35-44": 167
+            },
+            "audience_country": {
+                "USA": 3901,
+                "Brazil": 2147,
+                "India": 1277,
+                "Germany": 542
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "0de43897-f8d2-43c3-9de3-c8251339af83",
+            "campaign_name": "dolorum",
+            "impressions": 1935,
+            "clicks": 479,
+            "spend": 223.49,
+            "actions": {
+                "conversions": 70,
+                "leads": 41
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "193308c9-772c-40d8-a73c-8c3631660e33",
+            "impressions": 3532,
+            "reach": 2486,
+            "link_clicks": 191,
+            "replies": 8
+        },
+        "Mensagens Diretas": {
+            "message_id": "98082edc-2d32-49ad-a023-8b35ee944d84",
+            "receiver_id": "790da6ba-de4d-4462-be9b-ce6c6ea53bb0",
+            "message": "Seria ótimo se vocês pudessem fazer uma reportagem sobre o impacto das novas regras de transporte público.",
+            "reactions": {
+                "likes": 21,
+                "laughs": 42
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 8040
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "9755a8fd-90e1-454a-b679-42e15ed48502",
+            "impressions": 8503,
+            "reach": 918
+        },
+        "Taxa de Engajamento": {
+            "likes": 219,
+            "comments": 333,
+            "shares": 178,
+            "saves": 102
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 304,
+                "Female_18-24": 365,
+                "Male_25-34": 271,
+                "Female_25-34": 436,
+                "Male_35-44": 345,
+                "Female_35-44": 252
+            },
+            "audience_country": {
+                "USA": 1799,
+                "Brazil": 1624,
+                "India": 1513,
+                "Germany": 402
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "2e6245ea-d778-4864-8fcf-cb63e787c299",
+            "campaign_name": "iusto",
+            "impressions": 6895,
+            "clicks": 501,
+            "spend": 345.79,
+            "actions": {
+                "conversions": 97,
+                "leads": 20
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "4b35bc70-45d7-45d8-8f20-5bd61d4eb790",
+            "impressions": 5229,
+            "reach": 3486,
+            "link_clicks": 165,
+            "replies": 25
+        },
+        "Mensagens Diretas": {
+            "message_id": "f37d056b-4f3f-449e-b7aa-461c50d37242",
+            "receiver_id": "3fb67832-617c-435a-88c1-74efa62cf3f5",
+            "message": "Por favor, façam uma reportagem sobre as novas empresas que estão abrindo em Caruaru.",
+            "reactions": {
+                "likes": 12,
+                "laughs": 13
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 1921
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "0f7b7a0c-707e-4c63-990f-58d8d219f9c7",
+            "impressions": 4669,
+            "reach": 1417
+        },
+        "Taxa de Engajamento": {
+            "likes": 117,
+            "comments": 371,
+            "shares": 153,
+            "saves": 63
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 306,
+                "Female_18-24": 118,
+                "Male_25-34": 294,
+                "Female_25-34": 335,
+                "Male_35-44": 322,
+                "Female_35-44": 109
+            },
+            "audience_country": {
+                "USA": 4826,
+                "Brazil": 1271,
+                "India": 1442,
+                "Germany": 295
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "69584d08-ba9b-4de7-a6a6-e6bc711ab242",
+            "campaign_name": "quisquam",
+            "impressions": 6795,
+            "clicks": 989,
+            "spend": 127.47,
+            "actions": {
+                "conversions": 74,
+                "leads": 28
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "4337205c-ecfa-4cc2-b89d-cd89a8c509f9",
+            "impressions": 9750,
+            "reach": 1646,
+            "link_clicks": 42,
+            "replies": 5
+        },
+        "Mensagens Diretas": {
+            "message_id": "79e27bf8-b8d5-45c1-9112-3d078eaa1d69",
+            "receiver_id": "e2b564e2-baa5-418e-a873-b7d335d8c224",
+            "message": "A cobertura sobre o crescimento econômico da cidade foi muito útil, obrigado!",
+            "reactions": {
+                "likes": 25,
+                "laughs": 17
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 8052
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "18bbb5dd-b9bc-4ed4-9be4-d09b1fc475e1",
+            "impressions": 5512,
+            "reach": 2586
+        },
+        "Taxa de Engajamento": {
+            "likes": 471,
+            "comments": 192,
+            "shares": 58,
+            "saves": 53
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 167,
+                "Female_18-24": 135,
+                "Male_25-34": 233,
+                "Female_25-34": 436,
+                "Male_35-44": 205,
+                "Female_35-44": 218
+            },
+            "audience_country": {
+                "USA": 3955,
+                "Brazil": 1109,
+                "India": 698,
+                "Germany": 983
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "4d8652a2-c919-4d16-bd8f-a913540cf226",
+            "campaign_name": "quae",
+            "impressions": 7716,
+            "clicks": 138,
+            "spend": 491.7,
+            "actions": {
+                "conversions": 30,
+                "leads": 8
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "7bb625a0-7f8d-45b0-9a10-be55d675636d",
+            "impressions": 2909,
+            "reach": 2699,
+            "link_clicks": 145,
+            "replies": 29
+        },
+        "Mensagens Diretas": {
+            "message_id": "50e989da-ce2e-41bf-beaa-cb4ed4fcc9d9",
+            "receiver_id": "427f7ec2-2b95-4f20-bb8b-a4a928c31416",
+            "message": "Acho que seria interessante uma série de matérias sobre os pontos turísticos de Caruaru.",
+            "reactions": {
+                "likes": 7,
+                "laughs": 14
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 8892
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "fa35f737-47e3-434f-8ee5-05faad0d156c",
+            "impressions": 9228,
+            "reach": 2528
+        },
+        "Taxa de Engajamento": {
+            "likes": 522,
+            "comments": 422,
+            "shares": 46,
+            "saves": 83
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 243,
+                "Female_18-24": 155,
+                "Male_25-34": 126,
+                "Female_25-34": 363,
+                "Male_35-44": 381,
+                "Female_35-44": 477
+            },
+            "audience_country": {
+                "USA": 3904,
+                "Brazil": 1031,
+                "India": 1840,
+                "Germany": 237
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "5a2eb8b9-9aa7-4e45-ae78-ca417f420ed6",
+            "campaign_name": "cupiditate",
+            "impressions": 2976,
+            "clicks": 267,
+            "spend": 153.21,
+            "actions": {
+                "conversions": 83,
+                "leads": 11
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "326c5bef-0ebe-410e-b20f-01463c5b040f",
+            "impressions": 8969,
+            "reach": 4635,
+            "link_clicks": 12,
+            "replies": 10
+        },
+        "Mensagens Diretas": {
+            "message_id": "4e06efb3-fcfb-4953-ab86-8c458282649b",
+            "receiver_id": "ad4792a7-e725-4ace-b523-d67c52cbcd29",
+            "message": "Gostaria de mais atualizações sobre o trânsito em Caruaru, principalmente nos horários de pico.",
+            "reactions": {
+                "likes": 46,
+                "laughs": 14
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 2952
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "e2e2dd31-c5a3-46fd-9609-b49eaf9575df",
+            "impressions": 8470,
+            "reach": 3129
+        },
+        "Taxa de Engajamento": {
+            "likes": 571,
+            "comments": 232,
+            "shares": 95,
+            "saves": 21
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 229,
+                "Female_18-24": 110,
+                "Male_25-34": 120,
+                "Female_25-34": 118,
+                "Male_35-44": 409,
+                "Female_35-44": 264
+            },
+            "audience_country": {
+                "USA": 3768,
+                "Brazil": 883,
+                "India": 1552,
+                "Germany": 203
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "7128b8c9-bd3b-4522-b7e9-6e3959fb86bf",
+            "campaign_name": "eveniet",
+            "impressions": 6065,
+            "clicks": 559,
+            "spend": 412.95,
+            "actions": {
+                "conversions": 95,
+                "leads": 30
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "70511121-c712-46ca-8b02-e92f97fb8b32",
+            "impressions": 3141,
+            "reach": 2601,
+            "link_clicks": 186,
+            "replies": 31
+        },
+        "Mensagens Diretas": {
+            "message_id": "d0a80e70-ad58-4905-84b5-ecfa8b3a0a76",
+            "receiver_id": "15733eb5-6202-4e7b-8685-ff78546d8499",
+            "message": "Achei interessante a notícia sobre a nova praça no bairro X, obrigado por compartilhar.",
+            "reactions": {
+                "likes": 34,
+                "laughs": 10
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 2289
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "6a84a8e5-f6f7-467c-a8c1-a204050dc11b",
+            "impressions": 6477,
+            "reach": 4010
+        },
+        "Taxa de Engajamento": {
+            "likes": 537,
+            "comments": 97,
+            "shares": 67,
+            "saves": 18
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 497,
+                "Female_18-24": 324,
+                "Male_25-34": 152,
+                "Female_25-34": 180,
+                "Male_35-44": 326,
+                "Female_35-44": 480
+            },
+            "audience_country": {
+                "USA": 4842,
+                "Brazil": 2352,
+                "India": 574,
+                "Germany": 841
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "ba9f7120-1ea1-4d63-b65c-7c392e387ae1",
+            "campaign_name": "molestias",
+            "impressions": 5245,
+            "clicks": 486,
+            "spend": 232.39,
+            "actions": {
+                "conversions": 48,
+                "leads": 30
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "8eb23ce8-3234-47be-b8da-b909253aaac5",
+            "impressions": 1997,
+            "reach": 2988,
+            "link_clicks": 135,
+            "replies": 1
+        },
+        "Mensagens Diretas": {
+            "message_id": "76ed9466-ecae-41d1-b989-7ecc14bd363b",
+            "receiver_id": "b0c4d4a1-e989-4254-8642-840d0973f96f",
+            "message": "Seria ótimo se vocês pudessem fazer uma reportagem sobre o impacto das novas regras de transporte público.",
+            "reactions": {
+                "likes": 71,
+                "laughs": 21
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 3643
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "c62dcb95-8d48-4797-b7b4-e196fc9ac88e",
+            "impressions": 2190,
+            "reach": 3737
+        },
+        "Taxa de Engajamento": {
+            "likes": 110,
+            "comments": 445,
+            "shares": 113,
+            "saves": 59
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 226,
+                "Female_18-24": 496,
+                "Male_25-34": 484,
+                "Female_25-34": 257,
+                "Male_35-44": 342,
+                "Female_35-44": 425
+            },
+            "audience_country": {
+                "USA": 1067,
+                "Brazil": 549,
+                "India": 1347,
+                "Germany": 511
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "54e11e69-b601-4064-a5f8-643435478342",
+            "campaign_name": "facilis",
+            "impressions": 1290,
+            "clicks": 231,
+            "spend": 437.76,
+            "actions": {
+                "conversions": 86,
+                "leads": 6
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "784b38bf-6305-4174-8bad-ca6139b7e231",
+            "impressions": 8403,
+            "reach": 1678,
+            "link_clicks": 129,
+            "replies": 48
+        },
+        "Mensagens Diretas": {
+            "message_id": "44e8e209-6d85-4e54-ac2f-7a73a8091ab2",
+            "receiver_id": "5d64d8cd-35fb-404f-89e4-ce25c7cb6850",
+            "message": "Adorei a entrevista com o prefeito sobre os novos projetos para a cidade.",
+            "reactions": {
+                "likes": 35,
+                "laughs": 31
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 3727
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "aaba7de8-30ed-4709-8c09-dde491c3e65f",
+            "impressions": 9860,
+            "reach": 1101
+        },
+        "Taxa de Engajamento": {
+            "likes": 326,
+            "comments": 334,
+            "shares": 20,
+            "saves": 5
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 459,
+                "Female_18-24": 351,
+                "Male_25-34": 467,
+                "Female_25-34": 282,
+                "Male_35-44": 315,
+                "Female_35-44": 140
+            },
+            "audience_country": {
+                "USA": 3704,
+                "Brazil": 2643,
+                "India": 2574,
+                "Germany": 880
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "fd6f6a7c-d141-4194-b408-9d2d313080cc",
+            "campaign_name": "magnam",
+            "impressions": 3971,
+            "clicks": 913,
+            "spend": 127.4,
+            "actions": {
+                "conversions": 14,
+                "leads": 42
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "c6c34ef0-affe-47dd-8464-6efe14703aaf",
+            "impressions": 3867,
+            "reach": 4265,
+            "link_clicks": 128,
+            "replies": 13
+        },
+        "Mensagens Diretas": {
+            "message_id": "cde4850d-2468-4ece-8460-b0575e9e1772",
+            "receiver_id": "b0439e62-9c26-40a0-a157-a1f27776bb7b",
+            "message": "Gostaria de mais informações sobre os eventos culturais que vão acontecer na cidade.",
+            "reactions": {
+                "likes": 75,
+                "laughs": 50
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 6467
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "7819b62e-1355-41ee-b634-ac99d59b310d",
+            "impressions": 8229,
+            "reach": 4113
+        },
+        "Taxa de Engajamento": {
+            "likes": 536,
+            "comments": 212,
+            "shares": 199,
+            "saves": 55
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 270,
+                "Female_18-24": 262,
+                "Male_25-34": 246,
+                "Female_25-34": 485,
+                "Male_35-44": 369,
+                "Female_35-44": 125
+            },
+            "audience_country": {
+                "USA": 3874,
+                "Brazil": 2379,
+                "India": 2182,
+                "Germany": 904
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "979fc11d-c1bb-4b75-8084-c1a77a811fef",
+            "campaign_name": "minus",
+            "impressions": 3486,
+            "clicks": 787,
+            "spend": 322.31,
+            "actions": {
+                "conversions": 30,
+                "leads": 47
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "e74def58-1fa4-4162-92e2-68dc9ff0096a",
+            "impressions": 4589,
+            "reach": 597,
+            "link_clicks": 191,
+            "replies": 44
+        },
+        "Mensagens Diretas": {
+            "message_id": "d17b63ae-4b7a-4931-8fc4-bd96447b278c",
+            "receiver_id": "56557f49-b809-4f0f-8953-b2064317dbf2",
+            "message": "Achei interessante a notícia sobre a nova praça no bairro X, obrigado por compartilhar.",
+            "reactions": {
+                "likes": 24,
+                "laughs": 27
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 4181
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "7ac7e138-8589-4a66-b0e9-c4c5b44c893b",
+            "impressions": 8107,
+            "reach": 3617
+        },
+        "Taxa de Engajamento": {
+            "likes": 988,
+            "comments": 80,
+            "shares": 190,
+            "saves": 129
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 488,
+                "Female_18-24": 340,
+                "Male_25-34": 175,
+                "Female_25-34": 399,
+                "Male_35-44": 412,
+                "Female_35-44": 319
+            },
+            "audience_country": {
+                "USA": 1918,
+                "Brazil": 1881,
+                "India": 2912,
+                "Germany": 382
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "cb77a307-2742-42d8-a84f-876281d56172",
+            "campaign_name": "dolorum",
+            "impressions": 7657,
+            "clicks": 107,
+            "spend": 391.31,
+            "actions": {
+                "conversions": 87,
+                "leads": 20
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "307729df-91d0-4091-9e39-46e1a1dda7a8",
+            "impressions": 4573,
+            "reach": 597,
+            "link_clicks": 90,
+            "replies": 26
+        },
+        "Mensagens Diretas": {
+            "message_id": "92ea38a2-24ee-4111-b8a5-ff860bae64e9",
+            "receiver_id": "369eaa7e-06cd-4495-b474-ef7873051569",
+            "message": "Gostaria de mais informações sobre os eventos culturais que vão acontecer na cidade.",
+            "reactions": {
+                "likes": 15,
+                "laughs": 7
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 7494
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "9486304b-f7e4-40b4-b1de-f124281551f0",
+            "impressions": 5692,
+            "reach": 4166
+        },
+        "Taxa de Engajamento": {
+            "likes": 155,
+            "comments": 455,
+            "shares": 172,
+            "saves": 63
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 428,
+                "Female_18-24": 154,
+                "Male_25-34": 102,
+                "Female_25-34": 397,
+                "Male_35-44": 258,
+                "Female_35-44": 203
+            },
+            "audience_country": {
+                "USA": 1660,
+                "Brazil": 1163,
+                "India": 1253,
+                "Germany": 783
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "927f0d17-1329-4856-984d-33e583f15d6c",
+            "campaign_name": "consectetur",
+            "impressions": 4240,
+            "clicks": 135,
+            "spend": 281.17,
+            "actions": {
+                "conversions": 58,
+                "leads": 14
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "901c2de8-8a9d-436f-a819-366ebf2e8055",
+            "impressions": 1928,
+            "reach": 1036,
+            "link_clicks": 196,
+            "replies": 38
+        },
+        "Mensagens Diretas": {
+            "message_id": "cc8fd3b3-e855-41cc-95e6-ea91ae250a15",
+            "receiver_id": "e0fe4d4c-5bfa-4217-95b0-43b2a8bf045e",
+            "message": "A cobertura sobre o crescimento econômico da cidade foi muito útil, obrigado!",
+            "reactions": {
+                "likes": 99,
+                "laughs": 5
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 1636
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "1ac90dcc-8262-4f57-8d20-2d7023b0af0e",
+            "impressions": 4674,
+            "reach": 2918
+        },
+        "Taxa de Engajamento": {
+            "likes": 386,
+            "comments": 169,
+            "shares": 15,
+            "saves": 101
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 225,
+                "Female_18-24": 354,
+                "Male_25-34": 326,
+                "Female_25-34": 421,
+                "Male_35-44": 316,
+                "Female_35-44": 124
+            },
+            "audience_country": {
+                "USA": 4874,
+                "Brazil": 2355,
+                "India": 2027,
+                "Germany": 594
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "2cfdfe4c-4f21-4a3e-8108-757e1d3250b6",
+            "campaign_name": "aut",
+            "impressions": 6937,
+            "clicks": 314,
+            "spend": 205.6,
+            "actions": {
+                "conversions": 53,
+                "leads": 33
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "c50a9ba7-cdc2-4dc3-88c1-d10053dc208a",
+            "impressions": 5392,
+            "reach": 2133,
+            "link_clicks": 37,
+            "replies": 3
+        },
+        "Mensagens Diretas": {
+            "message_id": "26f1e78f-236a-4b8d-984a-820be43786a9",
+            "receiver_id": "83286f52-2ade-47a3-b0e0-60272eee75a0",
+            "message": "Gostaria de ver mais notícias sobre as iniciativas comunitárias em Caruaru.",
+            "reactions": {
+                "likes": 28,
+                "laughs": 5
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 3853
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "bc45b13a-ca39-4159-b9a9-72ad87f5309f",
+            "impressions": 2345,
+            "reach": 4665
+        },
+        "Taxa de Engajamento": {
+            "likes": 748,
+            "comments": 472,
+            "shares": 162,
+            "saves": 80
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 431,
+                "Female_18-24": 254,
+                "Male_25-34": 138,
+                "Female_25-34": 148,
+                "Male_35-44": 281,
+                "Female_35-44": 326
+            },
+            "audience_country": {
+                "USA": 1183,
+                "Brazil": 2991,
+                "India": 761,
+                "Germany": 550
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "e534ba00-5e83-467c-a589-e657bfcb063c",
+            "campaign_name": "eius",
+            "impressions": 9301,
+            "clicks": 169,
+            "spend": 180.73,
+            "actions": {
+                "conversions": 100,
+                "leads": 25
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "82cd4b2f-02e5-42d0-b5e8-4ec02bf4cf50",
+            "impressions": 2024,
+            "reach": 1920,
+            "link_clicks": 104,
+            "replies": 41
+        },
+        "Mensagens Diretas": {
+            "message_id": "904099a4-cb2c-47f7-b7da-87d6b8ff17d3",
+            "receiver_id": "a21f2c4d-6f61-42b1-b5c9-b540814976fa",
+            "message": "O que vocês acharam da recente mudança no comércio local? Deixe-nos saber.",
+            "reactions": {
+                "likes": 87,
+                "laughs": 47
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 1506
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "ddfa67fd-56f7-4fff-bc5c-388fdada37a4",
+            "impressions": 3826,
+            "reach": 1109
+        },
+        "Taxa de Engajamento": {
+            "likes": 329,
+            "comments": 479,
+            "shares": 38,
+            "saves": 59
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 368,
+                "Female_18-24": 119,
+                "Male_25-34": 176,
+                "Female_25-34": 230,
+                "Male_35-44": 448,
+                "Female_35-44": 199
+            },
+            "audience_country": {
+                "USA": 4708,
+                "Brazil": 972,
+                "India": 1660,
+                "Germany": 713
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "0ed50843-200d-4588-8f23-ef7b769cb513",
+            "campaign_name": "ut",
+            "impressions": 7838,
+            "clicks": 806,
+            "spend": 167.85,
+            "actions": {
+                "conversions": 76,
+                "leads": 14
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "d61f88fc-902d-464c-8903-ae7313c31dcd",
+            "impressions": 9914,
+            "reach": 2732,
+            "link_clicks": 192,
+            "replies": 21
+        },
+        "Mensagens Diretas": {
+            "message_id": "88934dec-422b-47ca-939a-e9c3fa44a31d",
+            "receiver_id": "fbdee877-d30e-42b8-813d-55f529a5d368",
+            "message": "Adorei a entrevista com o prefeito sobre os novos projetos para a cidade.",
+            "reactions": {
+                "likes": 48,
+                "laughs": 17
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 7447
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "f51e16ce-0114-4b65-873c-100ec0a2e146",
+            "impressions": 8331,
+            "reach": 1612
+        },
+        "Taxa de Engajamento": {
+            "likes": 969,
+            "comments": 164,
+            "shares": 95,
+            "saves": 71
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 135,
+                "Female_18-24": 306,
+                "Male_25-34": 489,
+                "Female_25-34": 282,
+                "Male_35-44": 143,
+                "Female_35-44": 467
+            },
+            "audience_country": {
+                "USA": 1816,
+                "Brazil": 598,
+                "India": 812,
+                "Germany": 419
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "d0227002-c100-4b59-bfbc-a50f4f332550",
+            "campaign_name": "est",
+            "impressions": 4038,
+            "clicks": 687,
+            "spend": 153.77,
+            "actions": {
+                "conversions": 87,
+                "leads": 48
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "fa344c34-67b9-4c05-87f0-7f6d3acfda75",
+            "impressions": 4991,
+            "reach": 1201,
+            "link_clicks": 57,
+            "replies": 18
+        },
+        "Mensagens Diretas": {
+            "message_id": "175de143-b973-4158-820e-ec18d2b6c3ad",
+            "receiver_id": "526b2b7d-4b77-435b-b981-a2f0489331f1",
+            "message": "Agradeço pela cobertura das eleições municipais, ajudou bastante.",
+            "reactions": {
+                "likes": 50,
+                "laughs": 20
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 9153
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "2f4a8707-76f0-4cd6-a34e-3d08582d8633",
+            "impressions": 8976,
+            "reach": 4754
+        },
+        "Taxa de Engajamento": {
+            "likes": 151,
+            "comments": 172,
+            "shares": 12,
+            "saves": 138
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 125,
+                "Female_18-24": 220,
+                "Male_25-34": 226,
+                "Female_25-34": 168,
+                "Male_35-44": 486,
+                "Female_35-44": 111
+            },
+            "audience_country": {
+                "USA": 3653,
+                "Brazil": 2911,
+                "India": 514,
+                "Germany": 280
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "eaad5cf0-009e-4a61-b660-f16e38fab629",
+            "campaign_name": "tenetur",
+            "impressions": 7099,
+            "clicks": 139,
+            "spend": 145.28,
+            "actions": {
+                "conversions": 66,
+                "leads": 23
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "c44da144-af7e-41c1-8fb5-42617769345a",
+            "impressions": 2172,
+            "reach": 4892,
+            "link_clicks": 133,
+            "replies": 41
+        },
+        "Mensagens Diretas": {
+            "message_id": "132a0f4b-fb48-443f-bb66-e3b05dc51664",
+            "receiver_id": "6b3d76a1-7ef9-4e9a-b466-e70d83f0a44f",
+            "message": "A cobertura sobre o crescimento econômico da cidade foi muito útil, obrigado!",
+            "reactions": {
+                "likes": 67,
+                "laughs": 0
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 9157
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "02cf5e26-1feb-4ba0-af63-7c5ae6d7b9b7",
+            "impressions": 7611,
+            "reach": 3684
+        },
+        "Taxa de Engajamento": {
+            "likes": 971,
+            "comments": 371,
+            "shares": 79,
+            "saves": 38
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 417,
+                "Female_18-24": 113,
+                "Male_25-34": 131,
+                "Female_25-34": 258,
+                "Male_35-44": 414,
+                "Female_35-44": 198
+            },
+            "audience_country": {
+                "USA": 4494,
+                "Brazil": 2025,
+                "India": 1719,
+                "Germany": 580
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "a4c12217-4e34-4b3b-bfae-1c37d1b68d88",
+            "campaign_name": "tenetur",
+            "impressions": 4225,
+            "clicks": 999,
+            "spend": 268.82,
+            "actions": {
+                "conversions": 44,
+                "leads": 11
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "e2ead483-25b3-4c1f-8f68-c5e60f1c875c",
+            "impressions": 9711,
+            "reach": 1806,
+            "link_clicks": 88,
+            "replies": 15
+        },
+        "Mensagens Diretas": {
+            "message_id": "53bd2ecd-032f-41f5-a112-21300c5d33aa",
+            "receiver_id": "da4ce8fc-55ad-4ec4-97c3-c7463cdf024a",
+            "message": "Gostaria de mais atualizações sobre o trânsito em Caruaru, principalmente nos horários de pico.",
+            "reactions": {
+                "likes": 8,
+                "laughs": 25
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 4296
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "7bc970d0-ab63-4672-9d8d-37cf6eb25564",
+            "impressions": 3055,
+            "reach": 564
+        },
+        "Taxa de Engajamento": {
+            "likes": 600,
+            "comments": 165,
+            "shares": 101,
+            "saves": 75
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 460,
+                "Female_18-24": 284,
+                "Male_25-34": 383,
+                "Female_25-34": 357,
+                "Male_35-44": 401,
+                "Female_35-44": 161
+            },
+            "audience_country": {
+                "USA": 2370,
+                "Brazil": 1860,
+                "India": 551,
+                "Germany": 927
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "8ad003fe-eb03-404b-a4b7-9274ceebeb1a",
+            "campaign_name": "voluptatibus",
+            "impressions": 6751,
+            "clicks": 830,
+            "spend": 82.37,
+            "actions": {
+                "conversions": 60,
+                "leads": 23
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "7cfc6758-c4fc-4ca0-8de6-4161959fc7dd",
+            "impressions": 5794,
+            "reach": 3274,
+            "link_clicks": 186,
+            "replies": 26
+        },
+        "Mensagens Diretas": {
+            "message_id": "5a0f0535-9fd1-4d2d-97ab-2a6143800495",
+            "receiver_id": "4a616a94-99e4-4379-82de-41097575cb45",
+            "message": "Seria ótimo se vocês pudessem fazer uma reportagem sobre o impacto das novas regras de transporte público.",
+            "reactions": {
+                "likes": 54,
+                "laughs": 17
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 1143
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "1e424d77-c28a-4092-9dc6-b18321258f5a",
+            "impressions": 4455,
+            "reach": 1673
+        },
+        "Taxa de Engajamento": {
+            "likes": 923,
+            "comments": 212,
+            "shares": 118,
+            "saves": 31
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 480,
+                "Female_18-24": 456,
+                "Male_25-34": 288,
+                "Female_25-34": 425,
+                "Male_35-44": 143,
+                "Female_35-44": 331
+            },
+            "audience_country": {
+                "USA": 3942,
+                "Brazil": 2310,
+                "India": 2345,
+                "Germany": 380
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "952b2d8c-5489-4377-965b-9221d34b9373",
+            "campaign_name": "provident",
+            "impressions": 4458,
+            "clicks": 859,
+            "spend": 368.53,
+            "actions": {
+                "conversions": 53,
+                "leads": 21
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "24d6cd27-209d-42eb-8241-9c814492490d",
+            "impressions": 2957,
+            "reach": 1854,
+            "link_clicks": 67,
+            "replies": 37
+        },
+        "Mensagens Diretas": {
+            "message_id": "223bad28-fc60-4c88-a3c6-a881524bf011",
+            "receiver_id": "a9df11d3-c611-4038-8786-df7a6dd379c2",
+            "message": "A reportagem sobre o mercado de Caruaru estava excelente, parabéns!",
+            "reactions": {
+                "likes": 53,
+                "laughs": 0
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 6002
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "03ada9d0-e712-4143-9e8b-64a7b0c3781e",
+            "impressions": 4166,
+            "reach": 812
+        },
+        "Taxa de Engajamento": {
+            "likes": 684,
+            "comments": 275,
+            "shares": 78,
+            "saves": 107
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 427,
+                "Female_18-24": 339,
+                "Male_25-34": 308,
+                "Female_25-34": 193,
+                "Male_35-44": 433,
+                "Female_35-44": 173
+            },
+            "audience_country": {
+                "USA": 2614,
+                "Brazil": 2572,
+                "India": 988,
+                "Germany": 104
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "cb26fc50-41df-4048-8672-3338b9bd3f59",
+            "campaign_name": "natus",
+            "impressions": 9332,
+            "clicks": 595,
+            "spend": 275.67,
+            "actions": {
+                "conversions": 32,
+                "leads": 23
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "5a0d20dd-3a9b-45c4-9a05-d2e4006c8fcc",
+            "impressions": 7736,
+            "reach": 3786,
+            "link_clicks": 21,
+            "replies": 37
+        },
+        "Mensagens Diretas": {
+            "message_id": "0e77b37b-36a5-4bc2-a1be-2553d4923e2b",
+            "receiver_id": "d29ab662-1eb6-4664-80cf-e9ad88a0a0e6",
+            "message": "Gostaria de saber mais sobre as novas políticas de segurança pública em Caruaru.",
+            "reactions": {
+                "likes": 69,
+                "laughs": 41
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 5409
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "f76f5195-97f0-4e85-9b90-b1e106dd6504",
+            "impressions": 8143,
+            "reach": 4403
+        },
+        "Taxa de Engajamento": {
+            "likes": 711,
+            "comments": 331,
+            "shares": 89,
+            "saves": 103
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 406,
+                "Female_18-24": 271,
+                "Male_25-34": 369,
+                "Female_25-34": 385,
+                "Male_35-44": 452,
+                "Female_35-44": 153
+            },
+            "audience_country": {
+                "USA": 2396,
+                "Brazil": 2266,
+                "India": 2988,
+                "Germany": 196
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "d1415cee-d7ce-47a1-8fd1-3af466bf75f0",
+            "campaign_name": "praesentium",
+            "impressions": 7965,
+            "clicks": 147,
+            "spend": 143.13,
+            "actions": {
+                "conversions": 23,
+                "leads": 32
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "de31eb19-9672-4373-8730-87dd90357b37",
+            "impressions": 5318,
+            "reach": 3375,
+            "link_clicks": 12,
+            "replies": 3
+        },
+        "Mensagens Diretas": {
+            "message_id": "5253d5d6-1d65-46dc-900a-c1d577a8a916",
+            "receiver_id": "01fb2e3f-6d1f-49d9-932f-710f9f76bc58",
+            "message": "Agradeço pela cobertura das eleições municipais, ajudou bastante.",
+            "reactions": {
+                "likes": 48,
+                "laughs": 33
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 8300
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "3e6b4eca-b559-48a5-8aff-d04b42ce3278",
+            "impressions": 4391,
+            "reach": 4192
+        },
+        "Taxa de Engajamento": {
+            "likes": 493,
+            "comments": 183,
+            "shares": 124,
+            "saves": 93
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 223,
+                "Female_18-24": 317,
+                "Male_25-34": 349,
+                "Female_25-34": 154,
+                "Male_35-44": 405,
+                "Female_35-44": 129
+            },
+            "audience_country": {
+                "USA": 1346,
+                "Brazil": 607,
+                "India": 2964,
+                "Germany": 915
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "7d518a6f-ab7e-4f47-b901-154a0345506e",
+            "campaign_name": "voluptatibus",
+            "impressions": 2488,
+            "clicks": 829,
+            "spend": 77.91,
+            "actions": {
+                "conversions": 92,
+                "leads": 11
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "7f8470a9-f459-401a-a0c7-bf50c9edf22f",
+            "impressions": 9177,
+            "reach": 2597,
+            "link_clicks": 131,
+            "replies": 34
+        },
+        "Mensagens Diretas": {
+            "message_id": "c6cb910a-b9e9-485c-a8ad-3d15fac1df99",
+            "receiver_id": "c92b0f94-04c1-4d7c-890b-b1dd4ba0af34",
+            "message": "Agradeço pelas atualizações sobre as condições das estradas e rodovias da região.",
+            "reactions": {
+                "likes": 34,
+                "laughs": 3
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 8352
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "c59addaf-26db-44d5-ab52-e96d643d437b",
+            "impressions": 6603,
+            "reach": 3996
+        },
+        "Taxa de Engajamento": {
+            "likes": 889,
+            "comments": 81,
+            "shares": 79,
+            "saves": 141
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 482,
+                "Female_18-24": 305,
+                "Male_25-34": 155,
+                "Female_25-34": 392,
+                "Male_35-44": 374,
+                "Female_35-44": 214
+            },
+            "audience_country": {
+                "USA": 1951,
+                "Brazil": 2474,
+                "India": 882,
+                "Germany": 889
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "a876f8ff-861e-4707-ba0b-94081eacee07",
+            "campaign_name": "minus",
+            "impressions": 6307,
+            "clicks": 702,
+            "spend": 292.45,
+            "actions": {
+                "conversions": 74,
+                "leads": 44
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "53947a39-9124-424f-83b1-2f49491d1e2c",
+            "impressions": 9171,
+            "reach": 609,
+            "link_clicks": 29,
+            "replies": 5
+        },
+        "Mensagens Diretas": {
+            "message_id": "5f9a2954-c37a-4807-8051-50bc8459b0b7",
+            "receiver_id": "7a7c4730-4fb3-47c6-8a9c-0dbb5316927a",
+            "message": "Adorei a entrevista com o prefeito sobre os novos projetos para a cidade.",
+            "reactions": {
+                "likes": 63,
+                "laughs": 16
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 9347
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "97ceb425-d604-4468-843e-2087ad8fa304",
+            "impressions": 1578,
+            "reach": 4798
+        },
+        "Taxa de Engajamento": {
+            "likes": 304,
+            "comments": 144,
+            "shares": 64,
+            "saves": 63
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 202,
+                "Female_18-24": 359,
+                "Male_25-34": 366,
+                "Female_25-34": 230,
+                "Male_35-44": 280,
+                "Female_35-44": 190
+            },
+            "audience_country": {
+                "USA": 3193,
+                "Brazil": 1004,
+                "India": 1557,
+                "Germany": 832
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "3664d4e6-9a82-408f-af88-8e9cdcf91030",
+            "campaign_name": "explicabo",
+            "impressions": 1908,
+            "clicks": 412,
+            "spend": 107.47,
+            "actions": {
+                "conversions": 37,
+                "leads": 7
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "4cb82c1d-5461-4963-9885-cc0cde63bd47",
+            "impressions": 2327,
+            "reach": 2834,
+            "link_clicks": 18,
+            "replies": 10
+        },
+        "Mensagens Diretas": {
+            "message_id": "6e5f978c-4aea-45ae-b48e-7bf2abeeb486",
+            "receiver_id": "ee7ff8c2-703d-4af4-baf3-4067429ca226",
+            "message": "Gostaria de saber mais sobre as novas políticas de segurança pública em Caruaru.",
+            "reactions": {
+                "likes": 95,
+                "laughs": 21
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 6404
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "3af448c8-c484-4a75-becd-eb24af5d5da1",
+            "impressions": 9579,
+            "reach": 3454
+        },
+        "Taxa de Engajamento": {
+            "likes": 203,
+            "comments": 174,
+            "shares": 155,
+            "saves": 75
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 109,
+                "Female_18-24": 433,
+                "Male_25-34": 279,
+                "Female_25-34": 166,
+                "Male_35-44": 442,
+                "Female_35-44": 205
+            },
+            "audience_country": {
+                "USA": 4043,
+                "Brazil": 963,
+                "India": 2328,
+                "Germany": 185
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "1e7f1b62-f761-4164-aa3e-3c0c89945722",
+            "campaign_name": "quis",
+            "impressions": 1774,
+            "clicks": 520,
+            "spend": 495.22,
+            "actions": {
+                "conversions": 84,
+                "leads": 10
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "fe061511-f6c9-46d5-8647-fbfe6df42f81",
+            "impressions": 7412,
+            "reach": 1656,
+            "link_clicks": 192,
+            "replies": 5
+        },
+        "Mensagens Diretas": {
+            "message_id": "cd5acd57-e61f-4bff-b543-e7bc3c1db56d",
+            "receiver_id": "fed962f0-0e86-456f-85c5-16da2190a579",
+            "message": "Estou ansioso para as próximas atualizações sobre o festival de música de Caruaru.",
+            "reactions": {
+                "likes": 43,
+                "laughs": 40
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 3508
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "cc6cf286-56ba-42b2-8ee7-54283467977f",
+            "impressions": 2155,
+            "reach": 2439
+        },
+        "Taxa de Engajamento": {
+            "likes": 362,
+            "comments": 374,
+            "shares": 168,
+            "saves": 30
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 244,
+                "Female_18-24": 487,
+                "Male_25-34": 243,
+                "Female_25-34": 243,
+                "Male_35-44": 437,
+                "Female_35-44": 483
+            },
+            "audience_country": {
+                "USA": 1393,
+                "Brazil": 2270,
+                "India": 883,
+                "Germany": 322
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "3ceb3a19-74bd-4eec-9db2-6e775a4f8da3",
+            "campaign_name": "minima",
+            "impressions": 9006,
+            "clicks": 641,
+            "spend": 402.71,
+            "actions": {
+                "conversions": 19,
+                "leads": 29
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "3dd2655a-8438-44a9-9535-74192fb3a64d",
+            "impressions": 6726,
+            "reach": 4050,
+            "link_clicks": 11,
+            "replies": 29
+        },
+        "Mensagens Diretas": {
+            "message_id": "983c8f70-6d8a-48f4-889b-b63b0d750425",
+            "receiver_id": "ba01d82d-7fc8-43db-8f93-f2070502d596",
+            "message": "Gostei muito da cobertura sobre o São João de Caruaru, foi muito informativo!",
+            "reactions": {
+                "likes": 96,
+                "laughs": 6
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 8844
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "61a28786-6362-40ba-9cc0-6f6924e43624",
+            "impressions": 4487,
+            "reach": 1376
+        },
+        "Taxa de Engajamento": {
+            "likes": 858,
+            "comments": 340,
+            "shares": 143,
+            "saves": 13
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 447,
+                "Female_18-24": 120,
+                "Male_25-34": 312,
+                "Female_25-34": 385,
+                "Male_35-44": 195,
+                "Female_35-44": 269
+            },
+            "audience_country": {
+                "USA": 4270,
+                "Brazil": 1870,
+                "India": 1282,
+                "Germany": 832
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "2699ea45-5491-4f8d-8a78-e93a1e5306ff",
+            "campaign_name": "dolorum",
+            "impressions": 2761,
+            "clicks": 315,
+            "spend": 362.72,
+            "actions": {
+                "conversions": 49,
+                "leads": 27
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "d26a8552-ae99-41cd-be92-c39aba28d50e",
+            "impressions": 1030,
+            "reach": 4753,
+            "link_clicks": 35,
+            "replies": 43
+        },
+        "Mensagens Diretas": {
+            "message_id": "0dfa9e2d-0540-45e8-9b79-28b2cffde75a",
+            "receiver_id": "75827015-0fe2-4526-8401-6a28adff5508",
+            "message": "A cobertura sobre o crescimento econômico da cidade foi muito útil, obrigado!",
+            "reactions": {
+                "likes": 37,
+                "laughs": 11
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 2463
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "632b0b89-e881-48b5-93ce-ab4e46fd1edc",
+            "impressions": 9195,
+            "reach": 4054
+        },
+        "Taxa de Engajamento": {
+            "likes": 642,
+            "comments": 356,
+            "shares": 164,
+            "saves": 99
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 223,
+                "Female_18-24": 388,
+                "Male_25-34": 211,
+                "Female_25-34": 272,
+                "Male_35-44": 241,
+                "Female_35-44": 143
+            },
+            "audience_country": {
+                "USA": 1682,
+                "Brazil": 1125,
+                "India": 1622,
+                "Germany": 846
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "582b2df7-f986-4421-bcf7-2297bf438a5c",
+            "campaign_name": "id",
+            "impressions": 4894,
+            "clicks": 287,
+            "spend": 283.94,
+            "actions": {
+                "conversions": 70,
+                "leads": 27
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "9267ef1d-9b75-4d10-804f-f341e0014ec8",
+            "impressions": 1939,
+            "reach": 2361,
+            "link_clicks": 191,
+            "replies": 29
+        },
+        "Mensagens Diretas": {
+            "message_id": "1a0f099c-14b8-4f73-b1c2-c2bb89f8abd6",
+            "receiver_id": "a349d116-8712-4c36-aa1b-4948818adc22",
+            "message": "O que vocês acharam da recente mudança no comércio local? Deixe-nos saber.",
+            "reactions": {
+                "likes": 13,
+                "laughs": 21
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 2778
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "c6505dfb-7466-470d-a634-503f25f201a7",
+            "impressions": 8839,
+            "reach": 589
+        },
+        "Taxa de Engajamento": {
+            "likes": 635,
+            "comments": 83,
+            "shares": 170,
+            "saves": 124
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 106,
+                "Female_18-24": 353,
+                "Male_25-34": 366,
+                "Female_25-34": 331,
+                "Male_35-44": 171,
+                "Female_35-44": 313
+            },
+            "audience_country": {
+                "USA": 2079,
+                "Brazil": 2618,
+                "India": 1930,
+                "Germany": 143
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "5d494480-5353-4855-b1ba-d73789728b90",
+            "campaign_name": "fugiat",
+            "impressions": 2669,
+            "clicks": 188,
+            "spend": 168.05,
+            "actions": {
+                "conversions": 40,
+                "leads": 10
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "40e47a7f-db49-49f2-82e4-9ba782cfdb54",
+            "impressions": 5016,
+            "reach": 1698,
+            "link_clicks": 134,
+            "replies": 37
+        },
+        "Mensagens Diretas": {
+            "message_id": "0606c53a-6ebf-4a00-b68d-b9539ff751e5",
+            "receiver_id": "d64aeb15-7678-4ba8-8e9f-af59a1274b32",
+            "message": "Poderiam fazer uma reportagem sobre as novas oportunidades de emprego em Caruaru?",
+            "reactions": {
+                "likes": 9,
+                "laughs": 6
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 7219
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "b2f4f8cc-2462-49c8-92fa-4d7d84f25686",
+            "impressions": 9563,
+            "reach": 3244
+        },
+        "Taxa de Engajamento": {
+            "likes": 121,
+            "comments": 210,
+            "shares": 126,
+            "saves": 122
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 123,
+                "Female_18-24": 345,
+                "Male_25-34": 136,
+                "Female_25-34": 250,
+                "Male_35-44": 357,
+                "Female_35-44": 122
+            },
+            "audience_country": {
+                "USA": 4858,
+                "Brazil": 754,
+                "India": 2614,
+                "Germany": 751
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "b64d90f1-0179-4da4-94f9-38fd978568bd",
+            "campaign_name": "doloremque",
+            "impressions": 8034,
+            "clicks": 428,
+            "spend": 274.42,
+            "actions": {
+                "conversions": 38,
+                "leads": 8
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "f73464c2-db6e-4469-9996-a0f4592ce2ce",
+            "impressions": 4633,
+            "reach": 4180,
+            "link_clicks": 181,
+            "replies": 31
+        },
+        "Mensagens Diretas": {
+            "message_id": "a0367a7c-628f-47c1-b3e1-00ac53c480d8",
+            "receiver_id": "c7211a5f-999f-4f27-b531-fe3918896a70",
+            "message": "Adorei a entrevista com o prefeito sobre os novos projetos para a cidade.",
+            "reactions": {
+                "likes": 20,
+                "laughs": 1
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 2576
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "4ade4b7e-02ac-4dd4-b521-e8812d643d6e",
+            "impressions": 9372,
+            "reach": 4773
+        },
+        "Taxa de Engajamento": {
+            "likes": 965,
+            "comments": 306,
+            "shares": 32,
+            "saves": 104
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 320,
+                "Female_18-24": 342,
+                "Male_25-34": 500,
+                "Female_25-34": 394,
+                "Male_35-44": 224,
+                "Female_35-44": 103
+            },
+            "audience_country": {
+                "USA": 3698,
+                "Brazil": 1327,
+                "India": 2420,
+                "Germany": 312
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "c6088fab-877d-4479-882b-508f7b42ff28",
+            "campaign_name": "libero",
+            "impressions": 2278,
+            "clicks": 257,
+            "spend": 298.71,
+            "actions": {
+                "conversions": 45,
+                "leads": 40
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "6dc632d9-d305-408e-b951-52f56807a476",
+            "impressions": 3318,
+            "reach": 4457,
+            "link_clicks": 56,
+            "replies": 31
+        },
+        "Mensagens Diretas": {
+            "message_id": "870d0b8e-ba02-495a-aaec-4a9617632ea7",
+            "receiver_id": "706d6df7-3a34-46a2-bfd8-3e6767af32e6",
+            "message": "Gostaria de mais informações sobre os eventos culturais que vão acontecer na cidade.",
+            "reactions": {
+                "likes": 42,
+                "laughs": 3
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 2404
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "c06f5ab3-01bb-4ff7-a454-a86ecb886922",
+            "impressions": 2607,
+            "reach": 693
+        },
+        "Taxa de Engajamento": {
+            "likes": 603,
+            "comments": 386,
+            "shares": 38,
+            "saves": 72
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 346,
+                "Female_18-24": 271,
+                "Male_25-34": 264,
+                "Female_25-34": 226,
+                "Male_35-44": 464,
+                "Female_35-44": 352
+            },
+            "audience_country": {
+                "USA": 2304,
+                "Brazil": 778,
+                "India": 2364,
+                "Germany": 470
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "ce93dbac-6867-4a0e-bb51-60847e24df54",
+            "campaign_name": "quisquam",
+            "impressions": 9610,
+            "clicks": 579,
+            "spend": 146.63,
+            "actions": {
+                "conversions": 90,
+                "leads": 19
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "1045efb5-7956-49f6-840e-afbe3dba2522",
+            "impressions": 3701,
+            "reach": 932,
+            "link_clicks": 102,
+            "replies": 5
+        },
+        "Mensagens Diretas": {
+            "message_id": "a366d3fb-2762-4af8-9d09-c2a47218a61f",
+            "receiver_id": "a1f73cd8-f128-4b21-b7fb-9ab7d0b78a3f",
+            "message": "A cobertura sobre o crescimento econômico da cidade foi muito útil, obrigado!",
+            "reactions": {
+                "likes": 59,
+                "laughs": 41
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 3853
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "5e36fbf1-006e-48c5-aed4-78be84f8798d",
+            "impressions": 2838,
+            "reach": 4545
+        },
+        "Taxa de Engajamento": {
+            "likes": 427,
+            "comments": 430,
+            "shares": 131,
+            "saves": 98
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 192,
+                "Female_18-24": 346,
+                "Male_25-34": 155,
+                "Female_25-34": 341,
+                "Male_35-44": 300,
+                "Female_35-44": 344
+            },
+            "audience_country": {
+                "USA": 3386,
+                "Brazil": 2334,
+                "India": 1155,
+                "Germany": 869
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "703f4295-cc73-45f1-bd12-1ef213c29383",
+            "campaign_name": "natus",
+            "impressions": 4726,
+            "clicks": 671,
+            "spend": 198.35,
+            "actions": {
+                "conversions": 36,
+                "leads": 13
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "16ce36bf-1e03-424e-8717-1f85df52bca0",
+            "impressions": 2593,
+            "reach": 1053,
+            "link_clicks": 26,
+            "replies": 7
+        },
+        "Mensagens Diretas": {
+            "message_id": "66d26ad0-3a18-49b3-94ed-ddf2cb977a1e",
+            "receiver_id": "a7780204-355f-4e85-8cc9-85c561e65833",
+            "message": "O que vocês acharam da recente mudança no comércio local? Deixe-nos saber.",
+            "reactions": {
+                "likes": 10,
+                "laughs": 48
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 4655
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "d00ce1ba-11cf-4b42-99a5-28e4fd613202",
+            "impressions": 1559,
+            "reach": 3017
+        },
+        "Taxa de Engajamento": {
+            "likes": 343,
+            "comments": 479,
+            "shares": 35,
+            "saves": 91
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 357,
+                "Female_18-24": 320,
+                "Male_25-34": 386,
+                "Female_25-34": 325,
+                "Male_35-44": 247,
+                "Female_35-44": 317
+            },
+            "audience_country": {
+                "USA": 1045,
+                "Brazil": 916,
+                "India": 2785,
+                "Germany": 388
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "9bd8fea0-d30d-474b-b9b2-671d87f659a4",
+            "campaign_name": "maxime",
+            "impressions": 2860,
+            "clicks": 896,
+            "spend": 268.48,
+            "actions": {
+                "conversions": 89,
+                "leads": 46
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "8e8edc50-f5c2-494e-a90b-758fba619a29",
+            "impressions": 1642,
+            "reach": 1607,
+            "link_clicks": 187,
+            "replies": 7
+        },
+        "Mensagens Diretas": {
+            "message_id": "f39e23fc-abef-409b-a7b1-a93df842c915",
+            "receiver_id": "7f0d7659-c439-4be9-8d54-f4e1c92fabfe",
+            "message": "Gostaria de saber mais sobre as novas políticas de segurança pública em Caruaru.",
+            "reactions": {
+                "likes": 73,
+                "laughs": 8
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 1491
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "ae3b110f-321c-42b4-82a7-c7b3d5eceb15",
+            "impressions": 2187,
+            "reach": 4731
+        },
+        "Taxa de Engajamento": {
+            "likes": 634,
+            "comments": 192,
+            "shares": 66,
+            "saves": 30
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 104,
+                "Female_18-24": 411,
+                "Male_25-34": 258,
+                "Female_25-34": 204,
+                "Male_35-44": 216,
+                "Female_35-44": 113
+            },
+            "audience_country": {
+                "USA": 1068,
+                "Brazil": 2299,
+                "India": 1987,
+                "Germany": 108
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "7ad369a5-5b88-4f39-bfca-34c584d15fc7",
+            "campaign_name": "numquam",
+            "impressions": 3988,
+            "clicks": 918,
+            "spend": 243.98,
+            "actions": {
+                "conversions": 14,
+                "leads": 5
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "be39fe1b-e97c-4d0e-bb77-49255dc920f4",
+            "impressions": 3638,
+            "reach": 3283,
+            "link_clicks": 122,
+            "replies": 11
+        },
+        "Mensagens Diretas": {
+            "message_id": "4ecd539a-4322-4290-ac32-25fac3758c34",
+            "receiver_id": "c6ae0872-dfaf-4d14-92c1-140f119191aa",
+            "message": "Por favor, façam uma reportagem sobre as novas empresas que estão abrindo em Caruaru.",
+            "reactions": {
+                "likes": 70,
+                "laughs": 17
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 8933
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "546e0649-0bbf-4a02-a118-55549987011f",
+            "impressions": 2621,
+            "reach": 2301
+        },
+        "Taxa de Engajamento": {
+            "likes": 148,
+            "comments": 167,
+            "shares": 14,
+            "saves": 17
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 149,
+                "Female_18-24": 206,
+                "Male_25-34": 203,
+                "Female_25-34": 149,
+                "Male_35-44": 246,
+                "Female_35-44": 388
+            },
+            "audience_country": {
+                "USA": 4404,
+                "Brazil": 1924,
+                "India": 1381,
+                "Germany": 753
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "bcb25f41-599b-4b9c-bcb4-484368e86214",
+            "campaign_name": "ipsam",
+            "impressions": 8241,
+            "clicks": 555,
+            "spend": 324.11,
+            "actions": {
+                "conversions": 60,
+                "leads": 22
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "d350ebb4-2e3c-4885-99b3-548375f49559",
+            "impressions": 7485,
+            "reach": 808,
+            "link_clicks": 28,
+            "replies": 17
+        },
+        "Mensagens Diretas": {
+            "message_id": "1da98f29-37d5-4eb7-9cf3-719f8b2249e9",
+            "receiver_id": "3aa5c833-ace2-48b0-b8c4-51bd7ac3be3c",
+            "message": "Seria ótimo se vocês pudessem fazer uma reportagem sobre o impacto das novas regras de transporte público.",
+            "reactions": {
+                "likes": 22,
+                "laughs": 4
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 9156
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "f7178b12-b867-4c29-90b0-f85ed27310a7",
+            "impressions": 2770,
+            "reach": 2599
+        },
+        "Taxa de Engajamento": {
+            "likes": 771,
+            "comments": 423,
+            "shares": 21,
+            "saves": 129
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 296,
+                "Female_18-24": 174,
+                "Male_25-34": 426,
+                "Female_25-34": 353,
+                "Male_35-44": 173,
+                "Female_35-44": 253
+            },
+            "audience_country": {
+                "USA": 3518,
+                "Brazil": 2832,
+                "India": 2262,
+                "Germany": 774
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "6517c77b-3d55-4934-b09d-a0fa8f304ebc",
+            "campaign_name": "reprehenderit",
+            "impressions": 8707,
+            "clicks": 500,
+            "spend": 145.35,
+            "actions": {
+                "conversions": 28,
+                "leads": 7
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "fe565545-3a65-4db3-92ed-060b4dbb645a",
+            "impressions": 4631,
+            "reach": 844,
+            "link_clicks": 14,
+            "replies": 48
+        },
+        "Mensagens Diretas": {
+            "message_id": "e551491a-b26f-4268-a081-0e4a85ba4d6a",
+            "receiver_id": "e9d14ae4-7688-41e1-9139-fe8da8b93e6f",
+            "message": "Gostaria de mais informações sobre os eventos culturais que vão acontecer na cidade.",
+            "reactions": {
+                "likes": 96,
+                "laughs": 45
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 3513
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "dacb5c29-8029-4fa0-8448-578519544be5",
+            "impressions": 2793,
+            "reach": 4832
+        },
+        "Taxa de Engajamento": {
+            "likes": 746,
+            "comments": 146,
+            "shares": 159,
+            "saves": 96
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 328,
+                "Female_18-24": 383,
+                "Male_25-34": 167,
+                "Female_25-34": 481,
+                "Male_35-44": 311,
+                "Female_35-44": 262
+            },
+            "audience_country": {
+                "USA": 4748,
+                "Brazil": 1864,
+                "India": 957,
+                "Germany": 784
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "8ff92e1b-7897-4614-99c2-ff5f4be0cc8c",
+            "campaign_name": "at",
+            "impressions": 1523,
+            "clicks": 753,
+            "spend": 210.52,
+            "actions": {
+                "conversions": 99,
+                "leads": 48
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "edd6434a-7828-42dc-952d-0baf787e4375",
+            "impressions": 2199,
+            "reach": 897,
+            "link_clicks": 73,
+            "replies": 17
+        },
+        "Mensagens Diretas": {
+            "message_id": "103e866c-2222-43c8-bc99-0fe0c46b74bd",
+            "receiver_id": "756de3c8-1805-458d-977d-4a15d4887cd8",
+            "message": "O que vocês acharam da recente mudança no comércio local? Deixe-nos saber.",
+            "reactions": {
+                "likes": 31,
+                "laughs": 22
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 4655
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "b1612aad-54f5-4b9e-92df-dbf5089df095",
+            "impressions": 1842,
+            "reach": 2026
+        },
+        "Taxa de Engajamento": {
+            "likes": 510,
+            "comments": 424,
+            "shares": 198,
+            "saves": 39
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 373,
+                "Female_18-24": 390,
+                "Male_25-34": 225,
+                "Female_25-34": 373,
+                "Male_35-44": 465,
+                "Female_35-44": 210
+            },
+            "audience_country": {
+                "USA": 3984,
+                "Brazil": 784,
+                "India": 1741,
+                "Germany": 713
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "24293409-9cf6-47a6-95d8-16e073e91b8e",
+            "campaign_name": "magni",
+            "impressions": 8620,
+            "clicks": 720,
+            "spend": 54.91,
+            "actions": {
+                "conversions": 75,
+                "leads": 22
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "c8e9f61a-4a97-42a5-aa2e-6f22a23918f8",
+            "impressions": 8282,
+            "reach": 1319,
+            "link_clicks": 114,
+            "replies": 1
+        },
+        "Mensagens Diretas": {
+            "message_id": "cc713a24-2b34-457a-a092-70754dcf4b48",
+            "receiver_id": "5d34e6a6-c7b8-41cb-a94a-d897c954dd55",
+            "message": "A reportagem sobre o mercado de Caruaru estava excelente, parabéns!",
+            "reactions": {
+                "likes": 88,
+                "laughs": 7
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 9795
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "34347cb9-1444-410d-a85a-f5440c5444df",
+            "impressions": 1178,
+            "reach": 1233
+        },
+        "Taxa de Engajamento": {
+            "likes": 739,
+            "comments": 211,
+            "shares": 181,
+            "saves": 108
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 245,
+                "Female_18-24": 295,
+                "Male_25-34": 230,
+                "Female_25-34": 420,
+                "Male_35-44": 262,
+                "Female_35-44": 169
+            },
+            "audience_country": {
+                "USA": 2926,
+                "Brazil": 1951,
+                "India": 875,
+                "Germany": 843
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "c3ac01a5-6e68-4d8e-ae21-7507362f9c88",
+            "campaign_name": "architecto",
+            "impressions": 3043,
+            "clicks": 525,
+            "spend": 445.99,
+            "actions": {
+                "conversions": 51,
+                "leads": 44
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "5a1d5def-58e0-400f-87c1-3c39572b2487",
+            "impressions": 6787,
+            "reach": 4809,
+            "link_clicks": 59,
+            "replies": 3
+        },
+        "Mensagens Diretas": {
+            "message_id": "df03a27d-9e44-4f60-b065-a315422a9215",
+            "receiver_id": "0870f798-3fef-4c40-b5a3-6ab796c968cf",
+            "message": "Agradeço pelas atualizações sobre as condições das estradas e rodovias da região.",
+            "reactions": {
+                "likes": 67,
+                "laughs": 25
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 3347
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "4677c3cd-b3e6-428b-ac4c-da070f5f0e3e",
+            "impressions": 1208,
+            "reach": 2571
+        },
+        "Taxa de Engajamento": {
+            "likes": 510,
+            "comments": 276,
+            "shares": 33,
+            "saves": 39
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 228,
+                "Female_18-24": 444,
+                "Male_25-34": 214,
+                "Female_25-34": 361,
+                "Male_35-44": 188,
+                "Female_35-44": 437
+            },
+            "audience_country": {
+                "USA": 2653,
+                "Brazil": 1068,
+                "India": 661,
+                "Germany": 284
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "6fa2af85-c7e4-4daf-9a86-17962af6c8d1",
+            "campaign_name": "nesciunt",
+            "impressions": 5604,
+            "clicks": 237,
+            "spend": 101.09,
+            "actions": {
+                "conversions": 82,
+                "leads": 21
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "76f18033-9e76-47d3-99ce-f49fe00ea6dd",
+            "impressions": 1961,
+            "reach": 978,
+            "link_clicks": 40,
+            "replies": 40
+        },
+        "Mensagens Diretas": {
+            "message_id": "45bafa90-526d-46fa-961d-1c9fbf5fb5d6",
+            "receiver_id": "c88682c6-bd3e-450b-b999-fe0309fde10b",
+            "message": "As atualizações sobre as obras na cidade estão ótimas, mas gostaria de mais detalhes sobre os prazos.",
+            "reactions": {
+                "likes": 50,
+                "laughs": 16
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 5896
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "32d96405-042e-4b29-bba5-3c205b7f84fa",
+            "impressions": 7712,
+            "reach": 2825
+        },
+        "Taxa de Engajamento": {
+            "likes": 448,
+            "comments": 276,
+            "shares": 197,
+            "saves": 150
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 110,
+                "Female_18-24": 391,
+                "Male_25-34": 423,
+                "Female_25-34": 176,
+                "Male_35-44": 437,
+                "Female_35-44": 259
+            },
+            "audience_country": {
+                "USA": 1223,
+                "Brazil": 2556,
+                "India": 2981,
+                "Germany": 974
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "56600c09-c26c-4efd-b73a-b8fe6ac15fe5",
+            "campaign_name": "excepturi",
+            "impressions": 4565,
+            "clicks": 216,
+            "spend": 433.82,
+            "actions": {
+                "conversions": 16,
+                "leads": 9
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "5cc70677-5c04-4096-abbc-848010260d42",
+            "impressions": 6606,
+            "reach": 2625,
+            "link_clicks": 124,
+            "replies": 5
+        },
+        "Mensagens Diretas": {
+            "message_id": "ed347be5-bd8f-44b4-a346-5978edff1c8a",
+            "receiver_id": "938a190b-a01a-44d9-8caa-7d71ead487ad",
+            "message": "Achei interessante a notícia sobre a nova praça no bairro X, obrigado por compartilhar.",
+            "reactions": {
+                "likes": 1,
+                "laughs": 21
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 2543
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "ba3f7a29-4378-4deb-a750-8bcd1cdc280d",
+            "impressions": 8799,
+            "reach": 1350
+        },
+        "Taxa de Engajamento": {
+            "likes": 249,
+            "comments": 121,
+            "shares": 51,
+            "saves": 132
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 336,
+                "Female_18-24": 451,
+                "Male_25-34": 494,
+                "Female_25-34": 372,
+                "Male_35-44": 457,
+                "Female_35-44": 188
+            },
+            "audience_country": {
+                "USA": 3310,
+                "Brazil": 1689,
+                "India": 728,
+                "Germany": 239
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "12aafab9-d02d-47d1-80cf-6eb0b578e9b2",
+            "campaign_name": "quidem",
+            "impressions": 3062,
+            "clicks": 819,
+            "spend": 223.95,
+            "actions": {
+                "conversions": 82,
+                "leads": 47
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "be05eb67-b2c2-4623-9172-61dda0141fec",
+            "impressions": 8419,
+            "reach": 1284,
+            "link_clicks": 12,
+            "replies": 1
+        },
+        "Mensagens Diretas": {
+            "message_id": "e99b2921-7c65-4476-9223-a76c18238d2c",
+            "receiver_id": "ca8af742-c13c-4ce9-823b-8375bac6d256",
+            "message": "As atualizações sobre as obras na cidade estão ótimas, mas gostaria de mais detalhes sobre os prazos.",
+            "reactions": {
+                "likes": 82,
+                "laughs": 24
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 9362
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "07017bbd-f3fa-4f11-b03e-a3c33ee88d90",
+            "impressions": 8400,
+            "reach": 3520
+        },
+        "Taxa de Engajamento": {
+            "likes": 812,
+            "comments": 101,
+            "shares": 100,
+            "saves": 103
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 189,
+                "Female_18-24": 306,
+                "Male_25-34": 159,
+                "Female_25-34": 142,
+                "Male_35-44": 384,
+                "Female_35-44": 358
+            },
+            "audience_country": {
+                "USA": 1132,
+                "Brazil": 876,
+                "India": 1498,
+                "Germany": 894
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "cac6049f-b958-4ebc-bf7a-5d8d967749e8",
+            "campaign_name": "illum",
+            "impressions": 5112,
+            "clicks": 109,
+            "spend": 274.32,
+            "actions": {
+                "conversions": 56,
+                "leads": 37
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "6c0686b5-d13b-430f-bead-7f8123c3482d",
+            "impressions": 3333,
+            "reach": 2988,
+            "link_clicks": 188,
+            "replies": 25
+        },
+        "Mensagens Diretas": {
+            "message_id": "8d81cadd-677c-4ba6-8758-926c597ee0aa",
+            "receiver_id": "1b7b24ed-68fd-403a-a4cc-54df28fee775",
+            "message": "Acho que seria interessante uma série de matérias sobre os pontos turísticos de Caruaru.",
+            "reactions": {
+                "likes": 67,
+                "laughs": 6
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 5301
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "68306c4a-6750-4c6f-a72e-295f3fa0976f",
+            "impressions": 1842,
+            "reach": 2778
+        },
+        "Taxa de Engajamento": {
+            "likes": 176,
+            "comments": 152,
+            "shares": 15,
+            "saves": 77
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 264,
+                "Female_18-24": 161,
+                "Male_25-34": 270,
+                "Female_25-34": 117,
+                "Male_35-44": 161,
+                "Female_35-44": 237
+            },
+            "audience_country": {
+                "USA": 2714,
+                "Brazil": 2419,
+                "India": 2315,
+                "Germany": 544
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "f5a861a3-d44a-496d-87d5-7f89696f7cb9",
+            "campaign_name": "laboriosam",
+            "impressions": 5648,
+            "clicks": 772,
+            "spend": 254.81,
+            "actions": {
+                "conversions": 73,
+                "leads": 35
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "192aa3f4-35ef-42ff-a7ed-eed37924c82c",
+            "impressions": 1090,
+            "reach": 556,
+            "link_clicks": 58,
+            "replies": 11
+        },
+        "Mensagens Diretas": {
+            "message_id": "e58262d8-15b5-4f11-8022-3b002539dd71",
+            "receiver_id": "745606a5-71a2-4d96-a724-ab12e2dbcc86",
+            "message": "Poderiam fazer uma reportagem sobre as novas oportunidades de emprego em Caruaru?",
+            "reactions": {
+                "likes": 100,
+                "laughs": 5
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 6176
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "74bff51d-84bd-48b0-965f-3916bbdfe9c6",
+            "impressions": 9695,
+            "reach": 1801
+        },
+        "Taxa de Engajamento": {
+            "likes": 843,
+            "comments": 289,
+            "shares": 183,
+            "saves": 56
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 392,
+                "Female_18-24": 464,
+                "Male_25-34": 167,
+                "Female_25-34": 345,
+                "Male_35-44": 304,
+                "Female_35-44": 372
+            },
+            "audience_country": {
+                "USA": 3480,
+                "Brazil": 1091,
+                "India": 1942,
+                "Germany": 776
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "c2aa37c9-c59c-420f-9f3e-e05f36685992",
+            "campaign_name": "fugit",
+            "impressions": 8340,
+            "clicks": 112,
+            "spend": 243.76,
+            "actions": {
+                "conversions": 36,
+                "leads": 30
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "beb47ba5-bcd2-4991-bf5b-b7a83d68455e",
+            "impressions": 7581,
+            "reach": 1570,
+            "link_clicks": 76,
+            "replies": 46
+        },
+        "Mensagens Diretas": {
+            "message_id": "f8264257-5afe-45c6-83a4-5536fa01a100",
+            "receiver_id": "0ed76180-25be-499d-8826-12335cdfe5d8",
+            "message": "Achei interessante a notícia sobre a nova praça no bairro X, obrigado por compartilhar.",
+            "reactions": {
+                "likes": 83,
+                "laughs": 1
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 1045
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "05160311-6897-4c11-aa9b-ac354dd69755",
+            "impressions": 9738,
+            "reach": 582
+        },
+        "Taxa de Engajamento": {
+            "likes": 751,
+            "comments": 179,
+            "shares": 82,
+            "saves": 127
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 133,
+                "Female_18-24": 151,
+                "Male_25-34": 266,
+                "Female_25-34": 309,
+                "Male_35-44": 153,
+                "Female_35-44": 208
+            },
+            "audience_country": {
+                "USA": 1973,
+                "Brazil": 734,
+                "India": 2137,
+                "Germany": 591
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "542145d6-d493-4f98-b0d1-60718b8a7e3c",
+            "campaign_name": "neque",
+            "impressions": 6373,
+            "clicks": 984,
+            "spend": 296.42,
+            "actions": {
+                "conversions": 16,
+                "leads": 44
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "30125ff2-331e-4f83-8f29-d5aab4a39cbd",
+            "impressions": 5144,
+            "reach": 2836,
+            "link_clicks": 58,
+            "replies": 6
+        },
+        "Mensagens Diretas": {
+            "message_id": "ee36b655-ac97-4150-ae2c-ff6d264b17fc",
+            "receiver_id": "f4c15222-3efd-4b92-a5d7-479bcd9a8eac",
+            "message": "A cobertura sobre o crescimento econômico da cidade foi muito útil, obrigado!",
+            "reactions": {
+                "likes": 58,
+                "laughs": 29
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 2249
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "c398ad9f-be39-45e5-95cf-1ad7c66d255f",
+            "impressions": 8284,
+            "reach": 3364
+        },
+        "Taxa de Engajamento": {
+            "likes": 539,
+            "comments": 226,
+            "shares": 153,
+            "saves": 65
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 374,
+                "Female_18-24": 470,
+                "Male_25-34": 179,
+                "Female_25-34": 130,
+                "Male_35-44": 445,
+                "Female_35-44": 264
+            },
+            "audience_country": {
+                "USA": 3520,
+                "Brazil": 1155,
+                "India": 1461,
+                "Germany": 621
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "49400022-ee85-485c-b72f-251b554eeb7f",
+            "campaign_name": "distinctio",
+            "impressions": 1427,
+            "clicks": 603,
+            "spend": 320.91,
+            "actions": {
+                "conversions": 88,
+                "leads": 9
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "67ee305b-19e7-4f99-bdce-58609eeb192d",
+            "impressions": 7955,
+            "reach": 4671,
+            "link_clicks": 146,
+            "replies": 15
+        },
+        "Mensagens Diretas": {
+            "message_id": "4ca88b81-768b-4f61-a6f1-77052fec7c95",
+            "receiver_id": "8e4f42d3-90a0-4acf-a4e8-548e4baef416",
+            "message": "A cobertura sobre o crescimento econômico da cidade foi muito útil, obrigado!",
+            "reactions": {
+                "likes": 64,
+                "laughs": 17
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 8614
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "02903c05-d067-42bf-b42f-ca6cdfdd0fda",
+            "impressions": 9154,
+            "reach": 2102
+        },
+        "Taxa de Engajamento": {
+            "likes": 811,
+            "comments": 124,
+            "shares": 187,
+            "saves": 61
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 164,
+                "Female_18-24": 387,
+                "Male_25-34": 324,
+                "Female_25-34": 263,
+                "Male_35-44": 419,
+                "Female_35-44": 315
+            },
+            "audience_country": {
+                "USA": 1843,
+                "Brazil": 1376,
+                "India": 1416,
+                "Germany": 828
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "e68d4417-5b0f-4ccb-95e6-1a06dcf402c0",
+            "campaign_name": "rem",
+            "impressions": 8110,
+            "clicks": 568,
+            "spend": 245.07,
+            "actions": {
+                "conversions": 79,
+                "leads": 45
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "baaafa8f-97b6-47dc-9bb9-68b592318c17",
+            "impressions": 2482,
+            "reach": 2541,
+            "link_clicks": 75,
+            "replies": 39
+        },
+        "Mensagens Diretas": {
+            "message_id": "0829ee83-5d1c-4bff-b30d-1beecfefea74",
+            "receiver_id": "142684aa-fff3-4d4e-bbbe-2ee316cffa89",
+            "message": "Gostaria de mais informações sobre os eventos culturais que vão acontecer na cidade.",
+            "reactions": {
+                "likes": 69,
+                "laughs": 29
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 3076
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "9b2276b1-07bf-4942-9a1c-47efea5567bf",
+            "impressions": 4327,
+            "reach": 2339
+        },
+        "Taxa de Engajamento": {
+            "likes": 355,
+            "comments": 192,
+            "shares": 179,
+            "saves": 129
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 402,
+                "Female_18-24": 378,
+                "Male_25-34": 288,
+                "Female_25-34": 458,
+                "Male_35-44": 339,
+                "Female_35-44": 495
+            },
+            "audience_country": {
+                "USA": 3761,
+                "Brazil": 1187,
+                "India": 2284,
+                "Germany": 837
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "d18f1fc8-ec1a-40d6-a36d-c859ddea07a8",
+            "campaign_name": "iure",
+            "impressions": 1848,
+            "clicks": 527,
+            "spend": 372.38,
+            "actions": {
+                "conversions": 93,
+                "leads": 41
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "41c87f92-5a9b-4b1e-89a4-de3118fed9c9",
+            "impressions": 1842,
+            "reach": 3154,
+            "link_clicks": 95,
+            "replies": 39
+        },
+        "Mensagens Diretas": {
+            "message_id": "b767d812-58e7-4186-9a58-9d47e3129697",
+            "receiver_id": "9aff9097-2062-4b9b-80d4-7a6a802568a5",
+            "message": "Gostaria de mais atualizações sobre o trânsito em Caruaru, principalmente nos horários de pico.",
+            "reactions": {
+                "likes": 11,
+                "laughs": 43
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 7247
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "de77aa49-6a9c-476b-952e-0637a53d4b0b",
+            "impressions": 6280,
+            "reach": 1250
+        },
+        "Taxa de Engajamento": {
+            "likes": 151,
+            "comments": 55,
+            "shares": 150,
+            "saves": 55
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 149,
+                "Female_18-24": 247,
+                "Male_25-34": 380,
+                "Female_25-34": 171,
+                "Male_35-44": 186,
+                "Female_35-44": 282
+            },
+            "audience_country": {
+                "USA": 4286,
+                "Brazil": 1200,
+                "India": 2105,
+                "Germany": 245
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "82e7bfab-85f8-43a5-ae39-746ed9de5ebc",
+            "campaign_name": "inventore",
+            "impressions": 1108,
+            "clicks": 316,
+            "spend": 128.92,
+            "actions": {
+                "conversions": 45,
+                "leads": 6
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "3df25ccd-1356-4924-b30c-44e43d5bb1bb",
+            "impressions": 3032,
+            "reach": 2109,
+            "link_clicks": 86,
+            "replies": 3
+        },
+        "Mensagens Diretas": {
+            "message_id": "4c8cb53a-1b24-432e-95f8-38aab877ef9f",
+            "receiver_id": "5ae512ca-943f-4f8b-87a1-1d772e4b4500",
+            "message": "Gostei muito da cobertura sobre o São João de Caruaru, foi muito informativo!",
+            "reactions": {
+                "likes": 36,
+                "laughs": 18
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 1485
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "1d9bca28-be65-401a-ab1d-dacdb09412c8",
+            "impressions": 3813,
+            "reach": 4661
+        },
+        "Taxa de Engajamento": {
+            "likes": 418,
+            "comments": 311,
+            "shares": 189,
+            "saves": 41
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 169,
+                "Female_18-24": 460,
+                "Male_25-34": 464,
+                "Female_25-34": 426,
+                "Male_35-44": 263,
+                "Female_35-44": 436
+            },
+            "audience_country": {
+                "USA": 2852,
+                "Brazil": 2259,
+                "India": 1689,
+                "Germany": 760
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "e0534d4e-cee8-4687-8bac-2b68a05559ed",
+            "campaign_name": "architecto",
+            "impressions": 6399,
+            "clicks": 342,
+            "spend": 138.84,
+            "actions": {
+                "conversions": 79,
+                "leads": 15
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "70629d8c-6bf5-4f80-a66d-07a03030a3bb",
+            "impressions": 9331,
+            "reach": 1013,
+            "link_clicks": 198,
+            "replies": 9
+        },
+        "Mensagens Diretas": {
+            "message_id": "664e49d9-751b-4cb8-a15a-064423d1c360",
+            "receiver_id": "1c01fa1c-19c1-4b71-ac6a-0670aac352fc",
+            "message": "O que vocês acharam da recente mudança no comércio local? Deixe-nos saber.",
+            "reactions": {
+                "likes": 36,
+                "laughs": 43
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 8936
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "c9f6521d-a68f-4fdb-af26-5cc7305ff1a8",
+            "impressions": 5463,
+            "reach": 3326
+        },
+        "Taxa de Engajamento": {
+            "likes": 522,
+            "comments": 340,
+            "shares": 53,
+            "saves": 81
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 349,
+                "Female_18-24": 472,
+                "Male_25-34": 367,
+                "Female_25-34": 155,
+                "Male_35-44": 413,
+                "Female_35-44": 142
+            },
+            "audience_country": {
+                "USA": 1637,
+                "Brazil": 1330,
+                "India": 958,
+                "Germany": 902
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "81cd3981-5a34-4497-b188-7ffe5a6b7ac6",
+            "campaign_name": "amet",
+            "impressions": 3869,
+            "clicks": 560,
+            "spend": 243.98,
+            "actions": {
+                "conversions": 24,
+                "leads": 50
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "241e7029-4723-46fe-ab2e-662308e474de",
+            "impressions": 8264,
+            "reach": 3498,
+            "link_clicks": 180,
+            "replies": 42
+        },
+        "Mensagens Diretas": {
+            "message_id": "8bbdd183-7274-41db-b929-e04f04a78635",
+            "receiver_id": "e88bd1e6-0ce8-40ab-887a-8c722381b54d",
+            "message": "Gostaria de mais informações sobre os eventos culturais que vão acontecer na cidade.",
+            "reactions": {
+                "likes": 43,
+                "laughs": 9
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 5052
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "207f5b09-aee4-4caa-8c6b-574477b8f0ae",
+            "impressions": 8079,
+            "reach": 3719
+        },
+        "Taxa de Engajamento": {
+            "likes": 899,
+            "comments": 337,
+            "shares": 87,
+            "saves": 46
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 353,
+                "Female_18-24": 190,
+                "Male_25-34": 210,
+                "Female_25-34": 295,
+                "Male_35-44": 237,
+                "Female_35-44": 343
+            },
+            "audience_country": {
+                "USA": 1470,
+                "Brazil": 569,
+                "India": 2223,
+                "Germany": 312
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "eca1c50c-dea6-4ec8-8ae0-c3d7444ef147",
+            "campaign_name": "ducimus",
+            "impressions": 1402,
+            "clicks": 261,
+            "spend": 365.97,
+            "actions": {
+                "conversions": 85,
+                "leads": 19
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "a1eed28b-0364-401f-b179-491bc6548c0b",
+            "impressions": 6971,
+            "reach": 4483,
+            "link_clicks": 110,
+            "replies": 41
+        },
+        "Mensagens Diretas": {
+            "message_id": "0ab78139-be45-4d0f-8b90-fe8104ab01ef",
+            "receiver_id": "02c27dfa-e4fa-43bf-924f-563486beef59",
+            "message": "Gostei muito da cobertura sobre o São João de Caruaru, foi muito informativo!",
+            "reactions": {
+                "likes": 46,
+                "laughs": 22
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 3801
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "78f0d37f-f031-49ec-a8c8-80d15cc1b05f",
+            "impressions": 8776,
+            "reach": 2341
+        },
+        "Taxa de Engajamento": {
+            "likes": 410,
+            "comments": 369,
+            "shares": 81,
+            "saves": 92
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 267,
+                "Female_18-24": 112,
+                "Male_25-34": 105,
+                "Female_25-34": 175,
+                "Male_35-44": 442,
+                "Female_35-44": 186
+            },
+            "audience_country": {
+                "USA": 3678,
+                "Brazil": 2296,
+                "India": 785,
+                "Germany": 819
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "4e5eace2-d3e3-470a-a892-a52dcee684ca",
+            "campaign_name": "hic",
+            "impressions": 2206,
+            "clicks": 201,
+            "spend": 290.62,
+            "actions": {
+                "conversions": 26,
+                "leads": 40
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "7bf04a97-7d9e-4697-baf5-dd5cebe46984",
+            "impressions": 1429,
+            "reach": 1315,
+            "link_clicks": 178,
+            "replies": 22
+        },
+        "Mensagens Diretas": {
+            "message_id": "a62754a4-09b7-4b87-be60-5f330461bea5",
+            "receiver_id": "3a084a67-6811-46b7-b762-34f49d732cdb",
+            "message": "Achei interessante a notícia sobre a nova praça no bairro X, obrigado por compartilhar.",
+            "reactions": {
+                "likes": 29,
+                "laughs": 25
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 2419
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "566f0934-8573-4737-bf2b-aaca6b6ac5a4",
+            "impressions": 1366,
+            "reach": 644
+        },
+        "Taxa de Engajamento": {
+            "likes": 549,
+            "comments": 495,
+            "shares": 177,
+            "saves": 138
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 469,
+                "Female_18-24": 197,
+                "Male_25-34": 462,
+                "Female_25-34": 325,
+                "Male_35-44": 430,
+                "Female_35-44": 161
+            },
+            "audience_country": {
+                "USA": 4525,
+                "Brazil": 1998,
+                "India": 2615,
+                "Germany": 387
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "c9d34aef-e015-4806-b3fc-39c1ee451ee9",
+            "campaign_name": "corrupti",
+            "impressions": 1197,
+            "clicks": 296,
+            "spend": 300.65,
+            "actions": {
+                "conversions": 41,
+                "leads": 23
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "7216d8e8-2322-4aeb-a54c-9b5a0c202e77",
+            "impressions": 9449,
+            "reach": 751,
+            "link_clicks": 69,
+            "replies": 15
+        },
+        "Mensagens Diretas": {
+            "message_id": "06fe6858-0049-4760-b87e-49d910303fe6",
+            "receiver_id": "cddfe149-7ac7-40d8-8818-a37dd7599ca2",
+            "message": "A matéria sobre as melhorias nas escolas de Caruaru foi muito bem-vinda, espero mais sobre o tema.",
+            "reactions": {
+                "likes": 63,
+                "laughs": 48
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 4526
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "e994a00d-ee0d-4b52-8208-6cca1ca2eee4",
+            "impressions": 3715,
+            "reach": 3986
+        },
+        "Taxa de Engajamento": {
+            "likes": 324,
+            "comments": 150,
+            "shares": 81,
+            "saves": 126
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 330,
+                "Female_18-24": 401,
+                "Male_25-34": 399,
+                "Female_25-34": 337,
+                "Male_35-44": 311,
+                "Female_35-44": 109
+            },
+            "audience_country": {
+                "USA": 3569,
+                "Brazil": 693,
+                "India": 1702,
+                "Germany": 694
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "b6dc7b21-5961-4ac5-b41d-de83657445b6",
+            "campaign_name": "explicabo",
+            "impressions": 4830,
+            "clicks": 571,
+            "spend": 54.33,
+            "actions": {
+                "conversions": 26,
+                "leads": 36
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "0c31498a-1138-4b0c-a8ce-6a8ca47650ea",
+            "impressions": 1382,
+            "reach": 3339,
+            "link_clicks": 123,
+            "replies": 7
+        },
+        "Mensagens Diretas": {
+            "message_id": "329af8e6-4368-4cc2-8291-e76c2e0b2e4f",
+            "receiver_id": "a1b11b17-9f67-4c10-afb0-ec530e2231bd",
+            "message": "A matéria sobre as melhorias nas escolas de Caruaru foi muito bem-vinda, espero mais sobre o tema.",
+            "reactions": {
+                "likes": 15,
+                "laughs": 41
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 8835
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "036c2a27-bfc1-4447-b843-e6e3e8824e0b",
+            "impressions": 9982,
+            "reach": 2609
+        },
+        "Taxa de Engajamento": {
+            "likes": 358,
+            "comments": 107,
+            "shares": 63,
+            "saves": 68
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 255,
+                "Female_18-24": 499,
+                "Male_25-34": 494,
+                "Female_25-34": 390,
+                "Male_35-44": 149,
+                "Female_35-44": 261
+            },
+            "audience_country": {
+                "USA": 1549,
+                "Brazil": 1733,
+                "India": 2349,
+                "Germany": 688
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "856e32f4-ab01-4929-9519-bb8d50c4e7dd",
+            "campaign_name": "corporis",
+            "impressions": 2813,
+            "clicks": 510,
+            "spend": 122.87,
+            "actions": {
+                "conversions": 23,
+                "leads": 15
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "33a95f20-6645-45a5-b622-d75271d0222c",
+            "impressions": 6357,
+            "reach": 1539,
+            "link_clicks": 186,
+            "replies": 35
+        },
+        "Mensagens Diretas": {
+            "message_id": "9c7023d7-437d-4bfe-8ac9-64c771179fc2",
+            "receiver_id": "a583e47d-fe60-48a4-9e10-194c834988e6",
+            "message": "Por favor, façam uma reportagem sobre as novas empresas que estão abrindo em Caruaru.",
+            "reactions": {
+                "likes": 0,
+                "laughs": 15
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 6193
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "3a25e736-1388-4ea4-a952-673476b1846b",
+            "impressions": 7265,
+            "reach": 1790
+        },
+        "Taxa de Engajamento": {
+            "likes": 314,
+            "comments": 328,
+            "shares": 66,
+            "saves": 116
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 433,
+                "Female_18-24": 180,
+                "Male_25-34": 158,
+                "Female_25-34": 254,
+                "Male_35-44": 251,
+                "Female_35-44": 338
+            },
+            "audience_country": {
+                "USA": 4898,
+                "Brazil": 2466,
+                "India": 774,
+                "Germany": 494
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "19614bd9-207a-46a3-8738-385edd35b208",
+            "campaign_name": "nulla",
+            "impressions": 3382,
+            "clicks": 699,
+            "spend": 355.88,
+            "actions": {
+                "conversions": 78,
+                "leads": 42
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "89a4c9ec-43eb-4933-afb6-6d673cc14b14",
+            "impressions": 7558,
+            "reach": 3186,
+            "link_clicks": 186,
+            "replies": 33
+        },
+        "Mensagens Diretas": {
+            "message_id": "1a64fc27-cc92-4c01-abc0-30b2b29d87c2",
+            "receiver_id": "a2cc7db4-7003-42d7-bf42-4125dcb65ccc",
+            "message": "Adorei a entrevista com o prefeito sobre os novos projetos para a cidade.",
+            "reactions": {
+                "likes": 62,
+                "laughs": 20
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 9513
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "d6dbecc4-ea94-4e7b-8500-2b146a07b0b8",
+            "impressions": 1516,
+            "reach": 4858
+        },
+        "Taxa de Engajamento": {
+            "likes": 272,
+            "comments": 338,
+            "shares": 120,
+            "saves": 84
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 228,
+                "Female_18-24": 267,
+                "Male_25-34": 416,
+                "Female_25-34": 344,
+                "Male_35-44": 335,
+                "Female_35-44": 398
+            },
+            "audience_country": {
+                "USA": 4490,
+                "Brazil": 2980,
+                "India": 983,
+                "Germany": 823
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "2bc6f001-092a-44cb-9e59-a37c79d9456f",
+            "campaign_name": "atque",
+            "impressions": 3157,
+            "clicks": 971,
+            "spend": 59.43,
+            "actions": {
+                "conversions": 12,
+                "leads": 9
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "c0057064-d680-42f8-a618-15ef408d44a8",
+            "impressions": 9422,
+            "reach": 1158,
+            "link_clicks": 168,
+            "replies": 47
+        },
+        "Mensagens Diretas": {
+            "message_id": "6071292c-5f60-481e-a3cf-f3c9a2d24bec",
+            "receiver_id": "ec870497-ab3f-4869-8c9d-1aa39ed34afb",
+            "message": "Agradeço pela cobertura das eleições municipais, ajudou bastante.",
+            "reactions": {
+                "likes": 69,
+                "laughs": 50
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 1211
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "83b33d42-06bf-438e-93d1-19bb49c3cd1d",
+            "impressions": 9493,
+            "reach": 515
+        },
+        "Taxa de Engajamento": {
+            "likes": 717,
+            "comments": 280,
+            "shares": 73,
+            "saves": 86
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 275,
+                "Female_18-24": 406,
+                "Male_25-34": 115,
+                "Female_25-34": 361,
+                "Male_35-44": 207,
+                "Female_35-44": 470
+            },
+            "audience_country": {
+                "USA": 4916,
+                "Brazil": 2482,
+                "India": 1102,
+                "Germany": 924
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "9952d598-75c6-45e7-8196-4bf8d275a4c5",
+            "campaign_name": "neque",
+            "impressions": 9869,
+            "clicks": 907,
+            "spend": 312.35,
+            "actions": {
+                "conversions": 46,
+                "leads": 41
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "13db0ed7-c1b0-4b7e-bddb-fa11a9d17c97",
+            "impressions": 2008,
+            "reach": 4730,
+            "link_clicks": 107,
+            "replies": 41
+        },
+        "Mensagens Diretas": {
+            "message_id": "22227cdf-2aca-4f96-a02a-dd19783e7948",
+            "receiver_id": "fcb988e4-3fb7-44d4-858c-2792c3e22169",
+            "message": "Estou ansioso para as próximas atualizações sobre o festival de música de Caruaru.",
+            "reactions": {
+                "likes": 1,
+                "laughs": 29
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 6346
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "58c1084c-4230-405d-8e30-11871cc596e3",
+            "impressions": 3043,
+            "reach": 3378
+        },
+        "Taxa de Engajamento": {
+            "likes": 962,
+            "comments": 313,
+            "shares": 163,
+            "saves": 148
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 319,
+                "Female_18-24": 431,
+                "Male_25-34": 417,
+                "Female_25-34": 278,
+                "Male_35-44": 109,
+                "Female_35-44": 464
+            },
+            "audience_country": {
+                "USA": 2480,
+                "Brazil": 1809,
+                "India": 2571,
+                "Germany": 869
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "91cbb7d1-1130-4968-80d0-3ac0445cac7f",
+            "campaign_name": "unde",
+            "impressions": 6118,
+            "clicks": 200,
+            "spend": 287.88,
+            "actions": {
+                "conversions": 94,
+                "leads": 14
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "69f56c0a-3c58-4844-b944-1fbcda672092",
+            "impressions": 4944,
+            "reach": 1671,
+            "link_clicks": 54,
+            "replies": 23
+        },
+        "Mensagens Diretas": {
+            "message_id": "b31c3e8b-7762-4bfc-8302-4444cce32ff1",
+            "receiver_id": "a3874827-4222-4298-9539-b092cf399374",
+            "message": "A matéria sobre as melhorias nas escolas de Caruaru foi muito bem-vinda, espero mais sobre o tema.",
+            "reactions": {
+                "likes": 82,
+                "laughs": 28
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 6278
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "796d05c8-ab96-45f9-abd1-883fe2efa80d",
+            "impressions": 3462,
+            "reach": 4130
+        },
+        "Taxa de Engajamento": {
+            "likes": 405,
+            "comments": 344,
+            "shares": 133,
+            "saves": 34
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 419,
+                "Female_18-24": 485,
+                "Male_25-34": 473,
+                "Female_25-34": 370,
+                "Male_35-44": 496,
+                "Female_35-44": 347
+            },
+            "audience_country": {
+                "USA": 2008,
+                "Brazil": 684,
+                "India": 2722,
+                "Germany": 472
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "abcbc7fa-bea4-48ac-8893-3416e29bf4b0",
+            "campaign_name": "sint",
+            "impressions": 5887,
+            "clicks": 180,
+            "spend": 250.3,
+            "actions": {
+                "conversions": 29,
+                "leads": 9
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "c1e0af24-a850-4bf3-917f-58989844ef17",
+            "impressions": 6787,
+            "reach": 2644,
+            "link_clicks": 118,
+            "replies": 27
+        },
+        "Mensagens Diretas": {
+            "message_id": "6ca5fef1-10fe-4a6f-b1aa-d22765b5f785",
+            "receiver_id": "bcd5b199-9bbf-4e9b-9b76-7c7fff897fea",
+            "message": "Gostei muito da cobertura sobre o São João de Caruaru, foi muito informativo!",
+            "reactions": {
+                "likes": 48,
+                "laughs": 25
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 3213
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "571c12da-5262-40dc-ab42-47f18425385e",
+            "impressions": 2099,
+            "reach": 4853
+        },
+        "Taxa de Engajamento": {
+            "likes": 104,
+            "comments": 286,
+            "shares": 67,
+            "saves": 9
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 182,
+                "Female_18-24": 159,
+                "Male_25-34": 489,
+                "Female_25-34": 112,
+                "Male_35-44": 214,
+                "Female_35-44": 215
+            },
+            "audience_country": {
+                "USA": 3895,
+                "Brazil": 557,
+                "India": 1731,
+                "Germany": 821
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "1df7a3b8-fdb1-494f-a2a6-e928fdc683d4",
+            "campaign_name": "asperiores",
+            "impressions": 7455,
+            "clicks": 390,
+            "spend": 332.57,
+            "actions": {
+                "conversions": 10,
+                "leads": 7
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "1d9f76c3-4cbc-4be6-b118-7238a36a6625",
+            "impressions": 7132,
+            "reach": 3223,
+            "link_clicks": 141,
+            "replies": 2
+        },
+        "Mensagens Diretas": {
+            "message_id": "0fe1584e-b4a7-4795-ae16-3a027820d878",
+            "receiver_id": "f2c5a0f2-87a8-4b45-84cf-941193ed2e62",
+            "message": "O que vocês acharam da recente mudança no comércio local? Deixe-nos saber.",
+            "reactions": {
+                "likes": 85,
+                "laughs": 2
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 8808
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "cad38adc-f84b-4803-a1af-98617dc04e45",
+            "impressions": 9113,
+            "reach": 1400
+        },
+        "Taxa de Engajamento": {
+            "likes": 797,
+            "comments": 238,
+            "shares": 190,
+            "saves": 138
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 219,
+                "Female_18-24": 371,
+                "Male_25-34": 230,
+                "Female_25-34": 160,
+                "Male_35-44": 413,
+                "Female_35-44": 442
+            },
+            "audience_country": {
+                "USA": 2471,
+                "Brazil": 2004,
+                "India": 2291,
+                "Germany": 143
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "30506cae-d6ab-481a-ab6a-f4235f17ef65",
+            "campaign_name": "mollitia",
+            "impressions": 3672,
+            "clicks": 885,
+            "spend": 421.9,
+            "actions": {
+                "conversions": 65,
+                "leads": 45
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "6708af5a-ca95-4e2e-8cb4-e28e0062d711",
+            "impressions": 1494,
+            "reach": 2022,
+            "link_clicks": 121,
+            "replies": 3
+        },
+        "Mensagens Diretas": {
+            "message_id": "8019f7f7-aea3-42bb-a960-d40735e608f1",
+            "receiver_id": "d681e779-8a7c-425c-89a6-be2f9b118b93",
+            "message": "Acho que seria interessante uma série de matérias sobre os pontos turísticos de Caruaru.",
+            "reactions": {
+                "likes": 21,
+                "laughs": 7
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 9357
+        }
+    },
+    {
+        "Impressoes e Alcance": {
+            "media_id": "1b14a4fe-4630-4516-8c73-900155fdc855",
+            "impressions": 8679,
+            "reach": 2997
+        },
+        "Taxa de Engajamento": {
+            "likes": 783,
+            "comments": 255,
+            "shares": 20,
+            "saves": 118
+        },
+        "Demografia dos Seguidores": {
+            "audience_gender_age": {
+                "Male_18-24": 120,
+                "Female_18-24": 473,
+                "Male_25-34": 326,
+                "Female_25-34": 191,
+                "Male_35-44": 118,
+                "Female_35-44": 207
+            },
+            "audience_country": {
+                "USA": 2806,
+                "Brazil": 1170,
+                "India": 1601,
+                "Germany": 401
+            }
+        },
+        "Dados de Anuncios": {
+            "ad_id": "f48c3c43-9e79-4171-9247-cca5a32b70a4",
+            "campaign_name": "doloribus",
+            "impressions": 6064,
+            "clicks": 288,
+            "spend": 408.29,
+            "actions": {
+                "conversions": 94,
+                "leads": 33
+            }
+        },
+        "Metricas de Stories": {
+            "story_id": "b79b9225-e2b4-4fe6-9162-a02ecc61809e",
+            "impressions": 5387,
+            "reach": 1508,
+            "link_clicks": 153,
+            "replies": 5
+        },
+        "Mensagens Diretas": {
+            "message_id": "1f33273d-a2fb-4247-918c-593f61e36b4b",
+            "receiver_id": "c3cc42bb-64e6-4826-afb8-32cad02595fe",
+            "message": "Gostaria de mais informações sobre os eventos culturais que vão acontecer na cidade.",
+            "reactions": {
+                "likes": 29,
+                "laughs": 36
+            }
+        },
+        "Desempenho de Conteudo": {
+            "video_views": 5192
+        }
+    }
+]
