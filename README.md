@@ -10,3 +10,7 @@ Para iniciar o projeto primeiramente estruturamos um mini servirdo dentro da pla
 Onde nessa camda colocamos toda a nossa base de dados , assim armazendo todos os dados no formado fornecido pela a origem ou coletado pela as nossas ferramentas de coleta de dados.
 
 ![Raw](https://github.com/user-attachments/assets/81a9e580-fc45-454a-ad15-4133c215ff1a)
+
+#### SEGUNDA CAMADA DA ARQUITETURA (Broze):
+Nessa segunda camada onde vamos começar a estruturação dos dados em apenas um tipo de arquivo escolhido pelo o grupo , resolvemos trabalhar com apenas um arquivo central em .CSV , assim nessa camda sentimos a necessidade de automatizar esse processo , para isso desenvolvemos um scrip onde fica responsavel em fazer de forma automaica a reestruturaçao desse formatos para apenas um so arquivo. 
+- AUTOMATIZAÇÃO: 
