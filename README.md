@@ -8,7 +8,7 @@ O projeto **Tele Sena** foi iniciado durante um hackathon com o propósito de re
 
 Para iniciar o desenvolvimento do projeto **Tele Sena**, configuramos inicialmente um ambiente de servidor simples utilizando a infraestrutura do **Google Drive**. Esse servidor nos permitiu organizar e estruturar as camadas de arquitetura necessárias para o projeto. A partir daí, implementamos um pipeline de dados que segue os princípios da **Medallion Architecture**, garantindo que os dados sejam processados e armazenados de forma eficiente e escalável.
 
-## Raspagem de Dados do Instagram
+## Extração e Processamento de Dados do Instagram
 
 Para a coleta de dados, utilizamos a biblioteca **Instaloader**, uma ferramenta robusta e popular para extração de dados do Instagram usando Python. O **Instaloader** permite que os usuários baixem postagens, histórias, perfis, e muito mais, diretamente da plataforma do Instagram. 
 
