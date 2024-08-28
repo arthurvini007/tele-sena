@@ -40,15 +40,9 @@ A qualidade dos dados é garantida em todas as camadas do **lakehouse**:
 - **Camada Prata**: Limpeza de dados e integração para assegurar a consistência e precisão. Realiza-se a remoção de duplicatas e a normalização de valores.
 - **Camada Ouro**: Aplicação de regras de qualidade de dados e transformações finais para garantir que os dados estejam prontos para análise e relatórios avançados. Asseguramos a conformidade com os padrões de qualidade através de verificações rigorosas de completude, consistência e precisão dos dados.
 
-## Desafios e Soluções
-
-Durante o desenvolvimento do projeto **Tele Sena**, enfrentamos diversos desafios, como a integração de dados de múltiplas fontes, a garantia da qualidade dos dados em todas as camadas e a otimização do desempenho de consultas na **Camada Ouro**. Esses desafios foram superados através da utilização de técnicas avançadas de engenharia de dados, como paralelização de processos, uso de frameworks eficientes (como Apache Spark), e implementação de políticas rigorosas de governança de dados.
 
 ## Conclusão
 
 A abordagem utilizando a **Medallion Architecture** permitiu uma gestão eficiente e escalável dos dados no projeto **Tele Sena**, desde a captura inicial de dados na **Camada Bronze**, passando pela integração e limpeza na **Camada Prata**, até a disponibilização de dados otimizados para análise na **Camada Ouro**. Esta arquitetura proporcionou uma base sólida para a tomada de decisões baseada em dados, facilitando o desenvolvimento de soluções analíticas avançadas e o suporte a estratégias de negócios informadas.
 
-## Outras Considerações
-
-Para futuras expansões e melhorias no projeto, sugerimos a inclusão de um glossário técnico para facilitar a compreensão dos termos utilizados e a criação de tutoriais passo a passo para novos colaboradores. Além disso, a utilização de ferramentas de versionamento de documentos pode ajudar a manter a documentação atualizada e consistente ao longo do tempo.
 
